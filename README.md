@@ -18,11 +18,11 @@
 
 <strong>请注意，免费节点可能会泄露个人隐私。对于重度用户，我们建议使用以下机场，这些机场能有效保护个人隐私并解锁流媒体。</strong>
 
-<a href="https://www.xxxlsop.com/#/register?code=1jUnnkCg" target="_blank" rel="noopener"><img class="aligncenter" src="https://www.Clashsilo.com/wp-content/uploads/img/bai1.png" /></a>
+<a href="https://www.xxxlsop.com/#/register?code=1jUnnkCg" target="_blank" rel="noopener"><img class="aligncenter" src="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/assets/164295305/de71d4e2-f3d0-40f9-9203-a72d8520fb40" /></a>
 
 &nbsp;
 
-<a href="https://www.hdycco.xyz/#/register?code=50b0D3FF" target="_blank" rel="noopener"><img class="aligncenter" src="https://www.Clashsilo.com/wp-content/uploads/img/bai2.png" /></a>
+<a href="https://www.hdycco.xyz/#/register?code=50b0D3FF" target="_blank" rel="noopener"><img class="aligncenter" src="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/assets/164295305/88c7ea03-6c4d-49e6-96f6-5d3f738f2bd9" /></a>
 
 <hr />
 
