@@ -293,7 +293,7 @@ Shadowrocket是一款基于iOS平台的网络代理工具，专为移动设备�
 服务质量差：由于免费节点没有盈利模式，提供商通常不会投入过多资源维护和优化节点，导致服务质量无法保障。
 
 <ul>
- 	<li><a href="https://www.xxxlsop.com/#/register?code=MBVuPcXk" target="_blank">稳定、高速、性价比机场推荐[星链]（点击注册）</a></li>
+ 	<li><a href="https://www.xxxlsop.com/#/register?code=EiPdmWvq" target="_blank">稳定、高速、性价比机场推荐[星链]（点击注册）</a></li>
  	<li><a href="https://www.hdycco.xyz/#/register?code=qf4PJxLB" target="_blank" >便宜好用机场推荐[海盗Cloud] （点击注册）</a></li>
 </ul>
 
