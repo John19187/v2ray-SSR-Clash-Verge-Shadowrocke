@@ -45,20 +45,20 @@ ssr://ODUuMTE3LjIzNC4xMDc6MTUwNjI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2daVGx5Lz
 </pre>
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://clashsilo-com.v2ray-clash.top/clash@a/2024-05-30-list-1.yaml</pre>
-<pre>https://clashsilo-com.v2ray-clash.top/clash@b/2024-05-30-list-2.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@a/2024-05-30-list-1.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@b/2024-05-30-list-2.yaml</pre>
 
 ↓备用↓
 
-<pre>https://clashsilo-com.v2ray-clash.top/clash@c/2024-05-30-list-3.yaml</pre>
-<pre>https://clashsilo-com.v2ray-clash.top/clash@d/2024-05-30-list-4.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@c/2024-05-30-list-3.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@d/2024-05-30-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://clashsilo-com.v2ray-clash.top/v2ray@a/2024-05-30-list-1.txt</pre>
-<pre>https://clashsilo-com.v2ray-clash.top/v2ray@b/2024-05-30-list-2.txt</pre>
+<pre>https://dash.ssrtop.com/v2ray@a/2024-05-30-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/v2ray@b/2024-05-30-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://clashsilo-com.v2ray-clash.top/base64/2024-05-30-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/base64/2024-05-30-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://clashsilo-com.v2ray-clash.top/sing-box/2024-05-30-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/sing-box/2024-05-30-list-1.txt</pre>
 
 
 <hr />
