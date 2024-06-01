@@ -1,9 +1,9 @@
-# 2024年5月免费高速（25M/S）v2ray、sing-box、Clash、Verge、SSR、Shadowrocke-小火箭机场节点订阅指南
+# 2024年6月免费高速（23.8M/S）v2ray、sing-box、Clash、Verge、SSR、Shadowrocke-小火箭机场节点订阅指南
 
 
 
 
-时间来到2024年5月，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke
+时间来到2024年6月，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke
 -小火箭等常用的机场节点，帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
 
 网络安全和隐私保护越来越受到用户的重视，使用可靠的机场服务已成为上网必备技能。对于许多用户来说，选择稳定高速的机场节点尤为重要，本次更新共100+免费机场节点，最高速度25M/S。覆盖香港、韩国、法国、美国、新加坡、加拿大、欧洲、日本等多个区域。复制下方的v2ray/Clash订阅链接,在客户端添加即可正常使用，<a href="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/blob/main/README.md" >免费机场节点订阅指南</a>持续更新中，欢迎收藏。
@@ -34,31 +34,31 @@
 <strong>公益节点订阅，每12/24小时更新，提供全网最快最全的免费节点，请复制链接进行更新！</strong>
 
 &nbsp;
-<h2 class="h2h2">SSR免费节点订阅地址- 2024-05-31</h2>
-<pre>ssr://MjEyLjYwLjUuMTgwOjI2MDg3Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTm5SbS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MjEyLjYwLjUuODg6MjYwODc6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOblJtLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UWcmZ3JvdXA9VEc1amJpNXZjbWM
-ssr://MjEyLjYwLjUuMTk2OjI2MDg3Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTm5SbS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MjEyLjYwLjUuMTU2OjI2MDg3Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTm5SbS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MTc2LjMyLjM1LjI0ODoyNjA4NzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05uUm0vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTUSZncm91cD1URzVqYmk1dmNtYw
-ssr://MTg1LjIyLjE1NS4xODoyNjA4NzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05uUm0vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTZyZncm91cD1URzVqYmk1dmNtYw
-ssr://MTc2LjMyLjM1LjE1NjoyNjA4NzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05uUm0vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTdyZncm91cD1URzVqYmk1dmNtYw
+<h2 class="h2h2">SSR免费节点订阅地址- 2024-06-01</h2>
+<pre>ssr://MjEyLjYwLjUuMTgwOjI2MjA1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTjJRMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
+ssr://MjEyLjYwLjUuODg6MjYyMDU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOMlEyLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UWcmZ3JvdXA9VEc1amJpNXZjbWM
+ssr://MjEyLjYwLjUuMTk2OjI2MjA1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTjJRMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j
+ssr://MjEyLjYwLjUuMTU2OjI2MjA1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTjJRMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j
+ssr://MTc2LjMyLjM1LjI0ODoyNjIwNTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ04yUTIvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTUSZncm91cD1URzVqYmk1dmNtYw
+ssr://MTg1LjIyLjE1NS4xODoyNjIwNTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ04yUTIvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTZyZncm91cD1URzVqYmk1dmNtYw
+ssr://MTc2LjMyLjM1LjE1NjoyNjIwNTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ04yUTIvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTdyZncm91cD1URzVqYmk1dmNtYw
 </pre>
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://dash.ssrtop.com/clash@a/2024-05-31-list-1.yaml</pre>
-<pre>https://dash.ssrtop.com/clash@b/2024-05-31-list-2.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@a/2024-06-01-list-1.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@b/2024-06-01-list-2.yaml</pre>
 
 ↓备用↓
 
-<pre>https://dash.ssrtop.com/clash@c/2024-05-31-list-3.yaml</pre>
-<pre>https://dash.ssrtop.com/clash@d/2024-05-31-list-4.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@c/2024-06-01-list-3.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@d/2024-06-01-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://dash.ssrtop.com/v2ray@a/2024-05-31-list-1.txt</pre>
-<pre>https://dash.ssrtop.com/v2ray@b/2024-05-31-list-2.txt</pre>
+<pre>https://dash.ssrtop.com/v2ray@a/2024-06-01-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/v2ray@b/2024-06-01-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://dash.ssrtop.com/base64/2024-05-31-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/base64/2024-06-01-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://dash.ssrtop.com/sing-box/2024-05-31-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/sing-box/2024-06-01-list-1.txt</pre>
 
 
 <hr />
@@ -68,209 +68,228 @@ ssr://MTc2LjMyLjM1LjE1NjoyNjA4NzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05uUm0vP2
 <h2 class="h2h2">2024年5月免费节点订阅开源</h2>
 <pre>此仅作为参考，订阅链接从上方获取↑</pre>
 <h3 class="h3h3">clash订阅开源节选</h3>
-<pre> type: load-balance
-  url: https://www.google.com/
-- interval: 300
-  name: ♻ 自动选择
-  proxies: *id001
-  type: fallback
-  url: https://www.google.com/
-- interval: 300
-  name: 🔰 延迟最低
-  proxies: *id001
-  tolerance: 20
-  type: url-test
-  url: https://www.google.com/
-- name: ✅ 手动选择
-  proxies: *id001
-  type: select
-- name: 🌐 突破锁区
-  proxies:
-  - DIRECT
-  - 🚀 选择代理
-  type: select
-- name: 🐟 漏网之鱼
-  proxies:
-  - 🚀 选择代理
-  - DIRECT
-  type: select
-- name: ⛔ 广告拦截
-  proxies:
-  - REJECT
-  - DIRECT
-  - 🚀 选择代理
-  type: select
-- name: 🗺️ 选择地区
-  proxies:
-  - 🇯🇵 日本
-  - 🇺🇸 美国
-  - 🇨🇳 中国
-  - 🇭🇰 香港
-  - ❔ 台湾
-  - 🇨🇦 加拿大
-  - 🇫🇷 法国
-  - 🇸🇬 新加坡
-  type: select
-- interval: 300
-  name: 🇯🇵 日本
-  proxies:
-  - 5|🇯🇵 日本|@ripaojiedian
-  - 5|🇯🇵 日本2|@ripaojiedian
-  - 5,6|日本3|@ripaojiedian
-  - 5|🇯🇵 日本4|@ripaojiedian
-  - 5|🇯🇵 日本特殊|@ripaojiedian
-  - 6|日本2|@ripaojiedian
-  - 6|日本4|@ripaojiedian
-  tolerance: 20
-  type: url-test
-  url: https://www.google.com/
-- interval: 300
-  name: 🇺🇸 美国
-  proxies:
-  - 5|🇺🇸 美国|@ripaojiedian
-  - 5|🇺🇸 美国5|@ripaojiedian
-  - 5|🇺🇸 美国4|@ripaojiedian
-  - 9|baipaovpn美国
-  - '9|baipaovpn美国 #1'
-  - '9|baipaovpn美国 #2'
-  - 10|🇺🇸_US_美国_2_9
-  - 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_8
-  - 10|🇺🇸_US_美国-&gt;🇩🇪_DE_德国_2_由快嘴科技提供：k...
-  - 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_16
-  - 10|🇺🇸_US_美国_2_由快嘴科技提供：kkzui.com8
-  tolerance: 20
-  type: url-test
-  url: https://www.google.com/
-- interval: 300
-  name: 🇨🇳 中国
-  proxies:
-  - 9|baipaovpn广东省广州市
-  tolerance: 20
-  type: url-test
-  url: https://www.google.com/
-- interval: 300
-  name: 🇭🇰 香港
-  proxies:
-  - 5|🇭🇰 香港|@ripaojiedian
-  - 5,6|香港2|@ripaojiedian
-  - 5|🇭🇰 香港3|@ripaojiedian
-  - 5|🇭🇰 香港4|@ripaojiedian
-  - 5,6|香港5|@ripaojiedian
-  - 5|🇭🇰 香港6|@ripaojiedian
-  - 5,6|香港7|@ripaojiedian
-  - 5|🇭🇰 香港8|@ripaojiedian
-  - 5,6|香港9|@ripaojiedian
-  - 6|香港|@ripaojiedian
-  - '6,9|baipaovpn广东省广州市 #1'
-  - 6|香港6|@ripaojiedian
-  - 6|香港8|@ripaojiedian
-  tolerance: 20
-  type: url-test
-  url: https://www.google.com/
-- interval: 300
-  name: ❔ 台湾
-  proxies:
-  - 5|🇹🇼 台湾|@ripaojiedian
-  - 6|台湾|@ripaojiedian
-  tolerance: 20
-  type: url-test
-  url: https://www.google.com/
-- interval: 300
-  name: 🇨🇦 加拿大
-  proxies:
-  - REJECT
-  tolerance: 20
-  type: url-test
-  url: https://www.google.com/
-- interval: 300
-  name: 🇫🇷 法国
-  proxies:
-  - REJECT
-  tolerance: 20
-  type: url-test
-  url: https://www.google.com/
-- interval: 300
-  name: 🇸🇬 新加坡
-  proxies:
-  - 5,6|新加坡2|@ripaojiedian
-  - 5|🇸🇬 狮城特殊|@ripaojiedian
-  tolerance: 20
-  type: url-test
-  url: https://www.google.com/</pre>
-<h3 class="h3h3">v2ray订阅开源节选</h3>
-<pre>vmess://eyJ2IjoiMiIsInBzIjoi5bm/5Lic55yBIOenu+WKqCIsImFkZCI6Im0uY25tamluLm5ldCIsInBvcnQiOiIxNjYzMiIsInR5cGUiOiJub25lIiwiaWQiOiIyYjhjZmI3Yi1kM2U3LTQ1MjUtODQxOC1lMTNhOWI4ZmQ3M2IiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJkY2VmMjc4MjMzNDM0YTE1YzM1ODdlZjk5OGRkMTE5ZC5tb2Jnc2xiLnRiY2FjaGUuY29tIiwidGxzIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi5bm/5Lic55yB5rGV5aS05biCIOenu+WKqCIsImFkZCI6IjE4My4yNDAuMTc5LjE5NSIsInBvcnQiOiIxNTYwMSIsInR5cGUiOiJub25lIiwiaWQiOiJhYWFhYWFhYS1hYWFhLWFhYWEtYWFhYS1kYWFhYWFhYWFhYWQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi5bm/5Lic55yB5rGV5aS05biCIOenu+WKqCIsImFkZCI6IjE4My4yNDAuMTc5LjE5NSIsInBvcnQiOiIxNTYwMyIsInR5cGUiOiJub25lIiwiaWQiOiJhYWFhYWFhYS1hYWFhLWFhYWEtYWFhYS1kYWFhYWFhYWFhYWQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgX0NBX+WKoOaLv+WkpyIsImFkZCI6IjEwOC4xODEuMTAuMTciLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDc0ZTg2ODAtNzAxZi0xMWVlLWI0MzYtMjA1YzZkNWY1ZDc4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=</pre>
-<h3 class="h3h3">base64订阅开源节选</h3>
-<pre class="corepress-code-pre">country: US
-  http-opts: {}
-  password: wjTugX3ZtHMB9c3Z
-  server: 172.67.199.185
-  h2-opts: {}
-  password: wfLC2y7rzZyCmuyt
-  password: ZpNDDKRu9MagNvaf
-  h2-opts: {}
-  udp: true
+<pre>  name: 10|🇺🇸_US_美国->🇩🇪_DE_德国_3_由快嘴科技提供：k.com.
+  port: '9059'
+  port: '9046'
   type: vmess
+  port: 15603
+  skip-cert-verify: true
+  type: ssr
+- alterId: 0
+  obfs: plain
+  name: 0|-MrXbin-11
+  server: 120.232.240.38
+  name: 3|IHwzMC4zOE1i
+  name: 0|-MrXbin-52
+  - 0|-MrXbin-270
+  name: 0|-MrXbin-57
+  http-opts: {}
+  name: 0|-MrXbin-1
+  password: JdmRK9gMEqFgs8nP
+  name: 0|-MrXbin-31
+  - 0|-MrXbin-109
+  password: amazonskr05
   cipher: auto
-  name: 0|-MrXbin-6
-  server: 183.240.179.195
-  protocol: origin
-  port: 9094
-  server: 103.172.116.94
-  password: a3GFYt36Sm82Vys9
-  uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad
-  protocol-param: ''
-    path: /1IKYjV0r/
-  server: cfcdn1.sanfencdn9.com
-  port: 9080
-  udp: true
-  type: ss
-  type: trojan
-  name: 0|-MrXbin-3
-  ws-opts:
-  - 0|-MrXbin-73
-  server: 103.172.116.79
-  server: 172.67.214.33
-  tfo: false
-  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
-  name: 5|🇭🇰 香港KT|@ripaojiedian
-  server: 183.232.199.61
-  password: NewBypasser2023
-  port: '2052'
-  type: ss
-  protocol: origin
-  cipher: auto
-  name: 0|-MrXbin-30
-  - 5|🇺🇸 美国|@ripaojiedian
-  udp: true
-  cipher: auto
-  type: ss
-  name: 0,10|🇺🇸_US_美国_6_22
-- alterId: 64
-  server: 183.240.179.195
-  tolerance: 20
-  tls: false
-  skip-cert-verify: false
-  tls: false
-  type: url-test
-  - 3|IHwzMC4zME1i
-  port: 9001
-  - 6|香港6|@ripaojiedian
-  ws-opts:
-  servername: us2-vmess.sshmax.xyz
   network: tcp
-  tfo: false
+  url: https://www.google.com/
+  obfs: tls1.2_ticket_auth
+  port: 443
+  http-opts: {}
+    path: /
+  - 0|-MrXbin-68
+  - 5,6|香港9|@ripaojiedian
+  network: ws
+  port: 15603
+  obfs: plain
+    path: /linkvws
+      HOST: onea.flha.ru
+- cipher: aes-256-cfb
+  server: 103.172.116.94
+  protocol: origin
+  obfs: plain
+  - {name: 🇯🇵 日本, type: select, proxies: [DIRECT]}
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TWpGaFlqVmpaREU0WmpCaE16YzBaRFZoTkRSbFpXRmtZekE0TURCbU16WT06WlRrMVl6bGpaRFV0TkRsaFpDMDBaREUzTFRrd056Y3RaakU1TW1ZellUST0@t6-hk.bilivideo.click:11602#%5Bss%5D%E9%A6%99%E6%B8%AF02
+  name: 9|baipaovpn韩国
+    headers:
+  type: trojan
+  password: gYCYXfkUQEs2TaJQ
+- alterId: 0
+  port: 9060
+- cipher: aes-256-cfb
+    path: /
+    headers:
+  name: 5,6|印度|@ripaojiedian
+  proxies:
+  port: '8880'
+  - 0|-MrXbin-177
+  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
 - cipher: aes-256-cfb
   type: ss
-  - 5|🇯🇵 日本2|@ripaojiedian
-    
-  name: 0|-MrXbin-113
+  country: US
+  server: 103.172.116.103
+  udp: true
+  type: ss
+  tls: false
+  servername: oiictw.yydsii.com
+  port: 443
+  name: 0|-MrXbin-115
+  ws-opts:
+    headers:
+  name: 0|-MrXbin-110
+    headers:
+  type: vmess
+  - 5,6,10|🇺🇸_US_美国_2_由快嘴科技提供：kkzui.com2
+  - 5,6|印度|@ripaojiedian
+  type: vmess
+  - 3|IHwyOS42M01i
+  name: 10|🇺🇸_US_美国->🇩🇪_DE_德国_3_由快嘴科技提供：k.com.
+  - {name: "[VMess] 🇨🇦 加拿大 009", server: 104.19.45.56, port: 2095, type: vmess, uuid: 7a737f41-b792-4260-94ff-3d864da67b80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: onea.flha.ru}}, udp: true}
+  server: 103.172.116.94
+  obfs: plain
   type: url-test
-  tolerance: 20
-  - 3|IHwzMC41Nk1i
-  name: 🇨🇦 加拿大</pre>
+  name: 0|-MrXbin-111
+  type: ss
+  password: U6qnYRhfyDmn8sgn
+  server: 103.172.116.103
+- alterId: 0
+  - 3|IHwyOS42M01i
+  server: 103.172.116.79
+  uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad
+  - 0|-MrXbin-113
+  port: 443
+  - 5|🇭🇰 香港4|@ripaojiedian
+  servername: oiictw.yydsii.com
+  protocol: origin
+  port: 2052
+  - 3|IHwyOC45OU1i
+  - 0|-MrXbin-107</pre>
+<h3 class="h3h3">v2ray订阅开源节选</h3>
+<pre>
+vmess://eyJ2IjoiMiIsInBzIjoi5bm/5Lic55yB5rGV5aS05biCIOenu+WKqCIsImFkZCI6IjE4My4yNDAuMTc5LjIwNyIsInBvcnQiOiIzMDEyNyIsInR5cGUiOiJub25lIiwiaWQiOiI1YmQ1ODk5YS00Yjc4LTRkNzUtODU3MC00ZDIxYjQzNDIyYzQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi5bm/5Lic55yB5rGf6Zeo5biCIOenu+WKqCIsImFkZCI6IjEyMC4yMzguMTIyLjI1MCIsInBvcnQiOiIzNDQxNCIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgX0NBX+WKoOaLv+WkpyIsImFkZCI6IjEwOC4xODEuMTAuMTciLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDc0ZTg2ODAtNzAxZi0xMWVlLWI0MzYtMjA1YzZkNWY1ZDc4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+</pre>
+<h3 class="h3h3">base64订阅开源节选</h3>
+<pre class="corepress-code-pre">
+  
+  
+- alterId: 0
+  ws-opts:
+  country: CA
+  h2-opts: {}
+  name: 0|-MrXbin-1
+    path: ''
+- cipher: aes-256-cfb
+  cipher: auto
+  ws-opts:
+  name: 10|🇷🇺_RU_俄罗斯联邦_2由快嘴科技提供：kkzui.com
+  port: 9040
+  tls: false
+  type: vmess
+  tfo: false
+  tfo: false
+  server: 172.67.185.64
+  name: 0|-MrXbin-71
+  server: 172.67.169.90
+- alterId: 0
+  password: amazonskr05
+  plugin: obfs
+  type: ssr
+- alterId: 0
+  name: 3|IHwzMC4zOE1i
+  port: '9014'
+  protocol: origin
+  network: ws
+  uuid: 39ef8f5d-7286-41b0-9c11-c976925d2931
+  country: US
+      Host: helanv6cf.inekokkk.top
+  uuid: a6f3c8fb-259d-498e-b39d-4694bc38e32f
+  name: 0|-MrXbin-125
+  name: 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_8
+      Host: helanv6cf.inekokkk.top
+  obfs: plain
+  name: 0|-MrXbin-19
+  - 6|香港|@ripaojiedian
+  cipher: auto
+  password: daFYagqDdBdA6VTX
+  cipher: auto
+  - 🇨🇦 加拿大
+  cipher: auto
+  server: 8980k6.ceova9qgbqsqmfdy-jp01.my777999.top
+  - 10|🇺🇸_US_美国->🇩🇪_DE_德国_2_20
+  server: 103.172.116.79
+  server: 103.172.116.79
+  type: ss
+  name: 0|-MrXbin-197
+  - 5|🇭🇰 香港4|@ripaojiedian
+  name: 0|-MrXbin-245
+    path: /fdsffgfdgdfgdf
+  port: 443
+  - 3|IHwyOS45Nk1i
+    path: ''
+  skip-cert-verify: false
+  port: 443
+  network: ws
+  protocol: origin
+      Host: in3.wish.ml
+  - 0|-MrXbin-101
+  - 0|-MrXbin-11
+  - 0|-MrXbin-114
+  obfs-param: ''
+  proxies: &id001
+  port: 443
+  ws-opts:
+  password: TNDSJfNv
+  port: 8080
+  - {name: "[VMess] 🇺🇸 _US_美国_4", server: wnd3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wnd3.shabijichang.com}}, udp: true}
+- alterId: 0
+  uuid: 39ef8f5d-7286-41b0-9c11-c976925d2931
+  port: 2095
+    path: /
+  port: '9005'
+  server: 172.67.124.123
+    mux: true
+  server: 104.19.250.15
+  - 10|🇷🇺_RU_俄罗斯联邦_25
+  cipher: auto
+  server: 103.172.116.90
+  type: vmess
+  servername: oiictw.yydsii.com
+  obfs: plain
+  port: 9070
+  password: GeregetR8cvQHzYr
+  - ❔ 台湾
+  - '3|IHwzMC4yMk1i #1'
+  obfs: plain
+  type: ssr
+- alterId: 0
+  type: vmess
+  - 10|🇺🇸_US_美国->🇺🇦_UA_乌克兰_由快嘴科技提供：kk.com.
+  obfs: plain
+  name: 5,6|美国3|@ripaojiedian
+  - 5|🇰🇷 韩国3|@ripaojiedian
+  - 0|-MrXbin-43
+  country: US
+  h2-opts: {}
+  - 5|🇭🇰 香港8|@ripaojiedian
+  skip-cert-verify: true
+  name: 0|-MrXbin-94
+  obfs: plain
+  - 10|🇺🇸_US_美国->🇩🇪_DE_德国_由快嘴科技提供：kkz.com.
+  obfs: plain
+- cipher: aes-256-cfb
+- alterId: 0
+- alterId: 0
+  port: '9000'
+  name: 0|-MrXbin-85
+  name: 0|-MrXbin-244
+  servername: ''
+  tfo: false
+  name: 5,6|韩国|@ripaojiedian
+  cipher: auto
+  protocol: origin  
+  
+  </pre>
 
 &nbsp;
 
@@ -415,9 +434,9 @@ Shadowrocket是一款基于iOS平台的网络代理工具，专为移动设备�
 
 <h2 class="h2h2">免费节点与小火箭账号</h2>
 
-<a href="https://ssrtop.com/232.html" target="_blank" rel="noopener">2024年5月-小火箭共享账号免费获取入口-shadowrocket小火箭机场推荐</a>
+<a href="https://ssrtop.com/232.html" target="_blank" rel="noopener">2024年6月-小火箭共享账号免费获取入口-shadowrocket小火箭机场推荐</a>
 
-<a href="https://ssrtop.com/230.html" target="_blank" rel="noopener">2024年5月-稳定V2ray/Clash/sing-box/SSR/Shadowrocke免费节点订阅链接</a>
+<a href="https://ssrtop.com/230.html" target="_blank" rel="noopener">2024年6月-稳定V2ray/Clash/sing-box/SSR/Shadowrocke免费节点订阅链接</a>
 
 &nbsp;
 
