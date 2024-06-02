@@ -34,9 +34,8 @@
 <strong>公益节点订阅，每12/24小时更新，提供全网最快最全的免费节点，请复制链接进行更新！</strong>
 
 &nbsp;
-<h2 class="h2h2">SSR免费节点订阅地址- 2024-06-01</h2>
-<pre>ssr://MjEyLjYwLjUuMTgwOjI2MjA1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTjJRMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MjEyLjYwLjUuODg6MjYyMDU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOMlEyLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UWcmZ3JvdXA9VEc1amJpNXZjbWM
+<h2 class="h2h2">SSR免费节点订阅地址- 2024-06-02</h2>
+<pre>
 ssr://MjEyLjYwLjUuMTk2OjI2MjA1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTjJRMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j
 ssr://MjEyLjYwLjUuMTU2OjI2MjA1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTjJRMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j
 ssr://MTc2LjMyLjM1LjI0ODoyNjIwNTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ04yUTIvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTUSZncm91cD1URzVqYmk1dmNtYw
@@ -45,20 +44,20 @@ ssr://MTc2LjMyLjM1LjE1NjoyNjIwNTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ04yUTIvP2
 </pre>
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://dash.ssrtop.com/clash@a/2024-06-01-list-1.yaml</pre>
-<pre>https://dash.ssrtop.com/clash@b/2024-06-01-list-2.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@a/2024-06-02-list-1.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@b/2024-06-02-list-2.yaml</pre>
 
 ↓备用↓
 
-<pre>https://dash.ssrtop.com/clash@c/2024-06-01-list-3.yaml</pre>
-<pre>https://dash.ssrtop.com/clash@d/2024-06-01-list-4.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@c/2024-06-02-list-3.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@d/2024-06-02-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://dash.ssrtop.com/v2ray@a/2024-06-01-list-1.txt</pre>
-<pre>https://dash.ssrtop.com/v2ray@b/2024-06-01-list-2.txt</pre>
+<pre>https://dash.ssrtop.com/v2ray@a/2024-06-02-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/v2ray@b/2024-06-02-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://dash.ssrtop.com/base64/2024-06-01-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/base64/2024-06-02-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://dash.ssrtop.com/sing-box/2024-06-01-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/sing-box/2024-06-02-list-1.txt</pre>
 
 
 <hr />
