@@ -34,7 +34,7 @@
 <strong>公益节点订阅，每12/24小时更新，提供全网最快最全的免费节点，请复制链接进行更新！</strong>
 
 &nbsp;
-<h2 class="h2h2">SSR免费节点订阅地址- 2024-06-03</h2>
+<h2 class="h2h2">SSR免费节点订阅地址- 2024-06-04</h2>
 <pre>
 ssr://MjEyLjYwLjUuMTgwOjE3MDUyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT0RsbS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
 ssr://MjEyLjYwLjUuODg6MTcwNTI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPRGxtLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UWcmZ3JvdXA9VEc1amJpNXZjbWM
