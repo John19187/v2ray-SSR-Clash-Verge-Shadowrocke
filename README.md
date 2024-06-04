@@ -36,30 +36,30 @@
 &nbsp;
 <h2 class="h2h2">SSR免费节点订阅地址- 2024-06-03</h2>
 <pre>
-ssr://MjEyLjYwLjUuMTgwOjEzMjA1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTldoMC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MjEyLjYwLjUuODg6MTMyMDU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOV2gwLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UWcmZ3JvdXA9VEc1amJpNXZjbWM
-ssr://MjEyLjYwLjUuMTk2OjEzMjA1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTldoMC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MjEyLjYwLjUuMTU2OjEzMjA1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTldoMC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MTc2LjMyLjM1LjI0ODoxMzIwNTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05XaDAvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTUSZncm91cD1URzVqYmk1dmNtYw
-ssr://MTg1LjIyLjE1NS4xODoxMzIwNTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05XaDAvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTZyZncm91cD1URzVqYmk1dmNtYw
-ssr://MTc2LjMyLjM1LjE1NjoxMzIwNTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05XaDAvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTdyZncm91cD1URzVqYmk1dmNtYw
+ssr://MjEyLjYwLjUuMTgwOjE3MDUyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT0RsbS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
+ssr://MjEyLjYwLjUuODg6MTcwNTI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPRGxtLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UWcmZ3JvdXA9VEc1amJpNXZjbWM
+ssr://MjEyLjYwLjUuMTk2OjE3MDUyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT0RsbS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j
+ssr://MjEyLjYwLjUuMTU2OjE3MDUyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT0RsbS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j
+ssr://MTc2LjMyLjM1LjI0ODoxNzA1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09EbG0vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTUSZncm91cD1URzVqYmk1dmNtYw
+ssr://MTg1LjIyLjE1NS4xODoxNzA1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09EbG0vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTZyZncm91cD1URzVqYmk1dmNtYw
+ssr://MTc2LjMyLjM1LjE1NjoxNzA1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09EbG0vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTdyZncm91cD1URzVqYmk1dmNtYw
 </pre>
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://dash.ssrtop.com/clash@a/2024-06-03-list-1.yaml</pre>
-<pre>https://dash.ssrtop.com/clash@b/2024-06-03-list-2.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@a/2024-06-04-list-1.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@b/2024-06-04-list-2.yaml</pre>
 
 ↓备用↓
 
-<pre>https://dash.ssrtop.com/clash@c/2024-06-03-list-3.yaml</pre>
-<pre>https://dash.ssrtop.com/clash@d/2024-06-03-list-4.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@c/2024-06-04-list-3.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@d/2024-06-04-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://dash.ssrtop.com/v2ray@a/2024-06-03-list-1.txt</pre>
-<pre>https://dash.ssrtop.com/v2ray@b/2024-06-03-list-2.txt</pre>
+<pre>https://dash.ssrtop.com/v2ray@a/2024-06-04-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/v2ray@b/2024-06-04-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://dash.ssrtop.com/base64/2024-06-03-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/base64/2024-06-04-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://dash.ssrtop.com/sing-box/2024-06-03-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/sing-box/2024-06-04-list-1.txt</pre>
 
 
 <hr />
