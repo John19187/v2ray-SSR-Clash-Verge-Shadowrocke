@@ -3,8 +3,9 @@
 
 
 
-时间来到2024年6月，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke
--小火箭等常用的机场节点，帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+时间来到2024年6月6日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+
+
 
 网络安全和隐私保护越来越受到用户的重视，使用可靠的机场服务已成为上网必备技能。对于许多用户来说，选择稳定高速的机场节点尤为重要，本次更新共100+免费机场节点，最高速度25M/S。覆盖香港、韩国、法国、美国、新加坡、加拿大、欧洲、日本等多个区域。复制下方的v2ray/Clash订阅链接,在客户端添加即可正常使用，<a href="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/blob/main/README.md" >免费机场节点订阅指南</a>持续更新中，欢迎收藏。
 
@@ -34,34 +35,31 @@
 <strong>公益节点订阅，每12/24小时更新，提供全网最快最全的免费节点，请复制链接进行更新！</strong>
 
 &nbsp;
-<h2 class="h2h2">SSR免费节点订阅地址- 2024-06-05</h2>
+<h2 class="h2h2">SSR免费节点订阅地址- 2024-06-06</h2>
 <pre>
-ssr://MjEyLjYwLjUuMTgwOjE3MDUyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT0RsbS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MjEyLjYwLjUuODg6MTcwNTI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPRGxtLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UWcmZ3JvdXA9VEc1amJpNXZjbWM
-ssr://MjEyLjYwLjUuMTk2OjE3MDUyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT0RsbS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MjEyLjYwLjUuMTU2OjE3MDUyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT0RsbS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MTc2LjMyLjM1LjI0ODoxNzA1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09EbG0vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTUSZncm91cD1URzVqYmk1dmNtYw
-ssr://MTg1LjIyLjE1NS4xODoxNzA1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09EbG0vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTZyZncm91cD1URzVqYmk1dmNtYw
-ssr://MTc2LjMyLjM1LjE1NjoxNzA1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09EbG0vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTdyZncm91cD1URzVqYmk1dmNtYw
-ssr://NDUuMTQ3LjIwMC42MToxNzA1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09EbG0vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZUQSZncm91cD1URzVqYmk1dmNtYw
-ssr://NDYuMjkuMTYwLjE0MjoxNzA1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09EbG0vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZUUSZncm91cD1URzVqYmk1dmNtYw
+ssr://MjEyLjYwLjUuMTgwOjIyNTA2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTVhjMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
+ssr://MjEyLjYwLjUuODg6MjI1MDY6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dNWGMyLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UWcmZ3JvdXA9VEc1amJpNXZjbWM
+ssr://MjEyLjYwLjUuMTk2OjIyNTA2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTVhjMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j
+ssr://MjEyLjYwLjUuMTU2OjIyNTA2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTVhjMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j
+ssr://MTc2LjMyLjM1LjI0ODoyMjUwNjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ01YYzIvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTUSZncm91cD1URzVqYmk1dmNtYw
+ssr://MTg1LjIyLjE1NS4xODoyMjUwNjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ01YYzIvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTZyZncm91cD1URzVqYmk1dmNtYw
 </pre>
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://dash.ssrtop.com/clash@a/2024-06-05-list-1.yaml</pre>
-<pre>https://dash.ssrtop.com/clash@b/2024-06-05-list-2.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@a/2024-06-06-list-1.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@b/2024-06-06-list-2.yaml</pre>
 
 ↓备用↓
 
-<pre>https://dash.ssrtop.com/clash@c/2024-06-05-list-3.yaml</pre>
-<pre>https://dash.ssrtop.com/clash@d/2024-06-05-list-4.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@c/2024-06-06-list-3.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@d/2024-06-06-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://dash.ssrtop.com/v2ray@a/2024-06-05-list-1.txt</pre>
-<pre>https://dash.ssrtop.com/v2ray@b/2024-06-05-list-2.txt</pre>
+<pre>https://dash.ssrtop.com/v2ray@a/2024-06-06-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/v2ray@b/2024-06-06-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://dash.ssrtop.com/base64/2024-06-05-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/base64/2024-06-06-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://dash.ssrtop.com/sing-box/2024-06-05-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/sing-box/2024-06-06-list-1.txt</pre>
 
 
 <hr />
