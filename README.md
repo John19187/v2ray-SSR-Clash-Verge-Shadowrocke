@@ -3,7 +3,7 @@
 
 
 
-时间来到2024年6月11日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+时间来到2024年6月12日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
 
 
 
@@ -35,31 +35,31 @@
 <strong>公益节点订阅，每12/24小时更新，提供全网最快最全的免费节点，请复制链接进行更新！</strong>
 
 &nbsp;
-<h2 class="h2h2">SSR免费节点订阅地址- 2024-06-11</h2>
+<h2 class="h2h2">SSR免费节点订阅地址- 2024-06-12</h2>
 <pre>
-ssr://MjEyLjYwLjUuMTgwOjIyMDY2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT0RBdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MjEyLjYwLjUuODg6MjIwNjY6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPREF3Lz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UWcmZ3JvdXA9VEc1amJpNXZjbWM
-ssr://MjEyLjYwLjUuMTk2OjIyMDY2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT0RBdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MjEyLjYwLjUuMTU2OjIyMDY2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT0RBdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MTc2LjMyLjM1LjI0ODoyMjA2NjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09EQXcvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTUSZncm91cD1URzVqYmk1dmNtYw
-ssr://MTg1LjIyLjE1NS4xODoyMjA2NjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09EQXcvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTZyZncm91cD1URzVqYmk1dmNtYw
+ssr://MjEyLjYwLjUuMTgwOjEwNjYwOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYjI4d01BLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UVEmZ3JvdXA9VEc1amJpNXZjbWM
+ssr://MjEyLjYwLjUuODg6MTA2NjA6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2diMjh3TUEvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZRZyZncm91cD1URzVqYmk1dmNtYw
+ssr://MjEyLjYwLjUuMTk2OjEwNjYwOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYjI4d01BLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UXcmZ3JvdXA9VEc1amJpNXZjbWM
+ssr://MjEyLjYwLjUuMTU2OjEwNjYwOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYjI4d01BLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UkEmZ3JvdXA9VEc1amJpNXZjbWM
+ssr://MTc2LjMyLjM1LjI0ODoxMDY2MDpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2IyOHdNQS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlNRJmdyb3VwPVRHNWpiaTV2Y21j
+ssr://MTg1LjIyLjE1NS4xODoxMDY2MDpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2IyOHdNQS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlNnJmdyb3VwPVRHNWpiaTV2Y21j
 </pre>
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://dash.ssrtop.com/clash@a/2024-06-11-list-1.yaml</pre>
-<pre>https://dash.ssrtop.com/clash@b/2024-06-11-list-2.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@a/2024-06-12-list-1.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@b/2024-06-12-list-2.yaml</pre>
 
 ↓备用↓
 
-<pre>https://dash.ssrtop.com/clash@c/2024-06-11-list-3.yaml</pre>
-<pre>https://dash.ssrtop.com/clash@d/2024-06-11-list-4.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@c/2024-06-12-list-3.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@d/2024-06-12-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://dash.ssrtop.com/v2ray@a/2024-06-11-list-1.txt</pre>
-<pre>https://dash.ssrtop.com/v2ray@b/2024-06-11-list-2.txt</pre>
+<pre>https://dash.ssrtop.com/v2ray@a/2024-06-12-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/v2ray@b/2024-06-12-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://dash.ssrtop.com/base64/2024-06-11-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/base64/2024-06-12-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://dash.ssrtop.com/sing-box/2024-06-11-list-1.txt
+<pre>https://dash.ssrtop.com/sing-box/2024-06-12-list-1.txt
 
 </pre><hr />
 
