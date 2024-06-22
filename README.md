@@ -3,7 +3,7 @@
 
 
 
-时间来到2024年6月21日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+时间来到2024年6月22日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
 
 
 
@@ -43,34 +43,34 @@
 
 
 
-<h2 class="h2h2">SSR免费节点订阅地址- 2024-06-21</h2>
+<h2 class="h2h2">SSR免费节点订阅地址- 2024-06-22</h2>
 <pre>
-ssr://MjEyLjYwLjUuMTgwOjEyNjUyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYlRZMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MjEyLjYwLjUuODg6MTI2NTI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2diVFkyLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UWcmZ3JvdXA9VEc1amJpNXZjbWM
-ssr://MjEyLjYwLjUuMTk2OjEyNjUyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYlRZMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MjEyLjYwLjUuMTU2OjEyNjUyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYlRZMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MTc2LjMyLjM1LjI0ODoxMjY1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2JUWTIvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTUSZncm91cD1URzVqYmk1dmNtYw
-ssr://MTg1LjIyLjE1NS4xODoxMjY1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2JUWTIvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTZyZncm91cD1URzVqYmk1dmNtYw
-ssr://MTc2LjMyLjM1LjE1NjoxMjY1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2JUWTIvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTdyZncm91cD1URzVqYmk1dmNtYw
-ssr://NDUuMTQ3LjIwMC42MToxMjY1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2JUWTIvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZUQSZncm91cD1URzVqYmk1dmNtYw
-ssr://MjEyLjYwLjUuOTI6MTI2NTI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2diVFkyLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VFEmZ3JvdXA9VEc1amJpNXZjbWM
+ssr://MjEyLjYwLjUuMTgwOjExMTA3Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT1RseS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
+ssr://MjEyLjYwLjUuODg6MTExMDc6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPVGx5Lz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UWcmZ3JvdXA9VEc1amJpNXZjbWM
+ssr://MjEyLjYwLjUuMTk2OjExMTA3Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT1RseS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j
+ssr://MjEyLjYwLjUuMTU2OjExMTA3Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT1RseS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j
+ssr://MTc2LjMyLjM1LjI0ODoxMTEwNzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09UbHkvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTUSZncm91cD1URzVqYmk1dmNtYw
+ssr://MTg1LjIyLjE1NS4xODoxMTEwNzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09UbHkvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTZyZncm91cD1URzVqYmk1dmNtYw
+ssr://MTc2LjMyLjM1LjE1NjoxMTEwNzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09UbHkvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTdyZncm91cD1URzVqYmk1dmNtYw
+ssr://NDUuMTQ3LjIwMC42MToxMTEwNzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09UbHkvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZUQSZncm91cD1URzVqYmk1dmNtYw
+ssr://MjEyLjYwLjUuOTI6MTExMDc6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPVGx5Lz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VFEmZ3JvdXA9VEc1amJpNXZjbWM
 </pre>
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://dash.ssrtop.com/clash@a/2024-06-21-list-1.yaml</pre>
-<pre>https://dash.ssrtop.com/clash@b/2024-06-21-list-2.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@a/2024-06-22-list-1.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@b/2024-06-22-list-2.yaml</pre>
 
 ↓备用↓
 
-<pre>https://dash.ssrtop.com/clash@c/2024-06-21-list-3.yaml</pre>
-<pre>https://dash.ssrtop.com/clash@d/2024-06-21-list-4.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@c/2024-06-22-list-3.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@d/2024-06-22-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://dash.ssrtop.com/v2ray@a/2024-06-21-list-1.txt</pre>
-<pre>https://dash.ssrtop.com/v2ray@b/2024-06-21-list-2.txt</pre>
+<pre>https://dash.ssrtop.com/v2ray@a/2024-06-22-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/v2ray@b/2024-06-22-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://dash.ssrtop.com/base64/2024-06-21-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/base64/2024-06-22-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://dash.ssrtop.com/sing-box/2024-06-21-list-1.txt
+<pre>https://dash.ssrtop.com/sing-box/2024-06-22-list-1.txt
 
 </pre><hr />
 
@@ -85,71 +85,127 @@ ssr://MjEyLjYwLjUuOTI6MTI2NTI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2diVFkyLz9vYm
 <pre>此仅作为参考，订阅链接从上方获取↑</pre>
 <h3 class="h3h3">clash订阅开源节选</h3>
 <pre>  
- udp: true
-  name: 3|IHwzMC4yM01i
-- cipher: aes-256-cfb
-    headers:
-  servername: dongtaiwang13.dtku47.xyz
-  server: 879xhl1.hsspr5bu1-tw02.my777999.top
-  tls: false
-  - 5|🇺🇸 美国|@ripaojiedian
-  server: 132.226.235.126
-  server: 183.232.199.61
-  port: 9033
-  network: ws
-  h2-opts: {}
-  protocol: origin
-- cipher: aes-256-cfb
-  type: ssr
-  protocol: origin
-  type: ssr
-  name: 0|-MrXbin-102
-  tls: false
-  servername: ''
-  server: 120.232.240.38
-  password: daFYagqDdBdA6VTX
+"[VMess] 🇺🇸 美国 010", "[VMess] 🇺🇸 美国 CloudFlare节点", 
+  tolerance: 20
+  server: 43.202.41.139
+  - 6|香港6|@ripaojiedian
+  port: 443
   uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961
-  http-opts: {}
-  proxies:
-  type: ssr
-  server: 150.107.46.21
-  - 6|香港9|@ripaojiedian
-  - 5|🇺🇸 美国|@ripaojiedian
-  name: 0|-MrXbin-268
-- cipher: aes-256-cfb
-  - {name: "[VMess] 🇺🇸 美国 008", server: 170.178.190.139, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/182320181512, headers: {Host: www.94054702.xyz}}, udp: true}
-- cipher: aes-256-cfb
-  port: 443
-- cipher: aes-256-cfb
-- cipher: aes-256-cfb
-  name: 0|-MrXbin-246
-  - 3|8J%2BHr%2FCfh7VfSlBf5pel5pysXz.com.
-  obfs-param: ''
-  port: '443'
-  port: 9014
-  servername: oiictw.yydsii.com
-  cipher: auto
-  name: 5|🇯🇵 日本4|@ripaojiedian
-  port: '9005'
-  server: 103.172.116.103
-  - {name: "[VMess] 🇨🇦 加拿大 035", server: 104.19.54.131, port: 2052, type: vmess, uuid: c286daa2-59de-455c-8de8-ec032b6ce2e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: hk2.wish.ml}}, udp: true}
-  obfs: plain
-- cipher: aes-256-cfb
-- alterId: 0
-  server: 103.172.116.79
-  password: amazonskr05
+  port: 8080
   skip-cert-verify: true
+  password: amazonskr05
+  server: 183.232.199.61
+  - 9|baipaovpn台湾省高雄市
+  server: 54.180.108.75
+  - 3|IHwzMC4xNU1i
+  cipher: auto
+  network: ws
+  skip-cert-verify: false
+  name: 0|-MrXbin-105
+  ws-opts:
+  server: 45.55.2.232
+  geoip: https://fastly.net/gh/MeX/meta-rules-dat@release/geoip.dat
+  name: 0|-MrXbin-82
+  type: ss
+- cipher: aes-256-cfb
+  name: 5|🇰🇷 韩国特殊|@ripaojiedian
+  uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961
+  cipher: auto
+  server: hms07.xfixedfloat.cfd
+  port: 9030
+  uuid: dffc697a-2535-470c-bb6a-8157b6c157a7
+  network: tcp
+- cipher: aes-256-cfb
+mixed-port: 7890
+  - ✅ 手动选择
+  server: zula.ir
+  country: DE
+  cipher: auto
   obfs: plain
+- alterId: 0
+  ws-opts:
+  port: 9007
+    headers:
+  name: 0|-MrXbin-49
+  server: 103.172.116.103
+  ws-opts:
+  - 0|-MrXbin-269
+  uuid: 64a57b5f-45e0-40c3-8316-97d0ff53fd96
+  cipher: auto
+    headers:
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+- cipher: aes-256-cfb
+  port: '9031'
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  tfo: false
+  obfs: plain
+- cipher: aes-256-cfb
+  ws-opts:
+  skip-cert-verify: false
+  - 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_5
+  - {name: "[VMess] 🇹🇷 土耳其 002", server: 213.142.149.116, port: 41858, type: vmess, uuid: ea3bb532-d0c8-4148-827c-5e450ad62688, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - 10|🇺🇸_US_美国_30
+- alterId: 0
+  name: 10|🇨🇳_CN_中国->🇱🇺_LU_卢森堡_由快嘴科技提供：kk.com.
   protocol: origin
-  name: 0|-MrXbin-166
-  - 10|🇺🇸_US_美国->🇺🇦_UA_乌克兰_24"[VMess] 🇬🇧 英国 001", "[VMess] 🇭🇰 香港 001", "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1", "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_2", 
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
+- alterId: 0
+  - 0|-MrXbin-30
+  password: p9z5BVADH2YFs3MN
+  ws-opts:
+  password: shadowsocks
+  protocol: origin
+  server: onea.flha.ru
+- alterId: 0
+  network: ws
+  skip-cert-verify: true
+  type: ssr
+  protocol: origin
+  network: ws
+- cipher: chacha20-ietf-poly1305
+  name: 3|IHwzMC4zME1i
+  port: 16127
+  port: 49032
+  tls: true
+  protocol: origin
+  server: 3.34.95.205
+  servername: dual-nothing-prep-exit.trycloudflare.com
+  password: ZpNDDKRu9MagNvaf
+  port: 9084
+  port: 2052
+  type: ss
+  server: 47.128.72.90
+  type: ss
   udp: true
-  port: 443
-    path: /obdii.cfd/linkws
-      Host: us01.victoriousmelvina.online
-  - 0|-MrXbin-108
+  - 🗺️ 选择地区
+  name: 0|-MrXbin-108
+      Host: icy-tooth-3d05.plzthsmdnss-7d8ly.workers.dev
+  name: 10|🇷🇺_RU_俄罗斯联邦_2由快嘴科技提供：kkzui.com
+- cipher: aes-256-cfb
+  server: 35.156.231.138
+- alterId: 0
+  port: '9040'
+  http-opts: {}
   type: vmess
+  type: ssr
+  - 10|🇨🇳_CN_中国->🇺🇸_US_美国_2_27
+  - 0|-MrXbin-59
+  h2-opts: {}
+  server: deepf.hjkdsak2.com
+- cipher: aes-256-cfb
+  server: data-us-v1.shwjfkw.cn
+  nameserver:
+  - 0|-MrXbin-122
+mode: rule
+  name: 0|-MrXbin-76
+      Host: aws-kr-seoul-1.f1cflinec.com
+  cipher: auto
+  name: 0|-MrXbin-11
+  ws-opts:
+    headers:
+  type: vmess
+  network: ws
+  type: ss
+  password: U6qnYRhfyDmn8sgn
  
 </pre>
 
@@ -157,87 +213,267 @@ ssr://MjEyLjYwLjUuOTI6MTI2NTI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2diVFkyLz9vYm
 
 <h3 class="h3h3">v2ray订阅开源节选</h3>
 <pre>
-vmess://eyJ2IjoiMiIsInBzIjoi5bm/5Lic55yB5rGV5aS05biCIOenu+WKqCIsImFkZCI6IjE4My4yNDAuMTc5LjIwNyIsInBvcnQiOiIzMDEyNyIsInR5cGUiOiJub25lIiwiaWQiOiI1YmQ1ODk5YS00Yjc4LTRkNzUtODU3MC00ZDIxYjQzNDIyYzQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi5bm/5Lic55yB5rGf6Zeo5biCIOenu+WKqCIsImFkZCI6IjEyMC4yMzguMTIyLjI1MCIsInBvcnQiOiIzNDQxNCIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgX0NBX+WKoOaLv+WkpyIsImFkZCI6IjEwOC4xODEuMTAuMTciLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDc0ZTg2ODAtNzAxZi0xMWVlLWI0MzYtMjA1YzZkNWY1ZDc4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAwNyIsImFkZCI6ImNmY2RuMS5zYW5mZW5jZG45LmNvbSIsInBvcnQiOiIyMDk1IiwidHlwZSI6Im5vbmUiLCJpZCI6IjE1NjRjZjViLTQ4YzItNDZmOS1hNTljLTAyMzRlOTM2ZjIzNyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdmlkZW8vcVladWU0emFXUyIsImhvc3QiOiJjZmNkbjEuc2FuZmVuY2RuOS5jb20iLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAxMCIsImFkZCI6IjEwNC4xOC4xNS4xNDkiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDUyZGQ2MzgtMGUxNC00NjliLWEzNGMtYmI1MTg0ZDRkY2U2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoidXN0b3VjampuaWQxOHNqNnVzLmxvdmViYWlwaWFvLmNvbSIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAxMSIsImFkZCI6IjEwNC4xOC4xNS4xNDgiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDUyZGQ2MzgtMGUxNC00NjliLWEzNGMtYmI1MTg0ZDRkY2U2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoidXN0b3VjampuaWQxOHNqNnVzLmxvdmViYWlwaWFvLmNvbSIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAxMiIsImFkZCI6IjEwNC4xOC4xNS4xNTAiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDUyZGQ2MzgtMGUxNC00NjliLWEzNGMtYmI1MTg0ZDRkY2U2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoidXN0b3VjampuaWQxOHNqNnVzLmxvdmViYWlwaWFvLmNvbSIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAxMyIsImFkZCI6IjE2Mi4xNTkuOS41NSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI5MTMzYWYxYi03MmUzLTQwYjItYzgxMS00NWFjYWFiZDBmZjAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6ImhpbmV0LmFsaXBheS5vdmgiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAxNCIsImFkZCI6IjEwNC4xNi41OC41MiIsInBvcnQiOiI4MDgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImI1NTFhYTIyLTIyYWYtMTFlZS1iOGQ4LWYyM2M5MzJlYjY4ZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 </pre>
 <h3 class="h3h3">base64订阅开源节选</h3>
 <pre class="corepress-code-pre">
   
- uuid: b39a02bc-dec0-4964-b861-d89ffe42558a
-  type: url-test
-  type: ssr
-  type: vmess
-  name: 🇭🇰 香港
-  type: ssr
-  type: vmess
-    path: /f1rocket
-  cipher: auto
-  server: 172.67.199.211
-  skip-cert-verify: true
-  - 0|-MrXbin-72
-  password: f63gg8EruDnUrmz4
-  tolerance: 20
-  name: 0|-MrXbin-272
-  obfs: plain
-  port: 33879
-  network: ws
-  port: '2052'
-- cipher: aes-256-cfb
-  protocol: origin
-  name: '3|IHwyOS45N01i #1'
-  port: '44803'
-  name: 5|🇯🇵 日本4|@ripaojiedian
-  network: ws
-  server: 3.34.95.205
-    headers:
-  protocol: origin
+ "[VMess] 🇺🇸 美国 007", "[VMess] 🇺🇸 美国 008", "[VMess] 🇺🇸 美国 009", 
+  - {name: "[VMess] 🇺🇸 _US_美国_2", server: wnd2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wnd2.shabijichang.com}}, udp: true}
   type: ss
-- cipher: aes-256-cfb
-  uuid: 2ae29dc5-a3a3-4f6e-a013-4d9000b85f42
-proxy-groups:
-  - 0|-MrXbin-274
-  obfs: plain
-  port: '9033'
-  uuid: 39ef8f5d-7286-41b0-9c11-c976925d2931
-  type: vmess
-  type: trojan
-      HOST: dongtaiwang13.dtku47.xyz
-  port: '9008'
-  name: 0|-MrXbin-33
-  - 0|-MrXbin-244
-  - 0|-MrXbin-18
-  password: TNDSJfNv
-  type: ssr
-      Host: kr01.beautifuloctavia.fun
+    headers:
+  password: UWZQeLRWnkqgkseq
+  server: 18.139.225.183
+  servername: ''
+  - 0|-MrXbin-14
+  skip-cert-verify: false
+  name: 0|-MrXbin-162
+    path: /
   cipher: auto
-  country: US
-  server: cfcdn3.sanfencdn9.com
-- name: 5|🇺🇸 美国4|@ripaojiedian
-  ws-opts:
-  name: 3|IHwzMC4yOE1i
+  - 🇯🇵 日本
+  network: ws
+  - REJECT
+  - 0|-MrXbin-91
+  port: '2052'
+- alterId: 0
+  server: 118.163.179.160
+  - 5|🇹🇼 台湾|@ripaojiedian
+  tls: false
+  type: ss
+  server: 23.154.136.2
+  port: 61002
+  type: ss
+  port: 443
+  type: vmess
+- alterId: 0
+  server: 103.172.116.79
+- cipher: aes-256-cfb
   tls: false
   type: vmess
-  cipher: auto
-  - {name: 🇸🇬 新加坡, type: select, proxies: [DIRECT]}
-  cipher: auto
-  - 3|IHwzMC4yN01i
-  port: 9037
-  type: ss
-  - DIRECT
+  type: vmess
+      HOST: oiictw.yydsii.com
+- cipher: aes-256-cfb
+  port: 443
+- alterId: 0
+  type: vmess
   ws-opts:
-  - 0|-MrXbin-66
+  type: ssr
+  password: 99301d55-a41f-4919-986b-1435996533aa
+  type: vmess
+  password: amazonskr05
+  name: 0|-MrXbin-13
+  tls: false
+  port: '80'
+      Host: trojan.freenods.sbs
+  servername: onea.flha.ru
+  password: NvS8N4Vf8qAGPSCL
+    headers:
+- alterId: 0
+  name: 5|🇰🇷 韩国特殊|@ripaojiedian
+      HOST: oiictw.yydsii.com
+- alterId: 0
+  server: 183.232.142.179
+  fallback:
+  - {name: "[VMess] 🇫🇮 芬兰 001", server: 91.132.197.4, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/182320181512, headers: {Host: www.97751616.xyz}}, udp: true}
+  port: '9041'
+  server: 103.172.116.94
+  port: 30811
+  server: aws-kr-seoul-1.f1cflinec.com
+    headers:
+- alterId: 0
+  type: ssr
+  cipher: auto
+  name: 0|-MrXbin-67
+  - 3|IHwzMC4wNk1i
+  tls: false
+global-client-fingerprint: chrome
+  server: 103.172.116.79
+  network: ws
+  - 0|-MrXbin-197
+  password: FG5ddLsMPbV5CutE
+  - ❔ 台湾
+  - 0|-MrXbin-58
+  cipher: auto
+  network: ws
+  name: 5,6|新加坡|@ripaojiedian
+  - 0|-MrXbin-85
+  obfs: plain
+- cipher: aes-256-cfb
   protocol: origin
   type: vmess
-- cipher: aes-256-cfb
-  geosite: https://fastly.net/gh/MeX/meta-rules-dat@release/geosite.dat
-  tolerance: 20
-  password: FG5ddLsMPbV5CutE
-  - {name: "[VMess] 🇭🇰 香港 001", server: hk03.thomasinaglorious.online, port: 80, type: vmess, uuid: e5e2206d-8650-4dfb-9731-fe2ee99b944e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: hk03.travisdependable.online, network: ws, ws-opts: {path: /, headers: {Host: hk03.thomasinaglorious.online}}, udp: true} "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1", "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2", 
-  port: 9073
-  - {name: "[VMess] 🇨🇦 加拿大 038", server: 104.19.54.251, port: 2052, type: vmess, uuid: c286daa2-59de-455c-8de8-ec032b6ce2e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: hk2.wish.ml}}, udp: true}
+- cipher: aes-128-cfb
+  port: 8080
+  name: 10|🇺🇸_US_美国->🇩🇪_DE_德国_2_由快嘴科技提供：k.com.
+
+  plugin: obfs
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TWpGaFlqVmpaREU0WmpCaE16YzBaRFZoTkRSbFpXRmtZekE0TURCbU16WT06WlRrMVl6bGpaRFV0TkRsaFpDMDBaREUzTFRrd056Y3RaakU1TW1ZellUST0@t6-sg.bilivideo.click:11609#%5Bss%5D%E6%96%B0%E5%8A%A0%E5%9D%A103
+  name: 10|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_16
+    headers:
+  - REJECT
+  type: ss
+  tls: false
+  type: ss
+  name: 🇸🇬 新加坡
+  servername: ''
+  server: 103.172.116.103
+    path: /1IKYjV0r/
+  server: 104.18.19.191
+  servername: sg.baijia.cfd
+  port: 2052
+  type: vmess
+  udp: true
+  type: vmess
+  password: iFqnzSscN
+    path: /
   tfo: false
+  - REJECT
+  password: ueLXVkvh4hckhErQ
+  ws-opts:
+  server: 80.92.204.106
+  ws-opts:
+  name: 0|-MrXbin-58
+  - 0|-MrXbin-12
+  - 0|-MrXbin-95
+  - 0|-MrXbin-125
+  uuid: 25ea21e2-8455-4fca-85bf-4bfbc62646fc
+  obfs: plain
+  name: 3|IHwzMC4wMk1i
+    headers:
+  network: ws
+  servername: oiictw.yydsii.com
+  obfs: plain
+  proxies:
+  - 5|🇭🇰 香港KT|@ripaojiedian
+  port: 8118
+  name: 0|-MrXbin-122
+  uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad
+  port: '15601'
+    path: /video/9TfVEyku
+  h2-opts: {}
+- cipher: aes-256-cfb
+  uuid: 2b8cfb7b-d3e7-4525-8418-e13a9b8fd73b
+  name: 0|-MrXbin-173
+  type: vmess
+  name: 0|-MrXbin-283
+  name: 6|香港8|@ripaojiedian
+  port: 40437
+  uuid: c74c2fd1-7e5b-4c20-be9f-f3c3b7fd6248
+  network: tcp
+  country: JP
+    headers:
+  - 3|未命名
+    skip-cert-verify: false
+  port: 443
+  tfo: false
+  port: 443
+    headers:
+  - '3|IHwyOS45N01i #1'
+  country: ' ZZ'
+  password: TNDSJfNv
+  - 0|-MrXbin-14
+  port: 443
+  port: '9041'
+  - {name: "[VMess] 🇺🇸 美国 009", server: 23.225.164.147, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/182320181512, headers: {Host: www.34667399.xyz}}, udp: true}
+- cipher: aes-256-cfb
+      Host: wtywwcrzjp5.yofnhkfc.xyz
+- alterId: 0
+  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
+  port: 443
+  cipher: auto
   skip-cert-verify: true
+  name: 5,6|香港2|@ripaojiedian
+  - 0|-MrXbin-56
+  - 0|-MrXbin-53
+  - 3|未命名
+  server: 120.236.196.21
+    path: /
+  password: ZpNDDKRu9MagNvaf
+  port: '9040'
+  country: GB
+  type: ssr
+  name: ♻ 自动选择
+  ws-opts:
+  type: ss
+  server: 16.163.148.45
+  server: 23.154.136.176
+  tls: false
+  udp: true
+  obfs: plain
+  - https://dns.rubyfish.cn/dns-query
+  type: vmess
+  - '9|baipaovpn韩国 #3'
+  - 0|-MrXbin-78
+  - 3|IHwzMC4zNk1i
+  server: 103.172.116.79
+  password: daFYagqDdBdA6VTX
+  password: ZET59LF6DvCC8KVt
+  ws-opts:
+  ws-opts:
+  port: 9032
+  password: S7KwUu7yBy58S3Ga
+  - 3|IHwyOS45N01i
+  http-opts: {}
+  - {name: "[VMess] 🇨🇦 加拿大 031", server: 104.19.54.193, port: 2052, type: vmess, uuid: c286daa2-59de-455c-8de8-ec032b6ce2e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: hk2.wish.ml}}, udp: true}
+  name: 0|-MrXbin-87
+  tls: false
+- cipher: aes-256-cfb
+  type: ss
+  protocol: origin
+  network: ws
+  - 0|-MrXbin-3
+  ws-opts:
+  name: 0|-MrXbin-17
+  http-opts: {}
+  type: vmess
+  name: 5|🇯🇵 日本特殊|@ripaojiedian
+  name: 0|-MrXbin-254
+  - 5|🇺🇸 美国2|@ripaojiedian
+- cipher: chacha20-ietf-poly1305
+  server: 47.128.230.112
+  name: 3|IHwzMC4wOU1i
+- cipher: aes-256-cfb
+  port: 2095
+- interval: 300
+- cipher: aes-256-cfb
+  cipher: auto
+    path: /
+  - 0|-MrXbin-281
+  type: vmess
+  server: 172.67.172.219
+  skip-cert-verify: true
+  - {name: "[VMess] 🇨🇦 加拿大 048", server: 172.67.90.176, port: 2053, type: vmess, uuid: e6933218-ad65-3943-9afd-0d78638a61dd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 100-100-17-410.db-link01.top, network: ws, ws-opts: {path: /dabai.in172.67.90.176, headers: {Host: 100-100-17-410.db-link01.top}}, udp: true}
+  network: ws
+  port: 2095
+  server: 43.199.69.251
+- alterId: 0
+  name: 10|🇺🇸_US_美国_30
+  type: vmess
+  uuid: f956a5d9-1f30-4f89-adc8-4286f4a3eb16
+  server: 13.231.105.129
+    path: /
+  - 3|IHwyOS45Nk1i
+  network: ws
+  server: 43.201.47.36
+- alterId: 0
+  - 10|🇺🇸_US_美国_8_53
+  http-opts: {}
+  uuid: 4ccc923e-8452-418c-9222-87ee8f295e14
+  ws-opts:
+  obfs: plain
+  name: 10|🇨🇳_CN_中国->🇺🇸_US_美国_2_27
+- alterId: 0
+  udp: true
+  server: 103.172.116.94
+  name: 3|IHwyOS42M01i
+  port: 8080
+  obfs: plain
+- cipher: aes-256-cfb
+  - {name: "[VMess] 🇱🇹 立陶宛 001", server: 85.206.165.35, port: 443, type: vmess, uuid: ba49ab05-78f8-4b0b-9400-1826cc2d3f75, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/173403330828, headers: {Host: www.83322971.xyz}}, udp: true}
   
   </pre>
 
