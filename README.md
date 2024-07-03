@@ -26,7 +26,7 @@
 
 &nbsp;
 
-<a href="https://www.hdycco.xyz/#/register?code=qf4PJxLB" target="_blank" ><img class="aligncenter" src="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/assets/164295305/ca079e18-7e9d-4440-8e1d-1fb73772433e" /></a>
+<a href="https://www.hdycco.xyz/#/register?code=wuqd5vwQ" target="_blank" ><img class="aligncenter" src="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/assets/164295305/ca079e18-7e9d-4440-8e1d-1fb73772433e" /></a>
 
 <hr />
 
