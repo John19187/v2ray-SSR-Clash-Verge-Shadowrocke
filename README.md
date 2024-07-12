@@ -3,11 +3,11 @@
 
 
 
-时间来到2024年7月11日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+时间来到2024年7月12日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
 
 
 
-网络安全和隐私保护越来越受到用户的重视，使用可靠的机场服务已成为上网必备技能。对于许多用户来说，选择稳定高速的机场节点尤为重要，本次更新共100+免费机场节点，最高速度26M/S。覆盖香港、韩国、法国、美国、新加坡、加拿大、欧洲、日本等多个区域。复制下方的v2ray/Clash订阅链接,在客户端添加即可正常使用，<a href="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/blob/main/README.md" >免费机场节点订阅指南</a>持续更新中，欢迎收藏。
+网络安全和隐私保护越来越受到用户的重视，使用可靠的机场服务已成为上网必备技能。对于许多用户来说，选择稳定高速的机场节点尤为重要，本次更新共100+免费机场节点，最高速度27M/S。覆盖香港、韩国、法国、美国、新加坡、加拿大、欧洲、日本等多个区域。复制下方的v2ray/Clash订阅链接,在客户端添加即可正常使用，<a href="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/blob/main/README.md" >免费机场节点订阅指南</a>持续更新中，欢迎收藏。
 
 &nbsp;
 
@@ -43,34 +43,35 @@
 
 
 
-<h2 class="h2h2">SSR免费节点订阅地址- 2024-07-111</h2>
+<h2 class="h2h2">SSR免费节点订阅地址- 2024-07-12</h2>
 <pre>
-ssr://MjEyLjYwLjUuMTgwOjEyNjcxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXBjbWNnTnpabi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MjEyLjYwLjUuODg6MTI2NzE6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1cGNtY2dOelpuLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UWcmZ3JvdXA9VEc1amJpNXZjbWM
-ssr://MjEyLjYwLjUuMTk2OjEyNjcxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXBjbWNnTnpabi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MjEyLjYwLjUuMTU2OjEyNjcxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXBjbWNnTnpabi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j
-ssr://MTc2LjMyLjM1LjI0ODoxMjY3MTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTVwY21jZ056Wm4vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTUSZncm91cD1URzVqYmk1dmNtYw
-ssr://MTg1LjIyLjE1NS4xODoxMjY3MTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTVwY21jZ056Wm4vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTZyZncm91cD1URzVqYmk1dmNtYw
-ssr://MTc2LjMyLjM1LjE1NjoxMjY3MTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTVwY21jZ056Wm4vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTdyZncm91cD1URzVqYmk1dmNtYw
-ssr://NDUuMTQ3LjIwMC42MToxMjY3MTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTVwY21jZ056Wm4vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZUQSZncm91cD1URzVqYmk1dmNtYw
-ssr://MjEyLjYwLjUuOTI6MTI2NzE6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1cGNtY2dOelpuLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VFEmZ3JvdXA9VEc1amJpNXZjbWM
+ssr://MjEyLjYwLjUuMTgwOjIwODAyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT1d4aC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
+ssr://MjEyLjYwLjUuODg6MjA4MDI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPV3hoLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UWcmZ3JvdXA9VEc1amJpNXZjbWM
+ssr://MjEyLjYwLjUuMTk2OjIwODAyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT1d4aC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j
+ssr://MjEyLjYwLjUuMTU2OjIwODAyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT1d4aC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j
+ssr://MTc2LjMyLjM1LjI0ODoyMDgwMjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09XeGgvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTUSZncm91cD1URzVqYmk1dmNtYw
+ssr://MTg1LjIyLjE1NS4xODoyMDgwMjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09XeGgvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTZyZncm91cD1URzVqYmk1dmNtYw
+ssr://MTc2LjMyLjM1LjE1NjoyMDgwMjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09XeGgvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTdyZncm91cD1URzVqYmk1dmNtYw
+ssr://NDUuMTQ3LjIwMC42MToyMDgwMjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09XeGgvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZUQSZncm91cD1URzVqYmk1dmNtYw
+ssr://MjEyLjYwLjUuOTI6MjA4MDI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPV3hoLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VFEmZ3JvdXA9VEc1amJpNXZjbWM
+ssr://MTk1LjEzMy41Mi4yNDI6MjA4MDI6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPV3hoLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VGcmZ3JvdXA9VEc1amJpNXZjbWM
 </pre>
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://dash.ssrtop.com/clash@a/2024-07-11-list-1.yaml</pre>
-<pre>https://dash.ssrtop.com/clash@b/2024-07-11-list-2.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@a/2024-07-12-list-1.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@b/2024-07-12-list-2.yaml</pre>
 
 ↓备用↓
 
-<pre>https://dash.ssrtop.com/clash@c/2024-07-11-list-3.yaml</pre>
-<pre>https://dash.ssrtop.com/clash@d/2024-07-11-list-4.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@c/2024-07-12-list-3.yaml</pre>
+<pre>https://dash.ssrtop.com/clash@d/2024-07-12-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://dash.ssrtop.com/v2ray@a/2024-07-11-list-1.txt</pre>
-<pre>https://dash.ssrtop.com/v2ray@b/2024-07-11-list-2.txt</pre>
+<pre>https://dash.ssrtop.com/v2ray@a/2024-07-12-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/v2ray@b/2024-07-12-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://dash.ssrtop.com/base64/2024-07-11-list-1.txt</pre>
+<pre>https://dash.ssrtop.com/base64/2024-07-12-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://dash.ssrtop.com/sing-box/2024-07-11-list-1.txt
+<pre>https://dash.ssrtop.com/sing-box/2024-07-12-list-1.txt
 
 </pre><hr />
 
@@ -85,159 +86,84 @@ ssr://MjEyLjYwLjUuOTI6MTI2NzE6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1cGNtY2dOelpuLz9vYm
 <pre>此仅作为参考，订阅链接从上方获取↑</pre>
 <h3 class="h3h3">clash订阅开源节选</h3>
 <pre>  
- - 0|-MrXbin-129
-  nameserver:
-  type: trojan
-  - 🇸🇬 新加坡
-      - "[VMess] 🇨🇦 加拿大 066"
-  - 0|-MrXbin-111
-  port: 2053
-      - "[Trojan] 🇨🇦 加拿大 187"
-  server: 35.72.5.88
-      - "[VMess] 🇨🇦 加拿大 009"
-      - "[VMess] 🇨🇦 加拿大 126"
-  servername: ''
-  port: 8888
-  server: 116.162.172.120
-  - 5,6|日本2|@ripaojiedian
-- alterId: 0
-      - "[VMess] 🇺🇸 美国 055"
-  - 5|🇻🇳 越南R|@ripaojiedian
-  tfo: false
-  ws-opts:
-      - "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国"
-  skip-cert-verify: true
-  - 5|🇭🇰 香港|@ripaojiedian
-      - "[Trojan] 🇺🇸 美国 057"
-  enable: true
-- cipher: chacha20-ietf-poly1305
-  port: 443
-  uuid: 56b2371a-727f-46a9-97d3-8c5fe4bf836a
-      - "[VMess] 🇸🇬 新加坡 003"
-  type: select
-      - "[VMess] 🇨🇦 加拿大 123"
-  proxies: *id001
-      - "[VMess] 🇳🇱 荷兰 013"
-      - "[VMess] 🇨🇦 加拿大 051"
-    headers:
-      - "[VMess] 🇨🇦 加拿大 117"
-      - "[VMess] 🇨🇦 加拿大 106"
-  uuid: 56b2371a-727f-46a9-97d3-8c5fe4bf836a
-  - 🇨🇳 中国
-  type: ss
-      - "[Trojan] 🇨🇦 加拿大 174"
-  - 0|-MrXbin-105
-- alterId: 0
   tls: false
-  server: 183.238.202.173
-  name: 🇫🇷 法国
-  nameserver:
-  server: 52.195.8.183
-- interval: 300
-      - "[VMess] 🇺🇸 _US_美国_2"
-  name: 5|🇸🇬 狮城特殊|@ripaojiedian
-  port: 8882
-      - "[VMess] 🇨🇦 加拿大 048"
-      HOST: sanapardaz.onthewifi.com
-  port: 443
-  - ❔ 台湾
-  proxies:
-  skip-cert-verify: true
-      - "[VMess] 🇨🇦 加拿大 126"
-  - {name: "[VMess] 🇨🇦 加拿大 011", server: 104.16.60.8, port: 2095, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /obdii.cfd/linkws, headers: {Host: icy-tooth-3d05.plzthsmdnss-7d8ly.workers.dev}}, udp: true}
-  - {name: "[VMess] 🇨🇦 加拿大 102", server: 104.19.175.68, port: 80, type: vmess, uuid: c3fe15dd-3559-4f4b-bd2c-37ad818411e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp3.889611.com}}, udp: true}
-  tolerance: 20
-      HOST: sanapardaz.onthewifi.com
-      - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_1"
-- interval: 300
-  protocol: auth_aes128_sha1
-  fallback:
-      - "[VMess] 🇨🇦 加拿大 79"
-      - "[VMess] 🇨🇦 加拿大 039"
-  password: amazonskr05
-  port: '51193'
-      - "[VMess] 🇨🇦 加拿大 078"
-  type: trojan
-      - "[Trojan] 🇺🇸 美国 Xerox"
-- cipher: aes-256-cfb
-      - "[VMess] 🇰🇿 哈萨克斯坦 003"
-    headers:
-- cipher: rc4-md5
-      - "[VMess] 🇨🇦 加拿大 097"
-      - "[Trojan] 🇨🇦 加拿大 191"
-  password: amazonskr05
-  - 5|🇹🇼 台湾2|@ripaojiedian
-  type: vmess
-      - "[Trojan] 🇨🇦 加拿大 188"
-  uuid: db3c11d8-ae65-40ff-a256-babee94056f6
-  port: 443
-  h2-opts: {}
-  skip-cert-verify: true
-  tls: false
-      - "[VMess] 🇨🇦 加拿大 028"
-  type: ssr
-  name: 0|-MrXbin-129
-      - "[VMess] 🇺🇸 美国 055"
-  - ❔ 台湾
-      - "[VMess] 🇨🇦 加拿大 115"
   server: 43.206.232.169
+  udp: true
+    path: github.com/Alvin9999
+  name: '5|d*********g.com_19 #1'
+  name: 1|d*********g.com_29
+  udp: true
+  type: vmess
+  servername: ip2.1457230.xyz
+      HOST: ip11.freegradely.xyz
+  udp: true
+      - "[Trojan] 🇨🇦 加拿大 170"
+      - "[VMess] 🇺🇸 美国 036"
+      - "[VMess] 🇨🇦 加拿大 006"
+- name: 🌐 突破锁区
+  tls: false
+      - "[VMess] 🇨🇦 加拿大 035"
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+- alterId: 0
+  ws-opts:
   network: ws
-  password: gkviEOYc
-  - {name: "[VMess] 🇨🇦 加拿大 116", server: fr-new01.daluquan.top, port: 8080, type: vmess, uuid: 5f7dad4c-aaad-432d-a775-ad078a1a2055, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: fr-new01.daluquan.top}}, udp: true}
+  server: 3.112.44.123
+    path: github.com/Alvin9999
+  skip-cert-verify: false
+  password: moist
+  network: ws
+  cipher: auto
+- alterId: 0
+    path: github.com/Alvin9999
+    headers:
+  type: vmess
+      Host: ip2.1457230.xyz
+      Host: ip006.dtku47.xyz
+      - "[VMess] 🇨🇦 加拿大 046"
+  type: ss
+  proxies:
+  servername: cdn3.freegradely.xyz
+  port: 5001
+      - "[VMess] 🇺🇸 _US_美国_2"
+    headers:
+    path: github.com/Alvin9999
+      HOST: cdn2.freegradely.xyz
+  type: url-test
+  - '2|d*********g.com_0 #1'
+  type: vmess
+      Host: cdn3.freegradely.xyz
+  udp: true
+  port: 2052
+  type: vmess
+  name: 1|d*********g.com_68
+  ws-opts:
+  network: ws
+  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+  port: 709
+  h2-opts: {}
+  cipher: auto
+  - 🗺️ 选择地区
+  country: KR
+  type: vmess
+  name: 0|-https://t.me/MrXbin-138
+  network: ws
+  type: vmess
+  skip-cert-verify: true
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  http-opts: {}
+  network: ws
+  port: 2053
   type: ss
   h2-opts: {}
-  - https://dns.rubyfish.cn/dns-query
-    type: select
-    path: /
-      - "[VMess] 🇨🇦 加拿大 081"
-      - "[VMess] 🇦🇪 阿联酋 001"
-  uuid: 98f068ea-cd44-4a66-9cd4-710fb40ffcce
-      - "[VMess] 🇨🇦 加拿大 039"
-      - "[VMess] 🇨🇦 加拿大 043"
-  enable: true
-  sni: trojan.freenods.sbs
-- interval: 300
-  port: 36680
-  tolerance: 20
-  name: 0|-MrXbin-105
-  - 6|香港6|@ripaojiedian
-  - {name: "[VMess] 🇨🇦 加拿大 120", server: 23.227.38.5, port: 2086, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: ip002.freegradely.xyz, network: ws, ws-opts: {path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm, headers: {Host: ip002.freegradely.xyz}}, udp: true}
-  password: amazonskr05
-      - "[VMess] 🇨🇦 加拿大 066"
-      - "[VMess] 🇨🇦 加拿大 108"
-  uuid: c558a5a6-2d9b-403b-d887-cd54fed56a49
-  proxies: *id001
-  cipher: auto
-      - "[VMess] 🇨🇦 加拿大 022"
-      - "[VMess] 🇺🇸 _US_美国_3"
-    path: /proxyIP=proxyip.us.fxxk.dedyn.io
-      - "[VMess] 🇨🇦 加拿大 078"
-  tfo: false
-      - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_2"
-  name: 🇸🇬 新加坡
-  name: 0,5|🇰🇷 韩国特殊|@ripaojiedian
-  port: 27335
-- cipher: aes-256-gcm
   - 223.5.5.5
-      - "[VMess] 🇨🇦 加拿大 011"
-      Host: tms.dingtalk.com
-      - "[VMess] 🇨🇦 加拿大 046"
-  uuid: 3e57354f-ff12-4536-81f9-c6155ef18b69
-  type: ss
-- alterId: 64
-- alterId: 0
-      - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-      - "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯"
-  server: 3.112.219.236
-  proxies:
-dns:
-  - 0|-MrXbin-125
-      - "[VMess] 🇨🇦 加拿大 125"
-      - "[VMess] 🇨🇦 加拿大 113"
-  type: trojan
-- alterId: 0
-  server: 38.147.188.136
-      - "[VMess] 🇨🇦 加拿大 107"
+  type: vmess
+  ws-opts:
+      - "[VMess] 🇨🇦 加拿大 134"
+  - {name: "[VMess] 🇦🇪 阿联酋 001", server: 151.101.142.20, port: 80, type: vmess, uuid: a2690f22-1598-42cd-9273-40f6ca6fb825, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: pardazeshvpn.tg2.ir, network: ws, ws-opts: {path: "/Telegram:", headers: {Host: pardazeshvpn.tg2.ir}}, udp: true}
+  - {name: "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯", server: jd3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jd3.shabijichang.com}}, udp: true}
+  port: 443
+  servername: ip2.1457230.xyz
+  server: 104.17.106.151
   - ✅ 手动选择
  
 </pre>
@@ -260,99 +186,141 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAyNCIsImFkZCI6IjEwNC4xNi42
 <h3 class="h3h3">base64订阅开源节选</h3>
 <pre class="corepress-code-pre">
   
-ipv6: true
-  type: ss
-      - "[VMess] 🇨🇦 加拿大 005"
-      - "[Trojan] 🇨🇦 加拿大 189"
-- interval: 300
-      - "[VMess] 🇨🇦 加拿大 031"
-  type: trojan
-      - "[Trojan] 🇨🇦 加拿大 188"
-      - 8443
-  type: vmess
-      - "[VMess] 🇺🇸 _US_美国_4"
-allow-lan: false
-  type: ss
-  ws-opts:
-  name: 5|🇻🇳 越南R|@ripaojiedian
-      - "[VMess] 🇨🇦 加拿大 105"
-  cipher: auto
-  port: 21949
-  ws-opts:
-  server: jp06.421421.xyz
-      - "[Trojan] 🇨🇦 加拿大 188"
-    path: /v2ray
-      - "[VMess] 🇨🇦 _CA_加拿大"
-  type: vmess
-      - "[VMess] 🇺🇸 _US_美国_5"
-      - "[VMess] 🇨🇦 加拿大 045"
-  port: 443
-      - "[VMess] 🇨🇦 加拿大 004"
-  tolerance: 20
-  country: JP
-  password: 09191dbf-e7f7-4e7d-b405-c4785ea992bf
-  sni: aixunx168.top
-    headers:
-  server: 164.38.155.61
-    path: 9z2fvivq
-  server: 120.232.240.56
-      - "[VMess] 🇨🇦 加拿大 140"
-  cipher: auto
-  type: ss
-  type: ss
-  tfo: false
-- alterId: 0
-  type: ss
-- name: 8|KR_speednode_0167
-- cipher: aes-256-cfb
-  name: 0|-MrXbin-113
-  sni: trojan-ws.vpnctvip.dns-dynamic.NeT
-      - "[VMess] 🇨🇦 加拿大 117"
-  name: 0|-MrXbin-123
-      - "[VMess] 🇨🇦 加拿大 012"
-  - 5,6|日本2|@ripaojiedian
-  type: ss
-      - "[VMess] 🇨🇦 加拿大 045"
-      - DIRECT
-  servername: www.65320526.xyz
-      - "[VMess] 🇺🇸 美国 036"
-  name: 0|-MrXbin-30
-    type: select
-      - "[VMess] 🇨🇦 加拿大 056"
-  name: 0|-MrXbin-120
-      - "[VMess] 🇨🇦 加拿大 008"
-      - "[VMess] 🇺🇸 美国 024"
-  type: ss
-      - "[VMess] 🇫🇮 芬兰 2"
-      - "[VMess] 🇧🇷 巴西 1"
-  server: 13.74.30.44
-  - 5|🇯🇵 日本|@ripaojiedian
-      - "[VMess] 🇨🇦 加拿大 105"
-    host: a4.wagaga.online
-  url: https://www.google.com/
-proxies:
-- name: 🐟 漏网之鱼
-- interval: 300
-      - "[VMess] 🇨🇦 加拿大 140"
-  - 0|-MrXbin-114
-      - "[SS] 🇫🇷 _FR_法国"
-      - "[VMess] 🇨🇦 加拿大 115"
-  network: ws
-      - "[VMess] 🇨🇦 加拿大 098"
-- name: 5|🇺🇸 美国4|@ripaojiedian
-      - 🇯🇵 日本
-- cipher: aes-256-cfb
-      - "[VMess] 🇨🇦 加拿大 002"
-  protocol: auth_aes128_md5
-      - "[Trojan] 🇨🇦 加拿大 019"
-  - 5|🇧🇷 巴西R|@ripaojiedian
-      - "[VMess] 🇨🇦 加拿大 072"
-  - {name: "[VMess] 🇨🇦 加拿大 131", server: yx1.gyyun.top, port: 2052, type: vmess, uuid: 9d4d2803-cbf8-4c49-afeb-3ce17ae0007a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: lrb1.gyyun.top}}, udp: true}
+ws-opts:
+  - 1|d*********g.com_61
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  port: 2086
   password: amazonskr05
-      - "[VMess] 🇺🇸 美国 031"
+      - "[VMess] 🇨🇦 加拿大 44"
+  tls: false
+  type: ss
+  name: 0,5|🇯🇵 日本特殊|@ripaojiedian
+- cipher: aes-256-cfb
+  tls: false
+  type: ssr
+  type: vmess
   ws-opts:
-      - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4"
-  password: eHpq4cgXzmWTkI2xKN3w54
+  sni: ftp.debian.org
+  port: 2052
+      - "[VMess] 🇨🇦 加拿大 167"
+  type: select
+      Host: ip2.1457230.xyz
+  type: ss
+  - 11|香港2|@ripaojiedian
+  port: 2052
+  name: 1|d*********g.com_49
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  port: 443
+  - 1|d*********g.com_47
+  udp: true
+  name: 1|d*********g.com_77
+  - '5|d*********g.com_30 #1'
+  http-opts: {}
+  network: ws
+    headers:
+  - 0|-MrXbin-106
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+- alterId: 0
+  - 1|d*********g.com_36
+  server: 183.232.139.22
+  network: tcp
+  password: amazonskr05
+      - "[VMess] 🇨🇦 加拿大 162"
+  tls: false
+  server: 104.26.7.152
+  udp: true
+  - 0|-https://t.me/MrXbin-82
+  country: JP
+  name: 0|-MrXbin-18
+- alterId: 0
+  - 0|-https://t.me/MrXbin-102
+  servername: ip006.dtku47.xyz
+  type: vmess
+- cipher: aes-256-cfb
+  network: ws
+  type: vmess
+  name: '4|d*********g.com_3 #3'
+- alterId: 0
+  type: trojan
+    path: github.com/Alvin9999
+  type: trojan
+  ws-opts:
+      - "[VMess] 🇨🇦 加拿大 120"
+  skip-cert-verify: true
+  type: vmess
+      Host: ip14.freegradely.xyz
+  protocol: origin
+  tfo: false
+proxy-groups:
+  server: 172.64.175.213
+    headers:
+  servername: ip006.freegradely.xyz
+- name: 🚀 选择代理
+  network: ws
+  - 0|-MrXbin-114
+- name: 5|🇹🇼 台湾2|@ripaojiedian
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  - '5|d*********g.com_17 #1'
+  network: ws
+      Host: oA5FSz9Tjp1.yofnhkfc.xyz
+  cipher: auto
+  port: 2086
+  servername: ip005.dtku47.xyz
+  tls: false
+  cipher: auto
+  server: 92.223.124.25
+  type: vmess
+    headers:
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  type: vmess
+  cipher: auto
+  servername: ''
+  port: 443
+    path: github.com/Alvin9999
+  type: url-test
+  port: 2086
+  tls: false
+  name: 10,11|美国5|@ripaojiedian
+  port: 443
+global-client-fingerprint: chrome
+  server: 172.64.233.7
+  password: telegram-id-privatevpns
+  skip-cert-verify: true
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+      - "[VMess] 🇨🇦 加拿大 070"
+- name: 12|AT_speednode_0006
+  skip-cert-verify: true
+  h2-opts: {}
+  - '2|d*********g.com_3 #1'
+      - "[VMess] 🇨🇦 加拿大 26"
+  - 10|🇭🇰 香港4|@ripaojiedian
+- alterId: 0
+  tls: false
+  server: 172.64.175.88
+  server: 172.64.166.2
+- alterId: 0
+    path: github.com/Alvin9999
+  - REJECT
+    headers:
+ 
+  - '5|d*********g.com_21 #1'
+  ws-opts:
+  - 5|🇭🇰 香港R|@ripaojiedian
+      - "[VMess] 🇨🇦 加拿大 004"
+  servername: ''
+      - "[VMess] 🇨🇦 加拿大 084"
+      - "[VMess] 🇨🇦 加拿大 193"
+  - 5,6|日本2|@ripaojiedian
+  - 0|-MrXbin-130
+      - "[Trojan] 🇨🇦 加拿大 187"
+  tls: false
+  h2-opts: {}
+    headers:
+  name: 1|d*********g.com_46
+  - 10|🇯🇵 日本|@ripaojiedian
+- name: 8|KR_speednode_0167
+  - {name: "[VMess] 🇺🇸 美国 036", server: 173.245.58.154, port: 2087, type: vmess, uuid: 2a3263e2-891c-4446-b474-a8c63acb6e25, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: /, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
+  name: 1|d*********g.com_42
   tls: false
   
   </pre>
