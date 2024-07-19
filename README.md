@@ -36,10 +36,10 @@
 
 
 
-[**» 进入星云机场-优惠活动中-高速/稳定/性价比推荐-年付58元600GB、88元2300GB、小白专属客户端，1秒上手**](https://www.xxxlsop.com/#/register?code=EiPdmWvq)
+[**» 进入星云机场-优惠活动中-高速/稳定/性价比推荐-年付58元600GB、88元2300GB、送小火箭ID、小白专属客户端，1秒上手**](https://www.xxxlsop.com/#/register?code=EiPdmWvq)
 
 
-[**» 进入海盗cloud机场-便宜机场-量大价低-月付9.9元300GB、24元1000G、40元2000GB**](https://www.hdycco.xyz/#/register?code=wuqd5vwQ)
+[**» 进入海盗cloud机场-便宜机场-量大价低-月付9.9元300GB、24元1000G、40元2000GB**-送小火箭ID、](https://www.hdycco.xyz/#/register?code=wuqd5vwQ)
 
 
 
