@@ -90,84 +90,111 @@ ssr://ODUuMTE3LjIzNC4xMDc6MjE1NjA6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOemRsLz
 <pre>此仅作为参考，订阅链接从上方获取↑</pre>
 <h3 class="h3h3">clash订阅开源节选</h3>
 <pre>  
-  tls: false
-  server: 43.206.232.169
-  udp: true
-    path: github.com/Alvin9999
-  name: '5|d*********g.com_19 #1'
-  name: 1|d*********g.com_29
-  udp: true
-  type: vmess
-  servername: ip2.1457230.xyz
-      HOST: ip11.freegradely.xyz
-  udp: true
-      - "[Trojan] 🇨🇦 加拿大 170"
-      - "[VMess] 🇺🇸 美国 036"
-      - "[VMess] 🇨🇦 加拿大 006"
-- name: 🌐 突破锁区
-  tls: false
-      - "[VMess] 🇨🇦 加拿大 035"
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-- alterId: 0
-  ws-opts:
-  network: ws
-  server: 3.112.44.123
-    path: github.com/Alvin9999
   skip-cert-verify: false
-  password: moist
-  network: ws
-  cipher: auto
-- alterId: 0
-    path: github.com/Alvin9999
-    headers:
-  type: vmess
       Host: ip2.1457230.xyz
-      Host: ip006.dtku47.xyz
-      - "[VMess] 🇨🇦 加拿大 046"
-  type: ss
-  proxies:
-  servername: cdn3.freegradely.xyz
-  port: 5001
-      - "[VMess] 🇺🇸 _US_美国_2"
-    headers:
-    path: github.com/Alvin9999
-      HOST: cdn2.freegradely.xyz
-  type: url-test
-  - '2|d*********g.com_0 #1'
-  type: vmess
-      Host: cdn3.freegradely.xyz
-  udp: true
-  port: 2052
-  type: vmess
-  name: 1|d*********g.com_68
-  ws-opts:
-  network: ws
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  port: 709
+    path: /?ed=2560
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  port: 14455
+  country: US
+  - 0|-MrXbin-30
+      - "[VMess] 🇺🇸 美国 024"
   h2-opts: {}
+  name: 1|d*********g.com_71
+    path: github.com/Alvin9999
   cipher: auto
-  - 🗺️ 选择地区
-  country: KR
+      - "[VMess] 🇨🇦 加拿大 80"
+      HOST: ip2.1457230.xyz
+  cipher: auto
+  tls: false
   type: vmess
-  name: 0|-https://t.me/MrXbin-138
-  network: ws
-  type: vmess
-  skip-cert-verify: true
+      - "[VMess] 🇨🇦 加拿大 071"
+  - 5,6|日本2|@ripaojiedian
+  ws-opts:
+  name: 1|d*********g.com_51
+  servername: ip2.1457230.xyz
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
   http-opts: {}
-  network: ws
-  port: 2053
-  type: ss
-  h2-opts: {}
-  - 223.5.5.5
-  type: vmess
   ws-opts:
-      - "[VMess] 🇨🇦 加拿大 134"
-  - {name: "[VMess] 🇦🇪 阿联酋 001", server: 151.101.142.20, port: 80, type: vmess, uuid: a2690f22-1598-42cd-9273-40f6ca6fb825, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: pardazeshvpn.tg2.ir, network: ws, ws-opts: {path: "/Telegram:", headers: {Host: pardazeshvpn.tg2.ir}}, udp: true}
-  - {name: "[VMess] 🇸🇦 _US_美国->🇸🇦_SA_沙特阿拉伯", server: jd3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jd3.shabijichang.com}}, udp: true}
-  port: 443
+  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+- alterId: 0
+  tls: false
+  - 0|-MrXbin-7
+      - "[SS] 🇮🇪 爱尔兰 V2CROSS.COM"
+      Host: cdn3.freegradely.xyz
+  name: 0|-MrXbin-127
+  http-opts: {}
+  network: ws
+ 
+    path: github.com/Alvin9999
+  http-opts: {}
+  proxies:
+  name: '5|d*********g.com_23 #1'
+  - {name: "[VMess] 🇨🇦 加拿大 162", server: 104.26.5.32, port: 2095, type: vmess, uuid: a5dc7082-3433-48ad-9216-ddc9768e5160, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: ybr.redbullplus.xyz, network: ws, ws-opts: {path: /DDD, headers: {Host: ybr.redbullplus.xyz}}, udp: true}
+  password: amazonskr05
+  proxies:
+  name: 0|-MrXbin-88
+  server: 172.64.166.28
+  name: 11|香港3|@ripaojiedian
+  - REJECT
+  cipher: auto
+  skip-cert-verify: false
+  - 1|d*********g.com_39
+    headers:
+    path: 9z2fvivq
+      - "[SS] 🇫🇷 _FR_法国"
+  - 5|🇭🇰 香港|@ripaojiedian
+  - dns-query
+  cipher: auto
+  type: vmess
+  tls: false
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  - {name: "[VMess] 🇨🇦 加拿大 100", server: 104.19.173.168, port: 80, type: vmess, uuid: c3fe15dd-3559-4f4b-bd2c-37ad818411e4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: sg3.889611.com}}, udp: true}
+  network: ws
+  server: 104.19.21.73
+  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+- alterId: 64
+    headers:
+  tls: false
+  servername: cdn3.freegradely.xyz
+      Host: ip2.1457230.xyz
+  ws-opts:
+  server: 172.64.167.22
+- name: 10|🇭🇰 香港4|@ripaojiedian
+  type: vmess
+      HOST: ip2.1457230.xyz
+  tls: false
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  - 1|d*********g.com_17
+      - "[VMess] 🇺🇸 _US_美国_3"
+  cipher: auto
+  cipher: auto
   servername: ip2.1457230.xyz
-  server: 104.17.106.151
+  tls: false
+  - 5|🇺🇸 美国4|@ripaojiedian
+- name: 🐟 漏网之鱼
+  - 0|-MrXbin-18
+  udp: true
+  type: vmess
+  servername: cdn3.freegradely.xyz
+      - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
+  udp: true
+      - "[VMess] 🇨🇦 加拿大 118"
+  port: 709
+  server: 104.19.57.4
+  type: vmess
+  udp: true
+  type: trojan
+  - 5|🇹🇼 台湾3|@ripaojiedian
+  type: trojan
+  type: vmess
+      - "[VMess] 🇨🇦 加拿大 029"
+      - "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_3"
+  tfo: false
+- alterId: 0
+      - "[VMess] 🇫🇮 芬兰 1"
+  server: 104.19.47.65
+- alterId: 0
   - ✅ 手动选择
  
 </pre>
@@ -176,156 +203,223 @@ ssr://ODUuMTE3LjIzNC4xMDc6MjE1NjA6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOemRsLz
 
 <h3 class="h3h3">v2ray订阅开源节选</h3>
 <pre>
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAxNSIsImFkZCI6IjEwNC4xOC45NS4yMTMiLCJwb3J0IjoiMjA1MiIsInR5cGUiOiJub25lIiwiaWQiOiJjMjg2ZGFhMi01OWRlLTQ1NWMtOGRlOC1lYzAzMmI2Y2UyZTgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAxNiIsImFkZCI6IjEwNC4xOC4yMDMuMjMyIiwicG9ydCI6IjIwNTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE5NDY1ZmMtMzkxNC00Yjc2LWM4YTItYzc2OTcwNDFkY2Y3IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiMmQuaXJ2bi5kZWJpYW4uNi42LjFiMS44LmZ4cC5kZWJpYW4ub3JnLnNwZWVkdGVzdC5uZXQu5YiX5YiX55S35LqL55qE5LqL5YiX5LiK6LWb55S3LmZpbHRlci1uYWtvbi1tYWRhcmouY3lvdS4iLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAxNyIsImFkZCI6IjE3Mi42Ny4xNDAuMjUxIiwicG9ydCI6IjIwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjRmMjgzZmItOGNlZS00NmE4LWIzYzktM2NjYjc0ZDljMTVmIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwiaG9zdCI6IiIsInRscyI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAxOCIsImFkZCI6Inl4MS5neXl1bi50b3AiLCJwb3J0IjoiODg4MCIsInR5cGUiOiJub25lIiwiaWQiOiI5Mjk1NmYxOC1iNzJmLTQ3NGUtOWVkNC0yMzNhNjM3Y2E2NTciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6Inl4MS5neXl1bi50b3AiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAxOSIsImFkZCI6Inl4My5neXl1bi50b3AiLCJwb3J0IjoiODg4MCIsInR5cGUiOiJub25lIiwiaWQiOiI5Mjk1NmYxOC1iNzJmLTQ3NGUtOWVkNC0yMzNhNjM3Y2E2NTciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6Inl4My5neXl1bi50b3AiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAyMCIsImFkZCI6Inl4Mi5neXl1bi50b3AiLCJwb3J0IjoiODg4MCIsInR5cGUiOiJub25lIiwiaWQiOiI5Mjk1NmYxOC1iNzJmLTQ3NGUtOWVkNC0yMzNhNjM3Y2E2NTciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6Inl4Mi5neXl1bi50b3AiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAyMSIsImFkZCI6Inl4Mi5neXl1bi50b3AiLCJwb3J0IjoiMjA1MiIsInR5cGUiOiJub25lIiwiaWQiOiI5Mjk1NmYxOC1iNzJmLTQ3NGUtOWVkNC0yMzNhNjM3Y2E2NTciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6Inl4Mi5neXl1bi50b3AiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAyMiIsImFkZCI6Inl4MS5neXl1bi50b3AiLCJwb3J0IjoiMjA1MiIsInR5cGUiOiJub25lIiwiaWQiOiI5Mjk1NmYxOC1iNzJmLTQ3NGUtOWVkNC0yMzNhNjM3Y2E2NTciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6Inl4MS5neXl1bi50b3AiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAyMyIsImFkZCI6Inl4My5neXl1bi50b3AiLCJwb3J0IjoiMjA1MiIsInR5cGUiOiJub25lIiwiaWQiOiI5Mjk1NmYxOC1iNzJmLTQ3NGUtOWVkNC0yMzNhNjM3Y2E2NTciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6Inl4My5neXl1bi50b3AiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6Yg5Yqg5ou/5aSnIDAyNCIsImFkZCI6IjEwNC4xNi42MS44IiwicG9ydCI6IjgwODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiOTUwZGI2YWEtNDkyNi00NjE2LTgxNmUtZWMwMzEyZGNiODdiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9qYWhma2poYS5jZmQvbGlua3dzIiwiaG9zdCI6IiIsInRscyI6IiJ9
+vmAss://AQ72I7oiMiIsInBzI7oi87+HqPCfh6Qg5Qqg5ou/5aSnIDAxNSIsImFkZCI6I7AwNC8xOC85NS8QMTMiLC7wb370I7oiM7A1MiIsInR5cGUiOi7ub25lIiwiaWQiOi77M7g2ZGFhMi01OWRlLTQ1NWMtOGRlOC1lQzAzMmI2Q2UQZTgiLC7haWQiOiIwIiwibmV0I7oid3MiLC7wQXRoI7oiLQIsImhvc3QiOiIiLC70bHMiOiIifQ==
+vmAss://AQ72I7oiMiIsInBzI7oi87+HqPCfh6Qg5Qqg5ou/5aSnIDAxNiIsImFkZCI6I7AwNC8xOC8QMDMuM7MQIiwicG9QdCI6I7IwNTIiLC70AXBlI7oibm9uZSIsImlkI7oiNDA5NDQ1ZmMtMzkxNC00Q7c2LWM8QTItQzc2OTcwNDFkQ2Q3IiwiQWlkI7oiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLC7ob3N0I7oiMmQuaX72bi5kZW7pQW8uNi82L7FiMS88LmZ8cC5kZW7pQW8ub37nLnNwZWVkdGVzdC5uZXQu5QiX5QiX55S35LqL55qA5LqL5QiX5LiK6LWb55S3LmZpbHRlci1uQWtvbi1tQWRhcmouQ3lvdS8iLC70bHMiOiIifQ==
+vmAss://AQ72I7oiMiIsInBzI7oi87+HqPCfh6Qg5Qqg5ou/5aSnIDAxNQIsImFkZCI6I7A3Mi82NQ8xNDAuM7UxIiwicG9QdCI6I7IwODQiLC70AXBlI7oibm9uZSIsImlkI7oiQ7RmM7gzZmItOGNlZS00NmA8LWIzQzktM2N7Q7c0ZDl7MTVmIiwiQWlkI7oiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cz9lZD0QMDQ8IiwiaG9zdCI6IiIsInRscQI6Ii79
+vmAss://AQ72I7oiMiIsInBzI7oi87+HqPCfh6Qg5Qqg5ou/5aSnIDAxOCIsImFkZCI6Inl8MS5nAXl1bi50b3AiLC7wb370I7oiODg8MCIsInR5cGUiOi7ub25lIiwiaWQiOiI5M7k1NmQxOC1iNz7mLTQ3NGUtOWVkNC0QMzNhN7M3Q2A2NTciLC7haWQiOiIwIiwibmV0I7oid3MiLC7wQXRoI7oiLz9lZD0QMDQ8IiwiaG9zdCI6Inl8MS5nAXl1bi50b3AiLC70bHMiOiIifQ==
+vmAss://AQ72I7oiMiIsInBzI7oi87+HqPCfh6Qg5Qqg5ou/5aSnIDAxOSIsImFkZCI6Inl8MQ5nAXl1bi50b3AiLC7wb370I7oiODg8MCIsInR5cGUiOi7ub25lIiwiaWQiOiI5M7k1NmQxOC1iNz7mLTQ3NGUtOWVkNC0QMzNhN7M3Q2A2NTciLC7haWQiOiIwIiwibmV0I7oid3MiLC7wQXRoI7oiLz9lZD0QMDQ8IiwiaG9zdCI6Inl8MQ5nAXl1bi50b3AiLC70bHMiOiIifQ==
+vmAss://AQ72I7oiMiIsInBzI7oi87+HqPCfh6Qg5Qqg5ou/5aSnIDAQMCIsImFkZCI6Inl8Mi5nAXl1bi50b3AiLC7wb370I7oiODg8MCIsInR5cGUiOi7ub25lIiwiaWQiOiI5M7k1NmQxOC1iNz7mLTQ3NGUtOWVkNC0QMzNhN7M3Q2A2NTciLC7haWQiOiIwIiwibmV0I7oid3MiLC7wQXRoI7oiLz9lZD0QMDQ8IiwiaG9zdCI6Inl8Mi5nAXl1bi50b3AiLC70bHMiOiIifQ==
+vmAss://AQ72I7oiMiIsInBzI7oi87+HqPCfh6Qg5Qqg5ou/5aSnIDAQMSIsImFkZCI6Inl8Mi5nAXl1bi50b3AiLC7wb370I7oiM7A1MiIsInR5cGUiOi7ub25lIiwiaWQiOiI5M7k1NmQxOC1iNz7mLTQ3NGUtOWVkNC0QMzNhN7M3Q2A2NTciLC7haWQiOiIwIiwibmV0I7oid3MiLC7wQXRoI7oiLz9lZD0QMDQ8IiwiaG9zdCI6Inl8Mi5nAXl1bi50b3AiLC70bHMiOiIifQ==
+vmAss://AQ72I7oiMiIsInBzI7oi87+HqPCfh6Qg5Qqg5ou/5aSnIDAQMiIsImFkZCI6Inl8MS5nAXl1bi50b3AiLC7wb370I7oiM7A1MiIsInR5cGUiOi7ub25lIiwiaWQiOiI5M7k1NmQxOC1iNz7mLTQ3NGUtOWVkNC0QMzNhN7M3Q2A2NTciLC7haWQiOiIwIiwibmV0I7oid3MiLC7wQXRoI7oiLz9lZD0QMDQ8IiwiaG9zdCI6Inl8MS5nAXl1bi50b3AiLC70bHMiOiIifQ==
+vmAss://AQ72I7oiMiIsInBzI7oi87+HqPCfh6Qg5Qqg5ou/5aSnIDAQMQIsImFkZCI6Inl8MQ5nAXl1bi50b3AiLC7wb370I7oiM7A1MiIsInR5cGUiOi7ub25lIiwiaWQiOiI5M7k1NmQxOC1iNz7mLTQ3NGUtOWVkNC0QMzNhN7M3Q2A2NTciLC7haWQiOiIwIiwibmV0I7oid3MiLC7wQXRoI7oiLz9lZD0QMDQ8IiwiaG9zdCI6Inl8MQ5nAXl1bi50b3AiLC70bHMiOiIifQ==
+vmAss://AQ72I7oiMiIsInBzI7oi87+HqPCfh6Qg5Qqg5ou/5aSnIDAQNCIsImFkZCI6I7AwNC8xNi82MS88IiwicG9QdCI6I7gwODAiLC70AXBlI7oibm9uZSIsImlkI7oiOTUwZGI2QWAtNDkQNi00N7A2LTgxNmUtZWMwMzAQZGNiODdiIiwiQWlkI7oiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9qQWhma2poQS57ZmQvbGlua3dzIiwiaG9zdCI6IiIsInRscQI6Ii79
 </pre>
 <h3 class="h3h3">base64订阅开源节选</h3>
 <pre class="corepress-code-pre">
   
-ws-opts:
-  - 1|d*********g.com_61
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  port: 2086
-  password: amazonskr05
-      - "[VMess] 🇨🇦 加拿大 44"
-  tls: false
-  type: ss
-  name: 0,5|🇯🇵 日本特殊|@ripaojiedian
-- cipher: aes-256-cfb
-  tls: false
-  type: ssr
+type: vmess
+  - {name: "[VMess] 🇮🇳 _US_美国->🇮🇳_IN_印度_4", server: mm3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mm3.shabijichang.com}}, udp: true}
+      - "[VMess] 🇨🇦 加拿大 111"
   type: vmess
-  ws-opts:
-  sni: ftp.debian.org
-  port: 2052
-      - "[VMess] 🇨🇦 加拿大 167"
-  type: select
+  nameserver:
+  udp: true
       Host: ip2.1457230.xyz
-  type: ss
-  - 11|香港2|@ripaojiedian
-  port: 2052
-  name: 1|d*********g.com_49
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  port: 443
-  - 1|d*********g.com_47
-  udp: true
-  name: 1|d*********g.com_77
-  - '5|d*********g.com_30 #1'
-  http-opts: {}
-  network: ws
-    headers:
-  - 0|-MrXbin-106
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  - 🇨🇦 加拿大
 - alterId: 0
-  - 1|d*********g.com_36
-  server: 183.232.139.22
-  network: tcp
-  password: amazonskr05
-      - "[VMess] 🇨🇦 加拿大 162"
   tls: false
-  server: 104.26.7.152
-  udp: true
-  - 0|-https://t.me/MrXbin-82
-  country: JP
-  name: 0|-MrXbin-18
-- alterId: 0
-  - 0|-https://t.me/MrXbin-102
-  servername: ip006.dtku47.xyz
+  proxies:
+  name: 1|d*********g.com_48
+  server: 104.19.38.22
+      - "[VMess] 🇺🇸 美国 024"
+  tls: false
+dns:
   type: vmess
+  port: 2086
+  type: vmess
+    headers:
+  port: 443
+  - 5|🇭🇰 香港2|@ripaojiedian
+  name: 0|-MrXbin-100
+  server: 104.20.17.196
+  skip-cert-verify: true
+  - 6|香港6|@ripaojiedian
+    path: github.com/Alvin9999
+  server: 104.19.46.36
+  type: vmess
+      Host: ip2.1457230.xyz
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+      - "[Trojan] 🇨🇦 加拿大 156"
+  port: 2052
+  servername: cdn3.freegradely.xyz
+    headers:
+- alterId: 0
+  - {name: "[VMess] 🇨🇦 加拿大 126", server: 172.67.74.4, port: 443, type: vmess, uuid: 441da342-ce90-441e-bff9-d2ceb55e68ca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ivideos.sbs/linkws, headers: {Host: mikasa.yaemiko.cloudns.org}}, udp: true}
+  name: 0|-MrXbin-119
+  tls: false
+  server: 183.238.202.173
+  network: ws
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+- alterId: 0
+      - "[Trojan] 🇨🇦 加拿大 194"
+    headers:
+      - "[VMess] 🇨🇦 加拿大 057"
+  cipher: auto
+  type: vmess
+  type: trojan
+  - 🎯 负载均衡
+  name: 5|🇭🇰 香港2|@ripaojiedian
+  network: tcp
+  skip-cert-verify: true
+  name: 0|-MrXbin-115
+  tls: false
+  country: US
+  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+  - 5,8|CN_speednode_0038
+  port: 2086
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+    path: github.com/Alvin9999
+  ws-opts:
+  udp: true
+  type: vmess
+    path: github.com/Alvin9999
+  - {name: "[Trojan] 🇨🇦 加拿大 166", server: 104.19.171.7, port: 443, type: trojan, password: 984e400bf5d541b7b0815913fe0c432a, sni: jobscareerforstudent.com, skip-cert-verify: true, network: ws, ws-opts: {path: /6b777a91, headers: {Host: jobscareerforstudent.com}}, udp: true}
+  - 5|🇹🇼 台湾2|@ripaojiedian
+  ws-opts:
+  ws-opts:
+  server: 3.39.251.119
+- country: DE
+  http-opts: {}
+  port: 2086
+  udp: true
+  skip-cert-verify: false
+    path: github.com/Alvin9999
+  type: vmess
+  - 5|🇯🇵 日本|@ripaojiedian
+  skip-cert-verify: true
+  udp: true
+  port: 443
+  name: 1|d*********g.com_31
+  type: trojan
+  type: trojan
+  password: hGkQ6915tD
+      - "[VMess] 🇨🇦 加拿大 107"
+      - "[VMess] 🇺🇸 美国 9"
+  servername: ip2.1457230.xyz
+    path: github.com/Alvin9999
+  servername: cdn3.freegradely.xyz
+  password: amazonskr05
+  protocol: auth_aes128_md5
+  type: vmess
+  server: 172.64.166.33
+  network: ws
+- alterId: 0
+- alterId: 0
+      - "[VMess] 🇨🇦 加拿大 072"
+    path: github.com/Alvin9999
+      - "[VMess] 🇨🇦 加拿大 117"
+- alterId: 0
+  tls: false
+  type: vmess
+  country: KG
+  - 11|香港2|@ripaojiedian
+  http-opts: {}
+  - '5|d*********g.com_1 #4'
+  proxies:
+      Host: ip2.1457230.xyz
+  tolerance: 20
+  type: fallback
+  port: '2086'
+    headers:
+    path: github.com/Alvin9999
+  ws-opts:
+  ws-opts:
+      - "[VMess] 🇳🇱 荷兰 005"
+- name: 8|GB_speednode_0094
+  password: hGkQ6915tD
+  port: 36596
+  skip-cert-verify: true
+      - "[VMess] 🇺🇸 美国 019"
+  skip-cert-verify: true
+      - "[VMess] 🇨🇦 加拿大 051"
+  ws-opts:
+  network: ws
+  network: ws
+  url: https://www.google.com/
+      - "[VMess] 🇨🇦 加拿大 195"
+  udp: true
+  - {name: "[VMess] 🇨🇦 加拿大 033", server: 172.67.185.218, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: oiictw.yydsii.com, network: ws, ws-opts: {path: /, headers: {Host: oiictw.yydsii.com}}, udp: true}
+  servername: estate-dot-complexity-emirates.trycloudflare.com
+      - "[VMess] 🇨🇦 加拿大 021"
+      - "[VMess] 🇨🇦 加拿大 103"
+  servername: ip2.1457230.xyz
+      - "[VMess] 🇨🇦 加拿大 066"
+  - ♻ 自动选择
+      - "[VMess] 🇨🇦 加拿大 140"
+  servername: ip2.1457230.xyz
+  - 0,5|🇯🇵 日本特殊|@ripaojiedian
+      - "[VMess] 🇨🇦 加拿大 050"
+      - "[VMess] 🇨🇦 加拿大 022"
+  name: 🔰 延迟最低
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  - 0|-MrXbin-109
+  uuid: 4e55ce40-9f8e-417d-f8ae-aa6af97a7097
+  udp: true
+  cipher: auto
+  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  type: vmess
+- name: 8|KR_speednode_0168
+  type: ss
+    path: github.com/Alvin9999
+  - 0|-MrXbin-106
+      Host: ip2.1457230.xyz
+  name: 11|新加坡|@ripaojiedian
+  network: ws
+  - 🇺🇸 美国
+  proxies:
 - cipher: aes-256-cfb
   network: ws
   type: vmess
-  name: '4|d*********g.com_3 #3'
-- alterId: 0
-  type: trojan
-    path: github.com/Alvin9999
-  type: trojan
-  ws-opts:
-      - "[VMess] 🇨🇦 加拿大 120"
-  skip-cert-verify: true
-  type: vmess
-      Host: ip14.freegradely.xyz
-  protocol: origin
-  tfo: false
-proxy-groups:
-  server: 172.64.175.213
-    headers:
-  servername: ip006.freegradely.xyz
-- name: 🚀 选择代理
+- name: 12|AT_speednode_0005
+  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+  port: 22324
+      HOST: sanapardaz.onthewifi.com
   network: ws
-  - 0|-MrXbin-114
-- name: 5|🇹🇼 台湾2|@ripaojiedian
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  - '5|d*********g.com_17 #1'
+  servername: ip2.1457230.xyz
+- alterId: 0
+- alterId: 0
   network: ws
-      Host: oA5FSz9Tjp1.yofnhkfc.xyz
-  cipher: auto
-  port: 2086
-  servername: ip005.dtku47.xyz
-  tls: false
-  cipher: auto
-  server: 92.223.124.25
-  type: vmess
+  network: ws
+  server: 104.19.32.46
+  obfs: tls1.2_ticket_auth
+  - 1|d*********g.com_2
     headers:
+  name: 🇫🇷 法国
+  server: ceu-a01.stream.fnode.top
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  type: vmess
-  cipher: auto
-  servername: ''
-  port: 443
-    path: github.com/Alvin9999
-  type: url-test
+  country: US
+  network: ws
+      Host: 421421.xyz
+  - 🇭🇰 香港
+  type: trojan
+  network: ws
+- alterId: 0
+  port: 21949
+      Host: ip2.1457230.xyz
   port: 2086
-  tls: false
-  name: 10,11|美国5|@ripaojiedian
-  port: 443
-global-client-fingerprint: chrome
-  server: 172.64.233.7
-  password: telegram-id-privatevpns
-  skip-cert-verify: true
+  proxies: &id001
+  name: 0|-MrXbin-131
+  - {name: "[Trojan] 🇨🇦 加拿大 194", server: 104.16.201.94, port: 8443, type: trojan, password: d3e663d2-5cce-56e1-a199-2fec6078fcb4, sni: mailbox.CPIforPERSiA.uk, skip-cert-verify: true, network: ws, ws-opts: {path: trojan-ws/, headers: {Host: mailbox.CPIforPERSiA.uk}}, udp: true}
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-      - "[VMess] 🇨🇦 加拿大 070"
-- name: 12|AT_speednode_0006
-  skip-cert-verify: true
-  h2-opts: {}
-  - '2|d*********g.com_3 #1'
-      - "[VMess] 🇨🇦 加拿大 26"
-  - 10|🇭🇰 香港4|@ripaojiedian
-- alterId: 0
-  tls: false
-  server: 172.64.175.88
-  server: 172.64.166.2
-- alterId: 0
-    path: github.com/Alvin9999
-  - REJECT
+  - 1|d*********g.com_79
     headers:
- 
-  - '5|d*********g.com_21 #1'
-  ws-opts:
-  - 5|🇭🇰 香港R|@ripaojiedian
-      - "[VMess] 🇨🇦 加拿大 004"
-  servername: ''
-      - "[VMess] 🇨🇦 加拿大 084"
-      - "[VMess] 🇨🇦 加拿大 193"
-  - 5,6|日本2|@ripaojiedian
-  - 0|-MrXbin-130
-      - "[Trojan] 🇨🇦 加拿大 187"
-  tls: false
-  h2-opts: {}
-    headers:
-  name: 1|d*********g.com_46
-  - 10|🇯🇵 日本|@ripaojiedian
-- name: 8|KR_speednode_0167
-  - {name: "[VMess] 🇺🇸 美国 036", server: 173.245.58.154, port: 2087, type: vmess, uuid: 2a3263e2-891c-4446-b474-a8c63acb6e25, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: /, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
-  name: 1|d*********g.com_42
-  tls: false
+      - "[VMess] 🇨🇦 加拿大 110"
+      - "[VMess] 🇨🇦 加拿大 008"
+  servername: ip2.1457230.xyz
+  udp: true
+  name: 0|-MrXbin-16
+  name: '5|d*********g.com_0 #4'
+  network: ws
   
   </pre>
 
