@@ -1,4 +1,4 @@
-# 2024年7月免费高速（25.8M/S）v2ray、sing-box、Clash、Verge、SSR、Shadowrocke-小火箭机场节点订阅指南
+# 2024年8月免费高速（26.8M/S）v2ray、sing-box、Clash、Verge、SSR、Shadowrocke-小火箭机场节点订阅指南
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-网络安全和隐私保护越来越受到用户的重视，使用可靠的机场服务已成为上网必备技能。对于许多用户来说，选择稳定高速的机场节点尤为重要，本次更新共100+免费机场节点，最高速度25.8M/S。覆盖香港、韩国、法国、美国、新加坡、加拿大、欧洲、日本等多个区域。复制下方的v2ray/Clash订阅链接,在客户端添加即可正常使用，<a href="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/blob/main/README.md" >免费机场节点订阅指南</a>持续更新中，欢迎收藏。
+网络安全和隐私保护越来越受到用户的重视，使用可靠的机场服务已成为上网必备技能。对于许多用户来说，选择稳定高速的机场节点尤为重要，本次更新共100+免费机场节点，最高速度26.8M/S。覆盖香港、韩国、法国、美国、新加坡、加拿大、欧洲、日本等多个区域。复制下方的v2ray/Clash订阅链接,在客户端添加即可正常使用，<a href="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/blob/main/README.md" >免费机场节点订阅指南</a>持续更新中，欢迎收藏。
 
 &nbsp;
 
