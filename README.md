@@ -60,20 +60,20 @@ ssr://MTk1LjEzMy41Mi4yNDI6MjE1NjA6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOemRsLz
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
 
-<pre>https://dash.ssrtop.com/clash@a/2024-8-13-list-1.yaml</pre>
-<pre>https://dash.ssrtop.com/clash@b/2024-8-13-list-2.yaml</pre>
+<pre>https://good.john1959.com/clash@a/2024-8-13-list-1.yaml</pre>
+<pre>https://good.john1959.com/clash@b/2024-8-13-list-2.yaml</pre>
 
 ↓备用↓
 
-<pre>https://dash.ssrtop.com/clash@c/2024-8-13-list-3.yaml</pre>
-<pre>https://dash.ssrtop.com/clash@d/2024-8-13-list-4.yaml</pre>
+<pre>https://good.john1959.com/clash@c/2024-8-13-list-3.yaml</pre>
+<pre>https://good.john1959.com/clash@d/2024-8-13-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://dash.ssrtop.com/v2ray@a/2024-8-13-list-1.txt</pre>
-<pre>https://dash.ssrtop.com/v2ray@b/2024-8-13-list-2.txt</pre>
+<pre>https://good.john1959.com/v2ray@a/2024-8-13-list-1.txt</pre>
+<pre>https://good.john1959.com/v2ray@b/2024-8-13-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://dash.ssrtop.com/base64/2024-8-13-list-1.txt</pre>
+<pre>https://good.john1959.com/base64/2024-8-13-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://dash.ssrtop.com/sing-box/2024-8-13-list-1.json </pre>           
+<pre>https://good.john1959.com/sing-box/2024-8-13-list-1.json </pre>          
                                         
 
 <hr />
