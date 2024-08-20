@@ -3,7 +3,7 @@
 
 
 
-时间来到2024年8月20日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+时间来到2024年8月21日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
 
 
 
@@ -22,7 +22,7 @@
 
 &nbsp;
 
-<a href="https://www.xxxlsop.com/#/register?code=EiPdmWvq" target="_blank" ><img class="aligncenter" src="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/assets/164295305/09fef8dc-5ec2-4af2-8eb4-9aeeb244e611" /></a>
+<a href="https://www.xxxlsop2.com/#/register?code=EiPdmWvq" target="_blank" ><img class="aligncenter" src="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/assets/164295305/09fef8dc-5ec2-4af2-8eb4-9aeeb244e611" /></a>
 
 &nbsp;
 
@@ -43,7 +43,7 @@
 
 
 
-<h2 class="h2h2">SSR免费节点订阅地址- 2024-8-20</h2>
+<h2 class="h2h2">SSR免费节点订阅地址- 2024-8-21</h2>
 <pre>
 
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvM1pUbGxOamsyT1MxaE5XVmpMVFJrTVRVdE9XWTFOaTAwT0RJNE9HVm1NVFEwTTJR@free.2apzhfa.xyz:31141#9%7C%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%E3%80%90%E5%9B%BD%E5%A4%96%E7%9B%B4%E8%BF%9E%E3%80%91
@@ -62,20 +62,20 @@ ssr://MTc2LjMyLjM1LjE1NjoyMDc1MzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2NESmgvP2
 <h2 class="h2h2">clash免费节点订阅地址</h2>
 
 
-<pre>https://good.john1959.com/clash@a/2024-8-20-list-1.yaml</pre>
-<pre>https://good.john1959.com/clash@b/2024-8-20-list-2.yaml</pre>
+<pre>https://good.john1959.com/clash@a/2024-8-21-list-1.yaml</pre>
+<pre>https://good.john1959.com/clash@b/2024-8-21-list-2.yaml</pre>
 
 ↓备用↓
 
-<pre>https://good.john1959.com/clash@c/2024-8-20-list-3.yaml</pre>
-<pre>https://good.john1959.com/clash@d/2024-8-20-list-4.yaml</pre>
+<pre>https://good.john1959.com/clash@c/2024-8-21-list-3.yaml</pre>
+<pre>https://good.john1959.com/clash@d/2024-8-21-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://good.john1959.com/v2ray@a/2024-8-20-list-1.txt</pre>
-<pre>https://good.john1959.com/v2ray@b/2024-8-20-list-2.txt</pre>
+<pre>https://good.john1959.com/v2ray@a/2024-8-21-list-1.txt</pre>
+<pre>https://good.john1959.com/v2ray@b/2024-8-21-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://good.john1959.com/base64/2024-8-20-list-1.txt</pre>
+<pre>https://good.john1959.com/base64/2024-8-21-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://good.john1959.com/sing-box/2024-8-20-list-1.json </pre>  
+<pre>https://good.john1959.com/sing-box/2024-8-21-list-1.json </pre>  
 
 <hr />
 
