@@ -3,7 +3,7 @@
 
 
 
-时间来到2024年8月24日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+时间来到2024年8月25日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
 
 
 
@@ -43,24 +43,20 @@
 
 
 
-<h2 class="h2h2">SSR免费节点订阅地址- 2024-8-24</h2>
+<h2 class="h2h2">SSR免费节点订阅地址- 2024-8-25</h2>
 <pre>
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOS4zOC42MiIsICJwb3J0IjogMjA4NiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMjllZWJiNjAtYjI3Yi00YTlkLWJiYTUtOTQ3NzYzZDkyMDVlIiwgInNuaSI6ICJpcDAwNS4zMTk2NzcyLnh5eiIsICJob3N0IjogImlwMDA1LjMxOTY3NzIueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ==
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.37.18.75:5500#%E7%BE%8E%E5%9B%BD+%E6%96%B0%E6%B3%BD%E8%A5%BF%E5%B7%9E%28Merck%E5%85%AC%E5%8F%B8%29
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.87.225:7307#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7306#%E6%B3%95%E5%9B%BD+OVH
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQTF4bkd6QmwySXBXYm9UeXVURnE5@89.23.110.74:61194#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vmess://eyJhZGQiOiAiMTA0LjE5LjIxLjIzMCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwODYsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaXAxNC5mcmVlZ3JhZGVseS54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.68:5600#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplM2ViNWE5My1hZGI2LTRmYjYtOTcyZS1lOTVhNzlkZTFjNjk=@iepl5.forlive.live:50118#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.49.68:7307#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTUxNmNcdTUzZjhDRE5cdTgyODJcdTcwYjkoc2hvcGlmeSkiLCAiYWRkIjogIjIzLjIyNy4zOC4zIiwgInBvcnQiOiAiMjA4NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAiaXAyLjE0NTcyMzAueHl6IiwgInRscyI6ICIifQ==
-trojan://nO7Ze2JrkclO@43.202.44.8:17251?sni=appsvs.shop#%E6%97%A5%E6%9C%AC+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWHN4M2VXUVdpMWhSdHp1WXZaeUtt@188.166.218.152:54649#%E6%96%B0%E5%8A%A0%E5%9D%A1+DigitalOcean%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN0NublBxeGVpTkhMV3Fsb3pCNGRE@62.133.60.60:21712#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vmess://eyJhZGQiOiAiMTA0LjIxLjgyLjE4MyIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIyNi5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjVhNzAyMWUwLTI2YjQtNDVkNi1iMTc1LWZlNTUxNjAxY2E5NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-trojan://CMLiu@59.3.3.161:443?security=tls&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=%2F#%E9%9F%A9%E5%9B%BD+KT%E7%94%B5%E4%BF%A1
-vmess://eyJhZGQiOiAidnUtbXVtYmFpLTAxLnZub2RlLmluZm8iLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDUzLCAiaWQiOiAiYTA0MDAxZjMtMmRiYS00MGVkLThjMmUtZDBjNzY1ZDlhZmFhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInZ1LW11bWJhaS0wMS52bm9kZS5pbmZvIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+vmess://eyJhZGQiOiAiMzUuMTk5LjE2NC4yMDQiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBcdTRmYzRcdTUyZDJcdTUxODhcdTVkZGVcdThmYmVcdTVjMTRcdTY1YWZHb29nbGVcdTRlOTFcdThiYTFcdTdiOTdcdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMiLCAicG9ydCI6IDUwMTIxLCAiaWQiOiAiMWMzYmY1YTYtMWJhNC00ZmRkLWM4MzQtMjI3M2RmMWJhZTIwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8xYzNiZjVhNiIsICJ0bHMiOiAiIn0=
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12064?sni=cdn.alibaba.com#%E4%B8%8A%E6%B5%B7%E5%B8%82+%E9%98%BF%E9%87%8C%E4%BA%91
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxXHU1ZTdmXHU1ZGRlXHU1ZTAyIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAiMTgzLjIzNi41MS4yMyIsICJwb3J0IjogNDUwMjAsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0=
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206a09kcG13VGpLUGdPVVNPN1E3Y0FPSi8rcHpQUnhYQWIzTjk3WDJJRnBrTT06bVM3NjRVNlVxZ1BxUkdWUXVkdXNNRW83enRrRlhPTHVJc1c0N2o4enAwND0=@167.172.111.237:21108#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vmess://eyJhZGQiOiAiMTA0LjI2LjE1LjE0OCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDgwLCAiaWQiOiAiOTQ3Y2IzODUtNTRiNC00NDUzLWFjOTItNjNjOTVlZjMyYTZhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjM5MjM4MzE5MzEwOTY0NTQzOTIwNTE5NDg5NzAxOTAwLmNocnNqZmtsc2RqZmtsam9pZXJmZGprbGZqbGtlZmVvanNkbGtmamVvaWZqc2Rsa2Zqd2VvaWZqbHNkY2hycy5jeW91IiwgInBhdGgiOiAiL1YyTElORS1URUxFR1JBTS1DSEFOTkVMLVZNRVNTLVdTIiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.49.68:2375#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.37.18.75:8888#%E7%BE%8E%E5%9B%BD+%E6%96%B0%E6%B3%BD%E8%A5%BF%E5%B7%9E%28Merck%E5%85%AC%E5%8F%B8%29
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxXHU1ZTdmXHU1ZGRlXHU1ZTAyIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAiMTIwLjIzMi4xNTMuMzciLCAicG9ydCI6ICI0MjA1NSIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlqSmhaR1JsTlMwMFlqUmtMVFJrTVRFdE9HTXlOQzA0TXpObFpUSTVPV1k0WkRJ@free.2weradf.xyz:36141#7%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001%20%7C%201x%20HK
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlqSmhaR1JsTlMwMFlqUmtMVFJrTVRFdE9HTXlOQzA0TXpObFpUSTVPV1k0WkRJ@free.2weradf.xyz:36143#7%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002%20%7C%201x%20HK
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlqSmhaR1JsTlMwMFlqUmtMVFJrTVRFdE9HTXlOQzA0TXpObFpUSTVPV1k0WkRJ@free.2weradf.xyz:36145#7%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%E4%BD%8F%E5%AE%85IP%2003%20%7C%201x%20HK
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlqSmhaR1JsTlMwMFlqUmtMVFJrTVRFdE9HTXlOQzA0TXpObFpUSTVPV1k0WkRJ@free.2weradf.xyz:36241#7%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2001%20%7C%201x%20TW
 
   
 </pre>                                                                   
@@ -69,18 +65,18 @@ vmess://eyJhZGQiOiAidnUtbXVtYmFpLTAxLnZub2RlLmluZm8iLCAidiI6ICIyIiwgInBzIjogIlx1
 <h2 class="h2h2">clash免费节点订阅地址</h2>
 
 
-<pre>https://v2ray-clash.top/clash-subscription@a/2024-8-24-list-1.yaml</pre>
-<pre>https://v2ray-clash.top/clash-subscription@b/2024-8-24-list-2.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@a/2025-8-25-list-1.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@b/2025-8-25-list-2.yaml</pre>
 ↓备用↓
-<pre>https://v2ray-clash.top/clash-subscription@c/2024-8-24-list-3.yaml</pre>
-<pre>https://v2ray-clash.top/@clash-subscription@d/2024-8-24-list-4.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@c/2025-8-25-list-3.yaml</pre>
+<pre>https://v2ray-clash.top/@clash-subscription@d/2025-8-25-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/v2ray-subscription@a/2024-8-24-list-1.txt</pre>
-<pre>https://v2ray-clash.top/v2ray-subscription@b/2024-8-24-list-2.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@a/2025-8-25-list-1.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@b/2025-8-25-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://v2ray-clash.top/base64-subscription/2024-8-24-list-1.txt</pre>
+<pre>https://v2ray-clash.top/base64-subscription/2025-8-25-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://v2ray-clash.top/sing-box-subscription/2024-8-24-list-1.json </pre>  
+<pre>https://v2ray-clash.top/sing-box-subscription/2025-8-25-list-1.json </pre>  
 
 <hr />
 
