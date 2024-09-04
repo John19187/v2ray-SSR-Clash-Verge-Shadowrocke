@@ -90,7 +90,7 @@ vmess://eyJhZGQiOiAiMTA0LjE5LjMyLjIxNiIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZk
 
 <h2 class="h2h2">2024年9月免费节点订阅开源</h2>
 <pre>此仅作为参考，订阅链接从上方获取↑</pre>
-<h3 class="h3h3">clash订阅开源节选</h3>
+<h3 class="h3h3">clash订阅开源节选</h3><pre>
 Host: ip2.1457230
   servername: ip2.1457230
       - "[VMess] 🇮🇷 伊朗 002"
