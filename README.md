@@ -22,7 +22,7 @@
 
 &nbsp;
 
-<a href="https://www.xyfast.xyz/#/register?code=EiPdmWvq" target="_blank" ><img class="aligncenter" src="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/assets/164295305/09fef8dc-5ec2-4af2-8eb4-9aeeb244e611" /></a>
+<a href="https://xyfast.xyz/#/register?code=EiPdmWvq" target="_blank" ><img class="aligncenter" src="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/assets/164295305/09fef8dc-5ec2-4af2-8eb4-9aeeb244e611" /></a>
 
 &nbsp;
 
@@ -36,7 +36,7 @@
 
 
 
-[**» 进入星云机场-优惠活动中-高速/稳定/性价比推荐-年付58元600GB、88元2300GB、送小火箭ID、小白专属客户端，1秒上手**](https://www.xyfast.xyz/#/register?code=EiPdmWvq)以其出色的性价比和稳定性与优质的服务获得众多外贸公司、科研人员、博主一致好评，复购率很高。
+[**» 进入星云机场-优惠活动中-高速/稳定/性价比推荐-年付58元600GB、88元2300GB、送小火箭ID、小白专属客户端，1秒上手**](https://xyfast.xyz/#/register?code=EiPdmWvq)以其出色的性价比和稳定性与优质的服务获得众多外贸公司、科研人员、博主一致好评，复购率很高。
 
 
 [**» 进入海盗cloud机场-便宜机场-量大价低-月付9.9元300GB、24元1000G、40元2000GB**-送小火箭ID、](https://www.hdycco.cc/#/register?code=wuqd5vwQ)
@@ -569,7 +569,7 @@ Shadowrocket是一款基于iOS平台的网络代理工具，专为移动设备�
 
 <hr />
 
-[**» 进入星云机场-优惠活动中-高速/稳定/性价比推荐-年付58元600GB、88元2300GB**](https://www.xyfast.xyz/#/register?code=EiPdmWvq)
+[**» 进入星云机场-优惠活动中-高速/稳定/性价比推荐-年付58元600GB、88元2300GB**](https://xyfast.xyz/#/register?code=EiPdmWvq)
 
 &nbsp;&nbsp;
 
