@@ -3,7 +3,7 @@
 
 
 
-时间来到2024年11月01日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+时间来到2024年11月02日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
 
 
 
@@ -26,7 +26,7 @@
 
 &nbsp;
 
-<a href="https://www.hdycco.cc/#/register?code=wuqd5vwQ" target="_blank" ><img class="aligncenter" src="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/assets/164295305/ca079e18-7e9d-4440-8e1d-1fb73772433e" /></a>
+<a href="https://www.yyqqhdycco.xyz/#/register?code=wuqd5vwQ" target="_blank" ><img class="aligncenter" src="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/assets/164295305/ca079e18-7e9d-4440-8e1d-1fb73772433e" /></a>
 
 <hr />
 
@@ -39,46 +39,40 @@
 [**» 进入星云机场-优惠活动中-高速/稳定/性价比推荐-年付58元600GB、88元2300GB、送小火箭ID、小白专属客户端，1秒上手**](https://yyssccxqq.xyz/#/register?code=EiPdmWvq)以其出色的性价比和稳定性与优质的服务获得众多外贸公司、科研人员、博主一致好评，复购率很高。
 
 
-[**» 进入海盗cloud机场-便宜机场-量大价低-月付9.9元300GB、24元1000G、40元2000GB**-送小火箭ID、](https://www.hdycco.cc/#/register?code=wuqd5vwQ)
+[**» 进入海盗cloud机场-便宜机场-量大价低-月付9.9元300GB、24元1000G、40元2000GB**-送小火箭ID、](https://www.yyqqhdycco.xyz/#/register?code=wuqd5vwQ)
 
 
 
-<h2 class="h2h2">SSR免费节点订阅地址- 2024-11-01</h2>
+<h2 class="h2h2">SSR免费节点订阅地址- 2024-11-02</h2>
 <pre>
                            
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20003#%E6%84%8F%E5%A4%A7%E5%88%A9%2Bv2ray
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%E7%BE%8E%E5%9B%BD%2Bv2ray
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:4444#%E7%BE%8E%E5%9B%BD%2B%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%E4%BF%84%E7%BD%97%E6%96%AF%2Bv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#%E6%AC%A7%E7%9B%9F%2Bv2ray
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%E6%B3%A2%E5%85%B0%2Bv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20003#%E6%84%8F%E5%A4%A7%E5%88%A9
+vmess://eyJhZGQiOiAic2VydmVyMzEuYmVoZXNodGJhbmVoLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIzMS5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjQxNTQxNDNjLWJiYmEtNDdhNC05Zjc5LWMyZWQwODdjYmNjOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vmess://eyJhZGQiOiAiMTA0LjIxLjgyLjE4MyIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIyNi5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjVhNzAyMWUwLTI2YjQtNDVkNi1iMTc1LWZlNTUxNjAxY2E5NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbVlUSmlNRE01TkMwNFpqUmtMVFF6T1RVdE9EUTVOUzB4WXpNM01tRTVZVEJpWVRF@free.2weradf:36175#7%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2003%20%7C%201x%20SG
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwak9XTTBPRFV4TmkwNU1tVXhMVFE0TURZdFlUQTNOaTFpTXpRd1l6QTFNbUptWlRr@free.2weradf:36213#7%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E4%BD%8F%E5%AE%85IP%2002%20%7C%201x%20US%20Los%20Angel...
-ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20005#%E6%84%8F%E5%A4%A7%E5%88%A9%2Bv2ray
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.6.202:6679#%E8%8B%B1%E5%9B%BD%2Bv2ray
-trojan://bpb-trojan@159.112.235.48:2083?security=tls&sni=403b3611-99bC-43B7-88d7-26ed5d0825A9-3.PAGes.dEv&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=/trZTKk76m0W1AxpNcC?ed=2560&fp=randomized&alpn=h2,http/1.1#美国+v2ray
-trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@ent1.imyourdaddy.top:20982?sni=sale.alibaba.com#日本+v2ray
-trojan://telegram-id-directvpn@18.189.172.160:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#美国+俄亥俄州都柏林Amazon数据中心
-trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=/trZkJgi4MLAtl7SrU9?ed&fp=randomized&alpn=h2,http/1.1#加拿大+v2ray
-trojan://auto@104.20.18.142:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#美国+CloudFlare节点
-trojan://gW2L4C6TS3@195.133.52.153:2087?security=tls&sni=ru2.all-connections.io&type=http&path=/@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven&fp=chrome&alpn=h3,h2,http/1.1#俄罗斯新西伯利亚+justhost.ru
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn1.cdn.xfltd-cdn.top:12004?sni=cn1.cdn.xfltd-cdn.top#%E5%AE%89%E5%BE%BD%E7%9C%81+%E7%A7%BB%E5%8A%A8%E6%95%B0%E6%8D%AE%E4%B8%8A%E7%BD%91%E5%85%AC%E5%85%B1%E5%87%BA%E5%8F%A3
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
 vmess://eyJhZGQiOiAic2VydmVyMzEuYmVoZXNodGJhbmVoLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIzMS5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjQxNTQxNDNjLWJiYmEtNDdhNC05Zjc5LWMyZWQwODdjYmNjOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 vmess://eyJhZGQiOiAiZGUtbmV3MDEuZGFsdXF1YW4udG9wIiwgImFpZCI6IDAsICJob3N0IjogImRlLW5ldzAxLmRhbHVxdWFuLnRvcCIsICJpZCI6ICIyMzdjNjMyYS04YWMwLTQwNDAtYWIwMi1hZGJjM2I5ZTY2MTAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODA4MCwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogInMxYy52Mi52MDAxc3NzLnh5eiIsICJwb3J0IjogMjA4MiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMTEyYWMzNmYtM2Y1My00ZTI2LTgzNzEtZDI1YzAyOGUxYjlhIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyJ9
 vmess://eyJhZGQiOiAidGFtcGF5LmluZm8iLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidGFtcGF5LmluZm8iLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=/trZkJgi4MLAtl7SrU9?ed&fp=randomized&alpn=h2,http/1.1#加拿大+02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20005#%E6%84%8F%E5%A4%A7%E5%88%A9%2B02
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogInd3dy5kYXJrcm9vbS5sb2wiLCAicG9ydCI6IDgwODAsICJpZCI6ICIyMjgyNmI0NC01YzFhLTRiNGItZGJhYS04M2EyZThiZDk1ZjAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogInd3dy5kYXJrcm9vbS5sb2wiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.6.202:6679#%E8%8B%B1%E5%9B%BD%2B02
+trojan://bpb-trojan@159.112.235.48:2083?security=tls&sni=403b3611-99bC-43B7-88d7-26ed5d0825A9-3.PAGes.dEv&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=/trZTKk76m0W1AxpNcC?ed=2560&fp=randomized&alpn=h2,http/1.1#美国+02
 vmess://eyJhZGQiOiAiYy5qYW5uYWguaG9tZXMiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYy5qYW5uYWguaG9tZXMiLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiMTYyLjE1OS4xNDAuOTMiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDgyLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImlwMy42OTI5MTk4Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiYy5rYW5kYXAuaG9tZXMiLCAiYWlkIjogMSwgImhvc3QiOiAiYy5rYW5kYXAuaG9tZXMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImxpbmt2d3MiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImMua2FuZGFwLmhvbWVzIn0=
-vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogImlyc29mdC5zeXRlcy5uZXQiLCAiaWQiOiAiMmZmOTdjNmQtODU1Ny00MmE0LWI0M2YtMTljNzdjNTk1OWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTUzNzBcdTVlYTYgdjJyYXlmcmVlLmV1Lm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#%E6%AC%A7%E7%9B%9F%2B02
+trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@ent1.imyourdaddy.top:20982?sni=sale.alibaba.com#日本+02
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:4444#%E7%BE%8E%E5%9B%BD%2B%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%E4%BF%84%E7%BD%97%E6%96%AF%2B02
 vmess://eyJhZGQiOiAiMTA0LjE5LjQ1LjUwIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4MiwgImlkIjogIjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpcDMuNjkyOTE5OC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiMTcyLjY0LjE2Ny4xMCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwOTUsICJpZCI6ICIxOGQ5NjE5MC1jMTBmLTQ0OGYtYTgyYS0yZDM2ZGY1YzNjZGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaXAyLjYwMTY3MjUueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAic2VydmVyMzEuYmVoZXNodGJhbmVoLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIzMS5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjQxNTQxNDNjLWJiYmEtNDdhNC05Zjc5LWMyZWQwODdjYmNjOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+trojan://telegram-id-directvpn@18.189.172.160:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#美国+俄亥俄州都柏林Amazon数据中心
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%E6%B3%A2%E5%85%B0%2B02
+trojan://auto@104.20.18.142:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#美国+CloudFlare节点
 
 
-                             
 
 
 
@@ -86,18 +80,18 @@ vmess://eyJhZGQiOiAic2VydmVyMzEuYmVoZXNodGJhbmVoLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6
 
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/clash-subscription@a/2024-11-01-list-1.yaml</pre>
-<pre>https://v2ray-clash.top/clash-subscription@b/2024-11-01-list-2.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@a/2024-11-02-list-1.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@b/2024-11-02-list-2.yaml</pre>
 ↓备用↓
-<pre>https://v2ray-clash.top/clash-subscription@c/2024-11-01-list-3.yaml</pre>
-<pre>https://v2ray-clash.top/@clash-subscription@d/2024-11-01-list-4.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@c/2024-11-02-list-3.yaml</pre>
+<pre>https://v2ray-clash.top/@clash-subscription@d/2024-11-02-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/v2ray-subscription@a/2024-11-01-list-1.txt</pre>
-<pre>https://v2ray-clash.top/v2ray-subscription@b/2024-11-01-list-2.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@a/2024-11-02-list-1.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@b/2024-11-02-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://v2ray-clash.top/base64-subscription/2024-11-01-list-1.txt</pre>
+<pre>https://v2ray-clash.top/base64-subscription/2024-11-02-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://v2ray-clash.top/sing-box-subscription/2024-11-01-list-1.json </pre> 
+<pre>https://v2ray-clash.top/sing-box-subscription/2024-11-02-list-1.json </pre> 
 
 <hr />
 
@@ -752,7 +746,7 @@ Shadowrocket是一款基于iOS平台的网络代理工具，专为移动设备�
 
 &nbsp;&nbsp;
 
-[**» 进入海盗cloud机场-便宜机场-量大价低-月付9.9元300GB、24元1000G、40元2000GB**](https://www.hdycco.cc/#/register?code=wuqd5vwQ)
+[**» 进入海盗cloud机场-便宜机场-量大价低-月付9.9元300GB、24元1000G、40元2000GB**](https://www.yyqqhdycco.xyz/#/register?code=wuqd5vwQ)
 
 <hr />
 	
