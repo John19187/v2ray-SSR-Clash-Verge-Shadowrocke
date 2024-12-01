@@ -1,9 +1,9 @@
-# 2024年11月免费高速（25.2M/S）v2ray、sing-box、Clash、Verge、SSR、Shadowrocke-小火箭机场节点订阅指南
+# 2024年12月免费高速（25.2M/S）v2ray、sing-box、Clash、Verge、SSR、Shadowrocke-小火箭机场节点订阅指南
 
 
 
 
-时间来到2024年11月30日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+时间来到2024年12月1日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
 
 
 
@@ -43,29 +43,31 @@
 
 
 
-<h2 class="h2h2">SSR免费节点订阅地址- 2024-11-30</h2>
+<h2 class="h2h2">SSR免费节点订阅地址- 2024-12-1</h2>
 <pre>
                            
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.199:8080#%E6%AC%A7%E7%9B%9F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:26667#%E5%BE%B7%E5%9B%BD
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:8888#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8119#%E6%B3%95%E5%9B%BD+%E6%A0%BC%E6%8B%89%E6%B2%83%E5%88%A9%E8%AE%B7OVH%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-ss://YWVzLTI1Ni1nY206YjEyMzYwZjQtMzNiYS00YzliLWFlMGMtM2RhNWY4YzZlZDA1@esbnsn6y.wmdkwwurw.top:27047#%E6%B5%99%E6%B1%9F%E7%9C%81%E5%AE%81%E6%B3%A2%E5%B8%82+%E7%A7%BB%E5%8A%A8
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@185.22.152.125:32233#%E4%BF%84%E7%BD%97%E6%96%AF+%E8%8E%AB%E6%96%AF%E7%A7%91JustHost
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.113:2375#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.113:5004#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.113:445#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.113:6379#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.21:6379#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2ZTU2XHU1MzU3XHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAieWQyLmFpbml2cC5jb20iLCAicG9ydCI6ICIzMzIwMiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOTIwNGFmY2QtMDIzZS03ODFmLTFhYmMtYzEyZWZjY2QxMzQ0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9yYXkiLCAiaG9zdCI6ICJ5ZDIuYWluaXZwLmNvbSIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE2Mi4xNTkuNDUuMjQ2IiwgInBvcnQiOiAiMjA5NSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAiYzMuNjAxNjcyNS54eXoiLCAidGxzIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE5MC45My4yNDUuMTAzIiwgInBvcnQiOiAiMjA4MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImlwMTguNjkyOTE5OC54eXoiLCAidGxzIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE5MC45My4yNDYuMTk2IiwgInBvcnQiOiAiMjA4MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImlwMTguNjkyOTE5OC54eXoiLCAidGxzIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOC4xMTQuMTM4IiwgInBvcnQiOiAiMjA4NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYmM2NWZhYzItN2RjNy00MjZmLWFjZGQtMDc3OWE1MDM1YmRlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAicDEuNjEzMDU1Lnh5eiIsICJ0bHMiOiAiIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOC4xMTQuMTcwIiwgInBvcnQiOiAiMjA4MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAiZTQuNjkyOTE5OC54eXoiLCAidGxzIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOC4xMTQuMTczIiwgInBvcnQiOiAiODg4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOTBmOGY0ZGMtODA5Mi00MzU1LTkwNDctMDVmNTA2ZjVlOWFiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAibTEuMTA2Nzc4Lnh5eiIsICJ0bHMiOiAiIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOC4xMTQuMTk4IiwgInBvcnQiOiAiMjA4NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYmM2NWZhYzItN2RjNy00MjZmLWFjZGQtMDc3OWE1MDM1YmRlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAicDEuNjEzMDU1Lnh5eiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2T0FHTEQrRE9BNlVjRnA1VWRmMHIvVXp5andIVit5aGVOa29GRGs2dUw4PQ==@213.108.22.109:38753#%E4%BF%84%E7%BD%97%E6%96%AF
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOC4xMTQuMzQiLCAicG9ydCI6ICIyMDgyIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAiaG9zdCI6ICJlNC42OTI5MTk4Lnh5eiIsICJ0bHMiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS4yMzguMTAwIiwgInBvcnQiOiAiMjA4MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAiZTQuNjkyOTE5OC54eXoiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC44IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogODg4MCwgImlkIjogIjkwZjhmNGRjLTgwOTItNDM1NS05MDQ3LTA1ZjUwNmY1ZTlhYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJtMS4xMDY3NzgueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC44OCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg4ODAsICJpZCI6ICI5MGY4ZjRkYy04MDkyLTQzNTUtOTA0Ny0wNWY1MDZmNWU5YWIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibTEuMTA2Nzc4Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC44OSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwOTUsICJpZCI6ICIxOGQ5NjE5MC1jMTBmLTQ0OGYtYTgyYS0yZDM2ZGY1YzNjZGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYzMuNjAxNjcyNS54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC45MyIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg4ODAsICJpZCI6ICI5MGY4ZjRkYy04MDkyLTQzNTUtOTA0Ny0wNWY1MDZmNWU5YWIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibTEuMTA2Nzc4Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC45OSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg4ODAsICJpZCI6ICI5MGY4ZjRkYy04MDkyLTQzNTUtOTA0Ny0wNWY1MDZmNWU5YWIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibTEuMTA2Nzc4Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4xMDAiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDk1LCAiaWQiOiAiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImMzLjYwMTY3MjUueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4xMTIiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDgyLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImU0LjY5MjkxOTgueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4xMjEiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDgyLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImU0LjY5MjkxOTgueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4xMjQiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDk1LCAiaWQiOiAiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImMzLjYwMTY3MjUueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4xMyIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwODYsICJpZCI6ICJiYzY1ZmFjMi03ZGM3LTQyNmYtYWNkZC0wNzc5YTUwMzViZGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicDEuNjEzMDU1Lnh5eiIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4xNCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwOTUsICJpZCI6ICIxOGQ5NjE5MC1jMTBmLTQ0OGYtYTgyYS0yZDM2ZGY1YzNjZGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYzMuNjAxNjcyNS54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4xNzIiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDg2LCAiaWQiOiAiYmM2NWZhYzItN2RjNy00MjZmLWFjZGQtMDc3OWE1MDM1YmRlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInAxLjYxMzA1NS54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4xODkiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA4ODgwLCAiaWQiOiAiOTBmOGY0ZGMtODA5Mi00MzU1LTkwNDctMDVmNTA2ZjVlOWFiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm0xLjEwNjc3OC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4yMTEiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDk1LCAiaWQiOiAiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImMzLjYwMTY3MjUueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4yMjkiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDgyLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImU0LjY5MjkxOTgueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4yMzkiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDk1LCAiaWQiOiAiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImMzLjYwMTY3MjUueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4zOCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg4ODAsICJpZCI6ICI5MGY4ZjRkYy04MDkyLTQzNTUtOTA0Ny0wNWY1MDZmNWU5YWIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibTEuMTA2Nzc4Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ1LjE5IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA5NSwgImlkIjogIjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpcDIuNjAxNjcyNS54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=
 
 
 
@@ -73,18 +75,18 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjki
 
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/clash-subscription@a/2024-11-30-list-1.yaml</pre>
-<pre>https://v2ray-clash.top/clash-subscription@b/2024-11-30-list-2.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@a/2024-12-01-list-1.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@b/2024-12-01-list-2.yaml</pre>
 ↓备用↓
-<pre>https://v2ray-clash.top/clash-subscription@c/2024-11-30-list-3.yaml</pre>
-<pre>https://v2ray-clash.top/@clash-subscription@d/2024-11-30-list-4.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@c/2024-12-01-list-3.yaml</pre>
+<pre>https://v2ray-clash.top/@clash-subscription@d/2024-12-01-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/v2ray-subscription@a/2024-11-30-list-1.txt</pre>
-<pre>https://v2ray-clash.top/v2ray-subscription@b/2024-11-30-list-2.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@a/2024-12-01-list-1.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@b/2024-12-01-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://v2ray-clash.top/base64-subscription/2024-11-30-list-1.txt</pre>
+<pre>https://v2ray-clash.top/base64-subscription/2024-12-01-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://v2ray-clash.top/sing-box-subscription/2024-11-30-list-1.json </pre> 
+<pre>https://v2ray-clash.top/sing-box-subscription/2024-12-01-list-1.json </pre> 
 
 <hr />
 
@@ -95,210 +97,47 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjki
 
 
 
-<h2 class="h2h2">2024年11月免费节点订阅开源</h2>
+<h2 class="h2h2">2024年12月免费节点订阅开源</h2>
 <pre>此仅作为参考，订阅链接从上方获取↑</pre>
 <h3 class="h3h3">clash订阅开源节选</h3><pre>
-network: ws
-  skip-cert-verify: true
-  network: ws
-  network: tcp
-- cipher: aes-256-cfb
-  type: select
-  type: vmess
-  ws-opts:
-
-- alterId: 0
-  server: cfcdn1.sanfencdn9
-  server: 18.183.168.200
-  network: ws
-  network: ws
-  network: ws
-    path: /video/P7EExoE2
-  port: 2086
-  server: 104.20.25.146
-      - "[VMess] 🇦🇪 阿联酋 001"
-  - 0|-MrXbin-17
-  - 🚀 选择代理
-  name: 4,10,11|美国|@ripaojiedian
-  type: vmess
-  name: 6|台湾|@ripaojiedian
-- cipher: aes-256-cfb
-      - "[VMess] 🇨🇦 加拿大 076"
-  ws-opts:
-  udp: true
-  - 0|-MrXbin-100
-  type: vmess
-  skip-cert-verify: true
-      - "[Trojan] 🇨🇦 加拿大 068"
-  - {name: "[VMess] 🇳🇱 荷兰 013", server: 188.114.97.1, port: 443, type: vmess, uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: linde06.indiavideo.sbs, network: ws, ws-opts: {path: /linkws, headers: {Host: linde06.indiavideo.sbs}}, udp: true}
-  servername: ip14.freegradely
-  servername: ''
-  - 1|d*********g_85
-      HOST: 127.0.0.1.kleksacademy..ak..wonkacapitano.buzz.
-  - {name: "[VMess] 🇨🇦 加拿大 109", server: 104.25.19.200, port: 2053, type: vmess, uuid: f7380049-b904-3bde-af0d-ba2c1940674a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: grpc, servername: "", grpc-opts: {grpc-service-name: dabai}, udp: true}
-      - "[VMess] 🇨🇦 加拿大 111"
-  name: 5|🇭🇰 香港|@ripaojiedian
-  - 5,8|CN_speednode_0038
-  udp: true
-  server: 104.19.45.90
-  udp: true
-  server: 95.164.9.196
-  skip-cert-verify: true
-      - "[Trojan] 🇨🇦 加拿大 189"
-  ws-opts:
-  server: 43.202.43.179
-    path: Alvin9999
-  - 6|香港2|@ripaojiedian
-  - 10|🇭🇰 香港3|@ripaojiedian
-  - 5|🇸🇬 狮城特殊|@ripaojiedian
-  h2-opts: {}
-      - "[VMess] 🇨🇦 加拿大 193"
-- name: 8|GB_speednode_0094
-  - '4|d*********g_0 #3'
-- interval: 300
-  server: 223.113.54.154
-  name: 5|🇧🇷 巴西R|@ripaojiedian
-  servername: 33859315
-  type: vmess
-    headers:
-      - "[VMess] 🇨🇦 加拿大 26"
-  name: 0|-MrXbin-129
-  country: US
-    headers:
-  name: 0|-MrXbin-116
-  name: 5|🇭🇰 香港6|@ripaojiedian
-  country: US
-      Host: ip2.1457230
-  - 10,11|日本4|@ripaojiedian
-  - 0|-MrXbin-29
-  ws-opts:
-    headers:
-      Host: us2jdgv5GC7.fzbqfrse
-  - {name: "[VMess] 🇺🇸 _US_美国_4", server: wnd3.shabijichang, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wnd3.shabijichang}}, udp: true}
-  udp: true
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-  - 0|-MrXbin-137
-  country: US
-  cipher: auto
-  name: 1|d*********g_59
-  ws-opts:
-  - 10|🇭🇰 香港KT|@ripaojiedian
-  name: '5|d*********g_1 #4'
-    headers:
-      - "[VMess] 🇯🇵 日本 006"
-  server: 172.64.166.28
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  cipher: auto
-  country: US
-      - "[VMess] 🇨🇦 加拿大 116"
-  server: jp-am48-6.eqnode.net
-      - "[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1"
-  servername: sanapardaz.onthewifi
-  type: ss
-  protocol: auth_aes128_sha1
-      - "[VMess] 🇺🇸 _US_美国_5"
-  password: fnf
-  - 0|-MrXbin-80
-    headers:
-  name: 10|🇭🇰 香港3|@ripaojiedian
-  country: US
-  skip-cert-verify: true
-  tfo: false
-- name: 🗺️ 选择地区
-  port: 9090
-- alterId: 0
-- name: 5|🇹🇼 台湾3|@ripaojiedian
-  type: fallback
-  server: 104.19.46.42
-      - "[Trojan] 🇨🇦 加拿大 188"
-  - {name: "[VMess] 🇳🇱 _US_美国->🇳🇱_NL_荷兰", server: 45.199.138.191, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/1696251522438}, udp: true}
-- alterId: 0
-- name: 🇨🇳 中国
-
-  type: select
-  - '3|d*********g_3 #2'
-  uuid: 3e57354f-ff12-4536-81f9-c6155ef18b69
-  - Mijia Cloud
-  port: 8080
-  type: trojan
-  country: US
-- cipher: aes-256-cfb
-  network: ws
-  cipher: auto
-  servername: ip2.1457230
-  name: 1|d*********g_18
-      - "[Trojan] 🇨🇦 加拿大 156"
-  country: DE
-  servername: cdn2.freegradely
-
-  tls: false
-  - 5|🇯🇵 日本R|@ripaojiedian
-  server: 172.64.167.22
-  udp: true
-  skip-cert-verify: true
-  - 0|-MrXbin-3
-  port: 2086
-  server: 104.19.47.88
-      - "[VMess] 🇨🇦 加拿大 123"
-  name: 1|d*********g_81
-  http-opts: {}
-  password: a-wym4ovY4Yw
-  - 5|🇭🇰 香港5|@ripaojiedian
-  server: 23.157.40.10
-  password: 09191dbf-e7f7-4e7d-b405-c4785ea992bf
-  cipher: auto
-  udp: true
-- alterId: 0
-  network: ws
-  cipher: auto
-  proxies:
-  port: '57614'
-  network: ws
-- interval: 300
-  port: 4027
-  - 1|d*********g_3
-  udp: true
-  sni: trojan.burgerip.co.uk
-  ws-opts:
-      - "[VMess] 🇨🇦 加拿大 034"
-  - 5|🇭🇰 香港2|@ripaojiedian
-      - "[VMess] 🇨🇦 加拿大 100"
-  name: 1|d*********g_16
-  tls: false
-- name: 🚀 选择代理
-  server: 104.19.45.15
-  servername: ip2.1457230
-  proxies:
-  server: 131.186.41.136
-  servername: ip2.1457230
-  cipher: auto
-      - "[VMess] 🇨🇦 加拿大 116"
-  network: ws
-  servername: ip2.1457230
-- interval: 300
-  server: 172.67.114.125
-  servername: ip2.1457230
-- alterId: 0
-- name: 8|GB_speednode_0094
-- alterId: 0
-      - "[VMess] 🇨🇦 加拿大 006"
-  name: 0|-MrXbin-121
-  name: 0|-MrXbin-37
-  udp: true
-  port: 4027
-  uuid: 2ac4e269-1576-4f41-8c0d-6242e3c5fd8c
-      HOST: ip2.1457230
-  ws-opts:
-  ws-opts:
-- alterId: 64
-  servername: ip2.1457230
+- DOMAIN-SUFFIX,lejshxao.xyz,
+- DOMAIN-SUFFIX,toyhyhv.icu,
+  - DOMAIN-SUFFIX,admob.com,🚀 全球互联
+  - {name: "[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国", server: flkf2.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: flkf2.shabijichang.com}}, udp: true}
+  - IP-CIDR,203.34.150.0/24,DIRECT
+  - IP-CIDR,103.84.24.0/21,DIRECT
+- DOMAIN-SUFFIX,data.mistat.xiaomi.com,
+  password: ZET59LF6DvCC8KVt
+  - DOMAIN-SUFFIX,sohu.com,🌏 国内媒体
+  - DOMAIN-SUFFIX,nzezn.com,🛑 全球拦截
+  - IP-CIDR,103.192.164.0/22,DIRECT
+  - {'name': '🇩🇰DK-192.36.27.116-8974', 'server': '192.36.27.116', 'port': 989, 'type': 'ss', 'cipher': 'aes-256-cfb', 'password': 'f8f7aCzcPKbsF8p3'}
+- DOMAIN-SUFFIX,wwqfqq.com,
+  - DOMAIN-SUFFIX,c.dzytjqcc.com,🛑 全球拦截
+- DOMAIN-SUFFIX,qiniucdn.com,DIRECT
+- DOMAIN-SUFFIX,haxd7.top,
+  - DOMAIN-SUFFIX,ad.docer.wps.cn,🍃 应用净化
+  - DOMAIN-SUFFIX,jimeilm.com,🛑 全球拦截
+- DOMAIN-SUFFIX,n0h56.site,
+- DOMAIN-SUFFIX,sigjuw.xyz,
+      Host: in4.wish.ml
+  - 6|美国3|@ripaojiedian
+- DOMAIN-SUFFIX,rtb.voiceads.cn,
+- DOMAIN-SUFFIX,widevine.com,🚀 选择代理
+- DOMAIN-SUFFIX,ac1.pingpingw.com,
+  - IP-CIDR,203.19.101.0/24,DIRECT
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.7:2376#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.7-6597
+ssr://MjEyLjYwLjUuMTU2OjM2MDUzOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTTJwbC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j
+  - {'name': '🇩🇪DE-193.108.117.75-6760', 'server': '193.108.117.75', 'port': 9102, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'e4FCWrgpkji3QY'}
+ssr://NDYuMTcuNDYuMTkwOjIwNzUzOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnY0RKaC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlR3Jmdyb3VwPVRHNWpiaTV2Y21j
+      - 🇺🇸 美国 CloudFlare节点 81
+  - DOMAIN-SUFFIX,a6.codejumps.com,🛑 全球拦截
  
 </pre>
 
 ![2](https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/assets/164295305/a8a39dcf-9ac7-484f-8cf8-f40be2f33ffe)
 
-<h3 class="h3h3">2024年11月v2ray订阅开源节选</h3>
+<h3 class="h3h3">2024年12月v2ray订阅开源节选</h3>
 <pre>
 	
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.113:8080#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
@@ -349,302 +188,91 @@ ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@38.147.190.72:8388#13%7C%F0%9F%87%AD%F0%9F
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivWHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiA1MTcwNCwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
 
 </pre>
-<h3 class="h3h3">2024年11月base64订阅开源节选</h3>
+<h3 class="h3h3">2024年12月base64订阅开源节选</h3>
 <pre class="corepress-code-pre">
-  
-uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  - {name: "[VMess] 🇨🇦 加拿大 105", server: 172.67.117.5, port: 2086, type: vmess, uuid: f7380049-b904-3bde-af0d-ba2c1940674a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.117.5, headers: {Host: 100-100-17-384.db-link01.top}}, udp: true}
-  type: vmess
-      - "[VMess] 🇺🇸 美国 055"
-      - "[VMess] 🇨🇦 加拿大 066"
-  type: vmess
-  - 8|KR_speednode_0167
-      HOST: ip2.1457230
-      Host: ip2.1457230
-  tfo: false
-      - "[VMess] 🇦🇪 阿联酋 001"
-  - 0|-MrXbin-118
-  - 5|🇭🇰 香港2|@ripaojiedian
-  server: 43.201.17.220
-- alterId: 0
-      - "[VMess] 🇨🇦 加拿大 186"
-  server: 104.19.46.33
-  servername: ip2.1457230
-  server: 172.64.167.8
+   - DOMAIN-SUFFIX,io-oi.me,🚀 全球互联
+  - 3|IHwzMC4zOE1i
+- DOMAIN-SUFFIX,lulgef.icu,
+ssr://NDYuMTcuNDYuMTkwOjIwMzU5Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTjJOMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlR3Jmdyb3VwPVRHNWpiaTV2Y21j
+  server: 103.172.116.103
+  - DOMAIN-SUFFIX,zzpush.58.com,🛑 全球拦截
+  - DOMAIN,dl.steam.clngaa.com,🎯 全球直连
   tls: false
-  - 1|d*********g_54
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  port: 2086
-  port: 20230
-  - 0|-MrXbin-129
-  servername: max.mankadmu
-  network: ws
-proxies:
-      - "[VMess] 🇸🇬 新加坡 002"
-  obfs: tls1.2_ticket_auth
-  servername: oiictw.yydsii
-  tls: false
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  - 12|CN_speednode_0026
-  h2-opts: {}
-  - ✅ 手动选择
-  type: vmess
-      - "[VMess] 🇨🇦 加拿大 048"
+  - DOMAIN-SUFFIX,haiwai-ic.ksosoft.com,🛑 全球拦截
+  - DOMAIN,ocsp.verisign.com,DIRECT
+  - DOMAIN-SUFFIX,youxicool.net,🛑 全球拦截
+# Baidu
+  - DOMAIN-SUFFIX,t.uvcourse.net,🛑 全球拦截
+      - 🇨🇳 广东省江门市移动 8
+  - DOMAIN-SUFFIX,huawei.com,🎯 全球直连
+- DOMAIN-SUFFIX,nflxvideo.net,🚀 选择代理
+  - DOMAIN-SUFFIX,statics.9669.com,🛑 全球拦截
+vmess://ewogICAgImFkZCI6ICIyMDMuMzAuMTg5LjE5MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImxnMTAuY2ZjZG4xLnh5eiIsCiAgICAiaWQiOiAiMTdiMmEzMTMtMzdhMC00OTQ1LWE4ZTQtZTYzMzc1NTA2YjRhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL0EyREpPUEZUIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0yMDMuMzAuMTg5LjE5MS0xNzY0IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+- DOMAIN-SUFFIX,ra1.xyz,
+vmess://ewogICAgImFkZCI6ICIxMDQuMTcuMTA2LjE1MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImlwMi4xNDU3MjMwLnh5eiIsCiAgICAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLAogICAgInBvcnQiOiAyMDg2LAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTcuMTA2LjE1MS0wMTkzIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+- DOMAIN-SUFFIX,grtarpcf963.top,
+  - IP-CIDR,114.113.208.0/20,DIRECT
+- DOMAIN-SUFFIX,meituan.com,DIRECT
+  - IP-CIDR,203.10.95.0/24,DIRECT
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.47.255.219:989#%F0%9F%87%B5%F0%9F%87%B7PR-185.47.255.219-8994
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@134.195.196.149:7307#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.149-1146
+  - DOMAIN-SUFFIX,tag.digitaltarget.ru,🛑 全球拦截
+  name: 0|-MrXbin-114
+- DOMAIN-SUFFIX,asryrzpu.xyz,
+vmess://ewogICAgImFkZCI6ICJ2aW4xLjBiYWQuY29tIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAidmluMS4wYmFkLmNvbSIsCiAgICAiaWQiOiAiOTI3MDk0ZDMtZDY3OC00NzYzLTg1OTEtZTI0MGQwYmNhZTg3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2NoYXQiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HpvCfh7pBVS0xMDMuMjI0LjIxMi4yMTUtMTc3MSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+      HOST: oiictw.yydsii.com
+  - IP-CIDR,103.138.2.0/23,DIRECT
+  - {'name': '🇺🇸US-167.88.61.60-7617', 'server': '167.88.61.60', 'port': 8091, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
+  - DOMAIN-SUFFIX,voicefive.com,🛑 全球拦截
+  - IP-CIDR,45.250.128.0/20,DIRECT
+  - IP-CIDR,103.142.82.0/23,DIRECT
   skip-cert-verify: true
-  proxies:
-      - "[VMess] 🇨🇦 加拿大 041"
-      Host: cdn3.freegradely
-  network: tcp
-  skip-cert-verify: false
-  - 5|🇯🇵 日本|@ripaojiedian
-  servername: cdn3.freegradely
-    path: Alvin9999
-  servername: ip2.1457230
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  - 1|d*********g_33
-      - "[VMess] 🇺🇸 美国 019"
-  servername: hdfy1sub1.achaemenidempireofpersia.uk
-  network: tcp
-      - "[VMess] 🇨🇦 加拿大 106"
-      - "[VMess] 🇨🇦 加拿大 038"
-  server: 104.19.21.71
-  - DIRECT
-  name: 0|-MrXbin-98
-  port: 2086
-  country: US
+- DOMAIN-SUFFIX,bnlbecm.xyz,
+  - DOMAIN-SUFFIX,ssjy168.com,🛑 全球拦截
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:61003?security=tls&sni=$$hn.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-172.234.222.138-3035
+- DOMAIN-SUFFIX,1cecn.icu,
+  - IP-CIDR,119.161.192.0/18,DIRECT
   ws-opts:
-  ws-opts:
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  type: vmess
-      - "[VMess] 🇨🇦 加拿大 051"
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  server: at1.trojanvpn.de
-    headers:
-  udp: true
-  name: 1|d*********g_83
-- alterId: 0
-
-  name: 10|🇯🇵 日本2|@ripaojiedian
-- alterId: 0
-    headers:
-  server: 172.64.194.76
-  type: vmess
-  tls: false
-    path: Alvin9999
-  - 0|-MrXbin-92
-      - "[Trojan] 🇨🇦 加拿大 166"
-  - 6|台湾|@ripaojiedian
-  ws-opts:
-  cipher: auto
-  port: 2086
-  port: 443
-  server: 172.64.233.15
-  server: 104.20.17.186
-  udp: true
-  - 1|d*********g_84
-  tls: false
-  udp: true
-  ws-opts:
-  cipher: auto
-  - 0|-MrXbin-10
-- alterId: 0
-  password: 09191dbf-e7f7-4e7d-b405-c4785ea992bf
-      Host: ip2.1457230
-  tfo: false
-  servername: ip2.1457230
-  name: 11|香港2|@ripaojiedian
-  name: '5|d*********g_10 #1'
-  proxies:
-  name: 10|🇯🇵 日本特殊|@ripaojiedian
-    headers:
-  server: 38.147.188.136
-  cipher: auto
-- cipher: aes-256-gcm
-      - "[VMess] 🇸🇬 新加坡 002"
-  cipher: auto
-  - 1|d*********g_82
-  - 1|d*********g_31
-  network: ws
-  - 5|🇭🇰 香港R|@ripaojiedian
-    path: Alvin9999
-      HOST: 1270.0.1.dl3..yc..urkel..wonkacapitano.buzz.
-  - '2|d*********g_2 #1'
-      Host: ip2.1457230
-      - "[VMess] 🇨🇦 加拿大 038"
-- name: 8|KR_speednode_0177
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  port: 2086
-  - 0|-MrXbin-113
-  network: ws
-      - "[VMess] 🇨🇦 加拿大 104"
-  type: url-test
-  - {name: "[VMess] 🇺🇸 _US_美国_3", server: 45.199.138.186, port: 30000, type: vmess, uuid: 4ec0ae62-de09-4029-904a-0313d4628ecf, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/1696682720138}, udp: true}
-  server: 104.19.45.11
-  password: 2e660d96-f2d2-43c0-aa62-bf92edbac0cf
-  country: PL
-      - "[VMess] 🇨🇦 加拿大 100"
-  - 1|d*********g_49
+  - {'name': '🇨🇳CN-14.29.124.168-3142', 'server': '14.29.124.168', 'port': 25207, 'type': 'ss', 'cipher': 'aes-128-cfb', 'password': 'QazEdcTgb159@$*'}
+  - DOMAIN-SUFFIX,hosting.miarroba.info,🛑 全球拦截
+ssr://ODUuMTE3LjIzNC4xMDc6MTY2MDg6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dObVV6Lz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VUEmZ3JvdXA9VEc1amJpNXZjbWM
+vmess://ewogICAgImFkZCI6ICI4My4xNDIuMjI1LjU5IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTI2N2NhNzEtOTdlNi00NGM4LThmYjUtOWZlNGFmZTA5NTRlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4es8J+Hp0dCLTgzLjE0Mi4yMjUuNTktMTMxNyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+- DOMAIN-SUFFIX,flurry.com,
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.91.102.30:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.91.102.30-3527
+  - DOMAIN-SUFFIX,adserver.yahoo.com,🛑 广告拦截
+  - {'name': '🇺🇸US-38.68.135.19-6804', 'server': '38.68.135.19', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - DOMAIN-SUFFIX,cast.ra.icast.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,nieae.xyz,
+  - DOMAIN-SUFFIX,download.bav.baidu.com,🛑 全球拦截
+- DOMAIN-SUFFIX,oiunga.com,
+  - DOMAIN-SUFFIX,xiaoshuo.zhandao.net,🛑 全球拦截
+- DOMAIN-SUFFIX,uuuzuu.xyz,
+  - 6|香港6|@ripaojiedian
+  - IP-CIDR,203.5.186.0/24,DIRECT
+  type: ss
+- DOMAIN-SUFFIX,tenpay.com,DIRECT
+- DOMAIN-SUFFIX,baidubvjsbvv.com,
+- cipher: aes-256-cfb
+  - DOMAIN-SUFFIX,admarket.mobi,🛑 全球拦截
+  - DOMAIN-SUFFIX,lrswl.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,newspush.sinajs.cn,🍃 应用净化
+  - DOMAIN-SUFFIX,cre.dp.sina.cn,🛑 全球拦截
+  - {'name': '🇸🇬SG-15.235.147.186-5869', 'server': 'sg-lb.vhax.net', 'port': 80, 'type': 'vmess', 'uuid': '6fea1649-425b-4092-bf53-29792152c925', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/sshkit/Ertusg86/635014638c264/', 'headers': {'Host': 'zoom.us'}}}
+- DOMAIN-SUFFIX,chozarpeases.com,
+  - DOMAIN-SUFFIX,telegra.ph,🚀 全球互联
   skip-cert-verify: true
-  - 1|d*********g_63
-  server: 172.64.198.249
-  - '5|d*********g_13 #1'
-  port: 2086
-  server: 104.19.57.24
-  http-opts: {}
-  port: 2086
-  ws-opts: {}
-  network: ws
-      - "[Trojan] 🇨🇦 加拿大 018"
-  name: 0|-MrXbin-99
-  country: US
-  http-opts: {}
-  ws-opts:
-  password: hGkQ6915tD
-  tls: false
-      - "[VMess] 🇨🇦 加拿大 004"
-  type: ss
-  tls: false
-  cipher: auto
-      - "[VMess] 🇨🇦 加拿大 10"
-      - "[VMess] 🇯🇵 日本 006"
-      - "[VMess] 🇨🇦 加拿大 020"
-  udp: true
-      Host: ip2.1457230
- 
-      Host: ip2.1457230
-  server: 104.19.51.232
-  udp: true
-  country: US
-      - "[VMess] 🇨🇦 加拿大 084"
-  port: 45972
-  udp: true
-  - 5|🇯🇵 日本R|@ripaojiedian
-  cipher: auto
-  server: 183.232.139.22
-  - 0|-MrXbin-7
-  server: 183.232.139.22
-      - "[Trojan] 🇨🇦 加拿大 019"
-  type: ss
-    headers:
-  type: vmess
-  servername: ip2.1457230
-    headers:
-  network: ws
-  name: 5|🇭🇰 香港|@ripaojiedian
-      - "[VMess] 🇨🇦 加拿大 099"
-  type: trojan
-  udp: true
-  udp: true
-      Host: ip2.1457230
-      - "[VMess] 🇨🇦 加拿大 163"
-    path: /path/191019072927
-      - "[Trojan] 🇨🇦 加拿大 018"
-  server: 59.56.77.178
+  - IP-CIDR,103.248.152.0/22,DIRECT
+- DOMAIN-SUFFIX,adfec3.com,
+  - DOMAIN-SUFFIX,appadhoc.com,🛑 全球拦截
+- DOMAIN-SUFFIX,nextmedia.com,🚀 选择代理
     mux: true
-    headers:
-  port: 2086
-    headers:
-    path: Alvin9999
-  network: tcp
-  port: 2052
-  network: ws
-  skip-cert-verify: true
-  port: 26954
-  port: '2052'
-  network: ws
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  h2-opts: {}
-  ws-opts:
-  tls: false
-  - 🚀 选择代理
-  server: 104.19.38.62
-  - 0|-MrXbin-117
-  cipher: auto
-  h2-opts: {}
-  port: 8080
-      - 🇹🇼 台湾
-- alterId: 0
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  cipher: auto
-- cipher: aes-256-cfb
+  - {'name': '🏁RELAY-104.31.16.58-9394', 'server': '104.31.16.58', 'port': 443, 'type': 'vmess', 'uuid': '824c58b1-65ba-4680-a609-663a000dbb92', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/wss13889'}}
+  type: vmess
+- DOMAIN-SUFFIX,toutiao.com,DIRECT
+  udp: true
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-1.mielink-dns2.com:443?security=tls&sni=paydiu.com#%F0%9F%87%B9%F0%9F%87%BCTW-1.162.158.20-2895
+vmess://ewogICAgImFkZCI6ICIxMDQuMTkuNDUuMTc1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAib25lYS5mbGhhLnJ1IiwKICAgICJpZCI6ICI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjA5NSwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE5LjQ1LjE3NS0xNDk4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 
-    headers:
-  port: 2052
-      Host: '%7B%22Host%22:%22193.25.215.160%22%7D'
-  ws-opts:
-  country: US
-      - 🇹🇼 台湾
-  udp: true
-- alterId: 0
-- alterId: 0
-  server: sg2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen
-  - 8.8.8.8
-  - 0|-MrXbin-133
-  type: select
-  port: 2086
-  ws-opts:
-  server: 223.113.54.154
-  - 11|香港5|@ripaojiedian
-  ws-opts:
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  password: Cskw6d
-  servername: ip2.1457230
-  cipher: auto
-  port: 2086
-  - {name: "[VMess] 🇺🇸 _US_美国_5", server: 104.21.75.246, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-      Host: estate-dot-complexity-emirates.trycloudflare
-  name: '5|d*********g_29 #1'
-  ws-opts:
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  port: 80
-  ws-opts:
-  port: '80'
-  network: ws
-      - "[VMess] 🇫🇮 芬兰 2"
-    path: Alvin9999
-  skip-cert-verify: true
-      - "[VMess] 🇺🇸 _US_美国_2"
-  port: 15084
-  server: 172.67.143.52
-  - 5|🇭🇰 香港KT|@ripaojiedian
-      - "[Trojan] 🇨🇦 加拿大 191"
-      Host: ip2.1457230
-  servername: ip006.dtku47
-  udp: true
-  type: vmess
-- cipher: aes-256-cfb
-  servername: cdn3.freegradely
-  country: US
-  ws-opts:
-  network: ws
-  - '2|d*********g_1 #1'
-      Host: ip2.1457230
-  - '5|d*********g_22 #1'
-  cipher: auto
-  - 1|d*********g_40
-  port: 2086
-  h2-opts: {}
-  type: vmess
-  - {name: "[VMess] 🇺🇸 美国 055", server: bgroup.node3.v.nodelist-gfwairport2.top, port: 41001, type: vmess, uuid: 2155145a-b1b5-443a-8977-670f6bd10f02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-    headers:
-      - 🇸🇬 新加坡
-  name: '5|d*********g_15 #1'
-  password: eAokbaDN6
-  name: 1|d*********g_39
-    path: Alvin9999
-  type: ssr
-  server: 23.157.40.10
-- alterId: 0
-  udp: true
-  network: ws
-  port: 443
-      Host: ip2.1457230
-  cipher: auto
-    headers:
-  protocol: origin
-  country: US
-    path: Alvin9999
   </pre>
 
 ![3](https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/assets/164295305/9ce085b4-cbcc-40da-8242-7dd5a4dbe574)
@@ -795,10 +423,6 @@ Shadowrocket是一款基于iOS平台的网络代理工具，专为移动设备�
 &nbsp;
 
 <h2 class="h2h2">免费节点与小火箭账号</h2>
-
-[​2024年11月-小火箭共享账号免费获取入口-shadowrocket小火箭机场推荐](https://ssrtop.com/232.html)
-
-[2024年11月-稳定V2ray/Clash/sing-box/SSR/Shadowrocke免费节点订阅链接](https://ssrtop.com/230.html)
 
 [​免费SSR节点 - 每日分享](https://ssrtop.com/cl/freessr)
 
