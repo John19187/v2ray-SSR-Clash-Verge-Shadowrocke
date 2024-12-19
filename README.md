@@ -3,7 +3,7 @@
 
 
 
-时间来到2024年12月18日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+时间来到2024年12月19日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
 
 
 
@@ -43,57 +43,29 @@
 
 
 
-<h2 class="h2h2">SSR免费节点订阅地址- 2024-12-18</h2>
+<h2 class="h2h2">SSR免费节点订阅地址- 2024-12-19</h2>
 <pre>
                            
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NzRmZjIzNi0yMWYyLTQyYTMtYjYzMy0yYjk1NzA2MWQ3Njc=@blog.netsdddru.xyz:3031#13%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4anpzaU1mVEJ5S2pBOVVSYmRYV05w@51.120.1.158:32091#0%7C--2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%E8%8D%B7%E5%85%B0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjhiNjI1Yy1lZmI4LTQ1Y2QtYjUwOS1jN2NjZWFiZTBjYzY=@soonjp.soon.guru:40003#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC5%7C%40ripaojiedian
-ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.1.79.116:443#0%7C--14
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.34.255.220:443#0%7C--5
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.100.128:443#13%7C%F0%9F%87%B8%F0%9F%87%AC%20%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.212.48:443#0%7C--11
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.94.51.2:443#0%7C--8
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.200.1.13:443#0%7C--9
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.202.1.19:443#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.122.162:443#0%7C--4
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.141.93:443#0%7C--10
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@44.243.243.198:443#0%7C--7
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.41.180.11:443#0%7C--6
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.79.248.193:443#0%7C--12
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.180.229.222:443#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.201.174.149:443#0%7C--3
-ss://YWVzLTI1Ni1nY206QkdYOE9YRDZQMTBYNTNMWQ==@219.135.227.209:17001#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%E8%8D%94%E6%B9%BE%E5%8C%BA+%2F%E5%A4%A9%E6%B2%B3%E5%8C%BA%E7%94%B5%E4%BF%A1
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU56Um1aakl6TmkweU1XWXlMVFF5WVRNdFlqWXpNeTB5WWprMU56QTJNV1EzTmpj@blog.netsdddru.xyz:3031#14%7C%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwaFlqaGlOakkxWXkxbFptSTRMVFExWTJRdFlqVXdPUzFqTjJOalpXRmlaVEJqWXpZ@soonjp.soon.guru:40003#14%7C%E6%97%A5%E6%9C%AC5%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.38.100.128:443#14%7C%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.202.1.19:443#14%7C%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.180.229.222:443#14%7C%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.45:8080#0%7C--16
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#0%7C--1
-trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@usla.mjt000.com:443?allowInsecure=0&sni=usla.mjt000.com#13,14|美国|@ripaojiedian
-trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@vn.mjt000.com:443?allowInsecure=0&sni=vn.mjt000.com#13,14|越南|@ripaojiedian
-trojan://3bb73c5b-2500-484a-8ee4-68aaca381a6d@naiu-hk.05vr9nyqg5.download:13007?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#13,14|香港4|@ripaojiedian
-trojan://3bb73c5b-2500-484a-8ee4-68aaca381a6d@naiu-other.05vr9nyqg5.download:13035?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#13,14|台湾2|@ripaojiedian
-trojan://DNUMdmnJ@36.151.192.239:42395?allowInsecure=1#13,14|香港|@ripaojiedian
-trojan://QwwHvrnN@36.151.192.198:38698?allowInsecure=1#13,14|日本|@ripaojiedian
-trojan://QwwHvrnN@36.151.192.203:25241?allowInsecure=1#13,14|香港2|@ripaojiedian
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@43.198.96.173:45181?allowInsecure=1&sni=de1.bilibili.com#15|HK_speednode_0010
-trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#16|d*********g.com_3 #4
-trojan://ouo@18.162.246.4:18443?allowInsecure=0&sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg&path=/?ed=2560#13|🇭🇰 香港5|@ripaojiedian
-trojan://ouo@18.162.246.4:18443?sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg&path=/?ed=2560#14|香港5|@ripaojiedian
-trojan://ouo@210.61.97.241:81?allowInsecure=0&sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg&path=/?ed=2560#13|🇹🇼 台湾|@ripaojiedian
-trojan://ouo@210.61.97.241:81?sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg&path=/?ed=2560#14|台湾|@ripaojiedian
-trojan://ouo@65.75.193.154:14491?allowInsecure=0&sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg&path=/?ed=2560#13|🇺🇸 美国2|@ripaojiedian
-trojan://ouo@65.75.193.154:14491?sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg&path=/?ed=2560#14|美国2|@ripaojiedian
-trojan://tg-fq521free@194.76.18.129:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#%E5%BE%B7%E5%9B%BD
-trojan://tg-fq521free@198.62.62.67:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA
-vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1&fp=chrome&security=tls#16|d*********g.com_6
-vless://13e15bfe-73f7-4bfe-a386-136451137fc3@188.245.215.46:19984?allowInsecure=0&sni=Telewebion.com#15|DE_speednode_0006
+trojan://telegram-id-directvpn@63.176.194.209:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%E7%BE%8E%E5%9B%BD+Sprint%E7%BD%91%E7%BB%9C
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A
+trojan://telegram-id-privatevpns@54.73.76.111:22222?sni=trojan.burgerip.co.uk#%E7%88%B1%E5%B0%94%E5%85%B0+%E9%83%BD%E6%9F%8F%E6%9E%97Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@us003.421421.xyz:20230?sni=421421.xyz#%E7%BE%8E%E5%9B%BD+%E4%BF%84%E5%8B%92%E5%86%88%E5%B7%9E%E6%B3%A2%E7%89%B9%E5%85%B0Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://telegram-id-directvpn@54.161.163.112:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%E7%BE%8E%E5%9B%BD+%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E5%B7%9E%E9%98%BF%E4%BB%80%E6%9C%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.217.232:990#%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9A
+vmess://eyJhZGQiOiAic2cyNS5qbnN0b3JlLmJpei5pZCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiA0NDMsICJpZCI6ICIxZDFjMWQ5NC02OTg3LTQ2NTgtYTRkYy04ODIxYTMwZmU3ZTAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAic2cyNS5qbnN0b3JlLmJpei5pZCIsICJwYXRoIjogIi92bWVzcyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20005#%E7%BE%8E%E5%9B%BD%E7%A7%91%E7%BD%97%E6%8B%89%E5%A4%9A%E5%B7%9E%E5%B8%83%E9%9A%86%E8%8F%B2%E5%B0%94%E5%BE%B7%E5%B8%82+Level3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.6.30:443#%E7%BE%8E%E5%9B%BD+
+trojan://telegram-id-directvpn@3.19.25.7:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%E7%BE%8E%E5%9B%BD+%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%E9%83%BD%E6%9F%8F%E6%9E%97Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://telegram-id-privatevpns@52.31.157.66:22222?security=tls&sni=trojan.burgerip.co.uk#%E7%88%B1%E5%B0%94%E5%85%B0+%E9%83%BD%E6%9F%8F%E6%9E%97Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://94d219c9-1afc-4d42-b090-8b3794764380@std1.loadingip.com:443#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.194:8443?allowInsecure=0&sni=3-fs4f6s46.huangyurong.cfd&type=ws&host=3-fs4f6s46.huangyurong.cfd&path=/?ed=2560fp=random&security=tls#15|US_speednode_0036
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.13.140:8443?allowInsecure=0&sni=3-fs4f6s46.huangyurong.cfd&type=ws&host=3-fs4f6s46.huangyurong.cfd&path=/?ed=2560fp=random&security=tls#15|US_speednode_0037
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.64.146.66:8443?allowInsecure=0&sni=3-fs4f6s46.huangyurong.cfd&type=ws&host=3-fs4f6s46.huangyurong.cfd&path=/?ed=2560fp=random&security=tls#15|US_speednode_0038
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?allowInsecure=0&sni=3-fs4f6s46.huangyurong.cfd&type=ws&host=3-fs4f6s46.huangyurong.cfd&path=/?ed=2560fp=random&security=tls#15|US_speednode_0039
+vless://8f6f8193-0f0b-5933-9346-718542befff9@199.232.125.44:443?allowInsecure=1&sni=ELiV2--ELENA.COM&type=ws&host=ELiV2--ELENA.COM&path=/fp=qq&security=tls#15|US_speednode_0040
+vless://ec1540bf-39b1-5901-bc00-4aa9c81e27af@199.232.125.43:443?allowInsecure=1&sni=ELI-V2-RAY.COM&type=ws&host=ELI-V2-RAY.COM&path=/fp=qq&security=tls#15|US_speednode_0041
+vless://9a3d1319-e75c-46a6-994a-58fac1b86907@199.232.125.55:443?allowInsecure=1&sni=0-ELiV2RAY.COM&type=ws&host=0-ELiV2RAY.COM&path=/fp=qq&security=tls#15|US_speednode_0042
 vless://24e01a84-4864-40e4-abc4-2dc0432d68d4@170.114.45.6:80?allowInsecure=0&sni=paid.free.pranithsandaruwan.shop&type=ws&host=paid.free.pranithsandaruwan.shop&path=/#15|US_speednode_0045
-vless://531bf100-1477-487c-a979-6adebf8f105f@160.123.255.213:443?allowInsecure=0&sni=vdc.bgm2024.us.kg&type=ws&host=vdc.bgm2024.us.kg&path=/?ed=2560security=tls#15|ZA_speednode_0061
 
 
 
@@ -101,18 +73,18 @@ vless://531bf100-1477-487c-a979-6adebf8f105f@160.123.255.213:443?allowInsecure=0
 
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/clash-subscription@a/2024-12-18-list-1.yaml</pre>
-<pre>https://v2ray-clash.top/clash-subscription@b/2024-12-18-list-2.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@a/2024-12-19-list-1.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@b/2024-12-19-list-2.yaml</pre>
 ↓备用↓
-<pre>https://v2ray-clash.top/clash-subscription@c/2024-12-18-list-3.yaml</pre>
-<pre>https://v2ray-clash.top/@clash-subscription@d/2024-12-18-list-4.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@c/2024-12-19-list-3.yaml</pre>
+<pre>https://v2ray-clash.top/@clash-subscription@d/2024-12-19-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/v2ray-subscription@a/2024-12-18-list-1.txt</pre>
-<pre>https://v2ray-clash.top/v2ray-subscription@b/2024-12-18-list-2.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@a/2024-12-19-list-1.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@b/2024-12-19-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://v2ray-clash.top/base64-subscription/2024-12-18-list-1.txt</pre>
+<pre>https://v2ray-clash.top/base64-subscription/2024-12-19-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://v2ray-clash.top/sing-box-subscription/2024-12-18-list-1.json </pre> 
+<pre>https://v2ray-clash.top/sing-box-subscription/2024-12-19-list-1.json </pre> 
 <hr />
 
 
