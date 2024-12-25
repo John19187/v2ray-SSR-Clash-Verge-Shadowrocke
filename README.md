@@ -3,7 +3,7 @@
 
 
 
-时间来到2024年12月24日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+时间来到2024年12月25日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
 
 
 
@@ -43,67 +43,82 @@
 
 
 
-<h2 class="h2h2">SSR免费节点订阅地址- 2024-12-24</h2>
+<h2 class="h2h2">SSR免费节点订阅地址- 2024-12-25</h2>
 <pre>
                            
-ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg==@217.30.10.18:9056#0%7C--13
-ss://YWVzLTI1Ni1nY206RDhROEhST0NRUkNaQ1NWQw==@156.231.104.19:18009#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC7%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.77:5500#0%7C--11
-ss://YWVzLTI1Ni1nY206T0lHR1lHUjAwMlNSR0czMw==@156.231.104.13:18003#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC8%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206TjJZTUtBWkZDMk8yOUpHUA==@156.231.104.12:18002#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwYWNHVkhZVFE=@db59a98b.b8z9y9a5g9-fb-hk18.6pzfwf.com:56018#14%7C%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2YzJoaFpHOTNjMjlqYTNN@149.22.87.204:443#14%7C%E6%97%A5%E6%9C%AC5%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2UkRoUk9FaFNUME5SVWtOYVExTldRdw==@156.231.104.19:18009#14%7C%E6%97%A5%E6%9C%AC7%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VDBsSFIxbEhVakF3TWxOU1IwY3pNdw==@156.231.104.13:18003#14%7C%E6%97%A5%E6%9C%AC8%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VGpKWlRVdEJXa1pETWs4eU9VcEhVQQ==@156.231.104.12:18002#14%7C%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.36.65.244:443#14%7C%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.202.1.19:443#14%7C%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@52.32.68.164:443#14%7C%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#0%7C--21
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.18:8080#0%7C--23
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443#%E6%96%B0%E5%8A%A0%E5%9D%A1+DigitalOcean%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+
+ss://YWVzLTI1Ni1nY206NjdkNzFlMTdiOGQ1NTRlMjUzMTI0NjkzZDM4YmJhOTM=@hk2.vps001.info:22220#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%94%B5%E4%BF%A1
+ss://YWVzLTI1Ni1nY206ZGU2YTA1YjctNjc3MC00NmI4LTgxYjUtNzA2NzUzOTFkYjZh@vmvmvm123.jmvks.cn:32001#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF8%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206ZGU2YTA1YjctNjc3MC00NmI4LTgxYjUtNzA2NzUzOTFkYjZh@vmvmvm123.jmvks.cn:32002#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmpwaGMyUXhNak0wTlRZ@154.197.98.64:8388#14%7C%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
+ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2YzJoaFpHOTNjMjlqYTNN@149.22.87.204:443#14%7C%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2WkdVMllUQTFZamN0TmpjM01DMDBObUk0TFRneFlqVXROekEyTnpVek9URmtZalpo@vmvmvm123.jmvks.cn:32001#14%7C%E9%A6%99%E6%B8%AF8%7C%40ripaojiedian
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2WkdVMllUQTFZamN0TmpjM01DMDBObUk0TFRneFlqVXROekEyTnpVek9URmtZalpo@vmvmvm123.jmvks.cn:32002#14%7C%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@18.181.162.137:443#14%7C%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@52.68.44.53:443#14%7C%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.238.219.226:443#14%7C%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
+ss://c3M6Ly9jbU0wTFcxa05Ub3hOR1pHVUhKaVpYcEZNMGhFV25welRVOXlOZw==@146.70.61.18:8080#14%7C%E8%8B%B1%E5%9B%BD%7C%40ripaojiedian
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.18:8080#13%7C%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%7C%40ripaojiedian
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#0%7C--16
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#0%7C--4
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@23.251.121.242:8080#0%7C--20
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@51.158.244.38:8080#0%7C--26
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#0%7C--13
 trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@vn.mjt000.com:443?allowInsecure=0&sni=vn.mjt000.com#13,14|越南|@ripaojiedian
-trojan://25a0ffa0-725c-4d6f-b0d5-c74579753075@cmc3.5gsieuvip.vn:443#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA
-trojan://25a0ffa0-725c-4d6f-b0d5-c74579753075@cmc5.5gsieuvip.vn:443#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
-trojan://3648425794742788096@35.168.124.79:443?allowInsecure=1&sni=humble-rodent.treefrog761.one#0,15|US_speednode_0026
-trojan://94d219c9-1afc-4d42-b090-8b3794764380@160.30.21.105:443?allowInsecure=0#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
+trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?allowInsecure=1&sni=jobsfortheworldtoday.com#0,15|US_speednode_0062
+trojan://71409d3e488548e8bb076d229778f008@jobsfortheworldtoday.com:443#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+trojan://71409d3e488548e8bb076d229778f008@jobsfortheworldtoday.com:443?allowInsecure=1#0,15|US_speednode_0054
+trojan://984e400bf5d541b7b0815913fe0c432a@yournextcareerstep.online:443?allowInsecure=1#15|FR_speednode_0016
 trojan://DNUMdmnJ@36.151.192.239:42395?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://QwwHvrnN@223.113.54.145:36442?allowInsecure=1#13,14|香港2|@ripaojiedian
-trojan://QwwHvrnN@36.151.192.201:34185?allowInsecure=1#15|CN_speednode_0002
+trojan://e8105dfd24414268b6c7652c63731097@108.61.177.251:443?allowInsecure=1&sni=yournextcareerstep.online#15|FR_speednode_0014
+trojan://e8105dfd24414268b6c7652c63731097@yournextcareerstep.online:443?allowInsecure=1#15|FR_speednode_0015
+trojan://eb0c888c-0b55-4a0b-ba97-cfc6504e8213@ccc.cm.xiaomi-api.xyz:11242?allowInsecure=1#15|CN_speednode_0009
+trojan://eb0c888c-0b55-4a0b-ba97-cfc6504e8213@ccc.ct.xiaomi-api.xyz:11142?allowInsecure=1#15|CN_speednode_0011
+trojan://eb0c888c-0b55-4a0b-ba97-cfc6504e8213@x1.xiaomi-api.xyz:11042?allowInsecure=1#15|CN_speednode_0010
 trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#16|d*********g.com_3
-trojan://telegram-id-directvpn@13.61.140.49:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%E7%BE%8E%E5%9B%BD+Xerox
-vless://0d836bdb-adbc-4863-8c56-dc662e7f6919@104.18.93.27:443?allowInsecure=0&sni=mahdiv2.pages.dev&type=ws&host=mahdiv2.pages.dev&path=/?ed=2048fp=randomized&security=tls#15|US_speednode_0056
-vless://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.44.109:443?allowInsecure=0&sni=meti-u9d.pages.dev&type=ws&host=meti-u9d.pages.dev&path=/Telegram-@proxy_mtm-@proxy_mtm-@proxy_mtm-@proxy_mtm-@proxy_mtm-@proxy_mtm/?ed=2048fp=chrome&security=tls#15|US_speednode_0047
-vless://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.44.109:443?allowInsecure=0&sni=meti-u9d.pages.dev&type=ws&host=meti-u9d.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560fp=chrome&security=tls#15|US_speednode_0020
-vless://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.47.147:443?allowInsecure=0&sni=meti-u9d.pages.dev&type=ws&host=meti-u9d.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560fp=chrome&security=tls#15|US_speednode_0036
+trojan://telegram-id-directvpn@52.60.151.196:22222?sni=trojan.burgerip.co.uk#%E5%8A%A0%E6%8B%BF%E5%A4%A7+%E9%AD%81%E5%8C%97%E5%85%8B%E7%9C%81%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://telegram-id-privatevpns@3.121.36.211:22222?sni=trojan.burgerip.co.uk#%E5%BE%B7%E5%9B%BD+%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FAMazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83                             
+trojan://telegram-id-privatevpns@63.176.29.99:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#13,14|德国|@ripaojiedian
 vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1&fp=chrome&security=tls#16|d*********g.com_6
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.19.173.68:443?allowInsecure=0&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560security=tls#15|US_speednode_0058
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.21.64.10:443?allowInsecure=0&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560security=tls#15|US_speednode_0038
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.22.73.111:443?allowInsecure=0&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560security=tls#15|US_speednode_0045
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.26.12.54:443?allowInsecure=0&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560security=tls#15|US_speednode_0035
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.26.13.54:443?allowInsecure=0&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560security=tls#15|US_speednode_0052
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@108.162.195.161:443?allowInsecure=0&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560security=tls#15|US_speednode_0048
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@108.162.195.205:443?allowInsecure=0&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560security=tls#15|US_speednode_0023
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.154:443?allowInsecure=0&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560security=tls#15|US_speednode_0050
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.192:443?allowInsecure=0&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560security=tls#15|US_speednode_0027
-
+vless://1aae9657-c653-495d-e8ad-8ca52916cea8@152.70.49.115:443?allowInsecure=0&sni=de.bolagskontaktstockholm.se&type=ws&host=de.bolagskontaktstockholm.se&path=/wssecurity=tls#15|NL_speednode_0034
+vless://1aae9657-c653-495d-e8ad-8ca52916cea8@193.122.58.158:443?allowInsecure=0&sni=de.bolagskontaktstockholm.se&type=ws&host=de.bolagskontaktstockholm.se&path=/wssecurity=tls#15|DE_speednode_0013
+vless://1aae9657-c653-495d-e8ad-8ca52916cea8@47.91.29.136:443?allowInsecure=0&sni=de.bolagskontaktstockholm.se&type=ws&host=de.bolagskontaktstockholm.se&path=/wssecurity=tls#15|JP_speednode_0028
+vless://1b6ae0f5-01dc-4b96-bca9-31c672dcf0aa@216.24.57.130:8880?allowInsecure=0&sni=mohsenfitshr.wibibin259.workers.dev&type=ws&host=mohsenfitshr.wibibin259.workers.dev&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560#15|US_speednode_0045
+vless://4c5f4cf8-b30a-4658-84bb-f0145dd123d4@4.189.216.218:443?allowInsecure=0&sni=high.work.lzg.me&type=ws&host=high.work.lzg.me&path=/4c5f4cf8-b30a-4658-84bb-f0145dd123d4fp=chrome&security=tls#15|JP_speednode_0027
+vless://5d8bc42a-d345-4bd3-a844-4b90afc44670@104.16.76.55:80?allowInsecure=0&sni=patient-shadow-baf1-ppal03.hohel98085.workers.dev&type=ws&host=patient-shadow-baf1-ppal03.hohel98085.workers.dev&path=/?ed=2560#15|US_speednode_0047
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@121.174.111.147:10936?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|KR_speednode_0029
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.146.46.164:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|US_speednode_0048
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.151.198.3:2053?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|SE_speednode_0041
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.151.204.91:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|SE_speednode_0040
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.151.225.228:2053?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|FR_speednode_0019
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.151.225.228:8443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|FR_speednode_0017
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.151.254.48:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|FR_speednode_0018
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.153.223.37:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|US_speednode_0049
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.159.84.71:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|US_speednode_0064
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.213.136.180:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|US_speednode_0058
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@130.61.23.77:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|DE_speednode_0012
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@132.226.114.74:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|US_speednode_0060
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@141.145.217.226:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|FR_speednode_0020
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@141.148.203.6:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|IN_speednode_0026
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@152.70.155.147:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|US_speednode_0061
 
 </pre>                                                                   
 
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/clash-subscription@a/2024-12-24-list-1.yaml</pre>
-<pre>https://v2ray-clash.top/clash-subscription@b/2024-12-24-list-2.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@a/2024-12-25-list-1.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@b/2024-12-25-list-2.yaml</pre>
 ↓备用↓
-<pre>https://v2ray-clash.top/clash-subscription@c/2024-12-24-list-3.yaml</pre>
-<pre>https://v2ray-clash.top/@clash-subscription@d/2024-12-24-list-4.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@c/2024-12-25-list-3.yaml</pre>
+<pre>https://v2ray-clash.top/@clash-subscription@d/2024-12-25-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/v2ray-subscription@a/2024-12-24-list-1.txt</pre>
-<pre>https://v2ray-clash.top/v2ray-subscription@b/2024-12-24-list-2.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@a/2024-12-25-list-1.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@b/2024-12-25-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://v2ray-clash.top/base64-subscription/2024-12-24-list-1.txt</pre>
+<pre>https://v2ray-clash.top/base64-subscription/2024-12-25-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://v2ray-clash.top/sing-box-subscription/2024-12-24-list-1.json </pre> 
+<pre>https://v2ray-clash.top/sing-box-subscription/2024-12-25-list-1.json </pre> 
 <hr />
 
 
