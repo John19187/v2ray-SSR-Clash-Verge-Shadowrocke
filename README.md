@@ -3,7 +3,7 @@
 
 
 
-时间来到2025年1月11日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+时间来到2025年1月13日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
 
 
 
@@ -43,41 +43,37 @@
 
 
 
-<h2 class="h2h2">SSR免费节点订阅地址- 2025-1-11 </h2>
+<h2 class="h2h2">SSR免费节点订阅地址- 2025-1-13 </h2>
 <pre>
                            
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SVZPdXpNZkg1Uk9wZ3d0UlRjTkpLWUp2WWU5RkRWYVU3d0FZWWg4UFJMeHhaczY=@188.191.147.127:31348#%E4%B9%8C%E5%85%8B%E5%85%B0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#%E6%AC%A7%E7%9B%9F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:5500#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-ss://YWVzLTI1Ni1nY206TEJOVjdBUzg1WTQ0U0ZONg==@w72tapyb.slashdevslashnetslashtun.net:16008#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%E8%8D%94%E6%B9%BE%E5%8C%BA+%2F%E5%A4%A9%E6%B2%B3%E5%8C%BA%E7%94%B5%E4%BF%A1
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.69:8008#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:3306#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-ss://YWVzLTI1Ni1nY206WVJDSzJEMTZOSVNEQVBFVg==@w72tapyb.slashdevslashnetslashtun.net:17004#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%E8%8D%94%E6%B9%BE%E5%8C%BA+%2F%E5%A4%A9%E6%B2%B3%E5%8C%BA%E7%94%B5%E4%BF%A1
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8118#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5004#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxXHU2YzVmXHU5NWU4XHU1ZTAyIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAiMTIwLjIzNC4xMDIuMjI5IiwgInBvcnQiOiAiNTI5MDgiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiA
-vmess://eyJhZGQiOiAiMTUxLjEwMS4yLjIxNiIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIEZhc3RseVx1NTE2OFx1NzQwM0FueWNhc3RcdTgyODJcdTcwYjkiLCAicG9ydCI6IDgwLCAiaWQiOiAiYzY5ZjMwMjktYWUxZS00NWNhLWFhMDgtNzA5NzBmMTRkZmQyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInRlbGVncmFtLUlTVnZwbi5pciIsICJwYXRoIjogIi9yYWNldnBuP3RlbGVncmFtQElTVnZwbi10ZWxlZ3JhbUBJU1Z2cG4tdGVsZWdyYW1ASVNWdnBuIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInNhaGFuZC5zZXJ2ZW1pbmVjcmFmdC5uZXQiLCAiaWQiOiAiMTE4Mjg3ZDItZTk2OC00MmUxLTgwZDAtMTJmYTJmNWQzOGQ2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTUzNzBcdTVlYTYgVjJDUk9TUy5DT00iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-vmess://eyJhZGQiOiAicHJpbWVyLmliaWxpYmkubGkiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBWMkNST1NTLkNPTSIsICJwb3J0IjogNDQzLCAiaWQiOiAiZTU4NTIzOTMtY2E1Mi00YzkwLWEyMzctZDYzY2JiYjU3ZjIxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImxva2kub3JhY2xlIiwgInBhdGgiOiAiL2ZhcmNyeT9lZD0yNTYwIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiczQuZGItbGluazAxLnRvcCIsICJhaWQiOiAwLCAiaG9zdCI6ICIxMDAtNDQtMjI5LTI2LnM0LmRiLWxpbmswMS50b3AiLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kYWJhaS5pbjE3Mi42Ny41LjcwIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vmess://eyJhZGQiOiAiMTA0LjE3LjIyMS4yNDgiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA4MCwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtNDktMTQxLTIwOS5zMS5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjE3LjE2OS4xMTUiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTA0LjE4LjMuMTgwIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4NywgImlkIjogImNhNjI5NzVkLTkzNGUtNDJjNi1kMzYxLTZiNDQ1OTQ1ZDViNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJrdXMuaHRnODg2Ni51cy5rZyIsICJwYXRoIjogIi80dzU2eWVydDI0M3IiLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206TkZZRFZYRTNETVdJMk0zVw==@8tv68qhq.slashdevslashnetslashtun.net:15005#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E8%85%BE%E8%AE%AF%E4%BA%91
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%E8%8D%B7%E5%85%B0
+ss://YWVzLTI1Ni1nY206NktZTDNZTTdVQU9BRTk0UQ==@w72tapyb.slashdevslashnetslashtun.net:16016#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%E8%8D%94%E6%B9%BE%E5%8C%BA+%2F%E5%A4%A9%E6%B2%B3%E5%8C%BA%E7%94%B5%E4%BF%A1
+ss://YWVzLTI1Ni1nY206WVBOTkJYR1JOQ0FYQjlONw==@ti3hyra4.slashdevslashnetslashtun.net:15010#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E8%85%BE%E8%AE%AF%E4%BA%91
+vmess://eyJhZGQiOiAiMTA0LjIxLjk2LjEiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiODljMzQ0ZjItMDk2Yy00NDVjLWI2MjktOWIxNTE1MmYzOGU3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZmLmtuY2MyLnRvcCIsICJwYXRoIjogIi84OWMzNDRmMiIsICJ0bHMiOiAidGxzIn0=
+vmess://eyJhZGQiOiAiMTA0LjE4LjMuMTgwIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA1MywgImlkIjogImNhNjI5NzVkLTkzNGUtNDJjNi1kMzYxLTZiNDQ1OTQ1ZDViNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJrdXMuaHRnODg2Ni51cy5rZyIsICJwYXRoIjogIi80dzU2eWVydDI0M3IiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiczIuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg4ODAsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTQwLTE4OC0yMzcuczIuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjE3Mi42NC4zNi4xNzAiLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206RkFKVDI2UElNN0NCNzFPWg==@qh62onjn.slashdevslashnetslashtun.net:16003#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%E8%8D%94%E6%B9%BE%E5%8C%BA+%2F%E5%A4%A9%E6%B2%B3%E5%8C%BA%E7%94%B5%E4%BF%A1
+vmess://eyJhZGQiOiAiczQuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg4ODAsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTEyOC0xMi0xODAuczQuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yNS4yMzkuMTMxIiwgInRscyI6ICIifQ==
+
 </pre>                                                                   
 
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/clash-subscription@a/2025-1-11-list-1.yaml</pre>
-<pre>https://v2ray-clash.top/clash-subscription@b/2025-1-11-list-2.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@a/2025-1-13-list-1.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@b/2025-1-13-list-2.yaml</pre>
 ↓备用↓
-<pre>https://v2ray-clash.top/clash-subscription@c/2025-1-11-list-3.yaml</pre>
-<pre>https://v2ray-clash.top/@clash-subscription@d/2025-1-11-list-4.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@c/2025-1-13-list-3.yaml</pre>
+<pre>https://v2ray-clash.top/@clash-subscription@d/2025-1-13-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/v2ray-subscription@a/2025-1-11-list-1.txt</pre>
-<pre>https://v2ray-clash.top/v2ray-subscription@b/2025-1-11-list-2.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@a/2025-1-13-list-1.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@b/2025-1-13-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://v2ray-clash.top/base64-subscription/2025-1-11-list-1.txt</pre>
+<pre>https://v2ray-clash.top/base64-subscription/2025-1-13-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://v2ray-clash.top/sing-box-subscription/2025-1-11-list-1.json </pre> 
+<pre>https://v2ray-clash.top/sing-box-subscription/2025-1-13-list-1.json </pre> 
 <hr />
 
 
