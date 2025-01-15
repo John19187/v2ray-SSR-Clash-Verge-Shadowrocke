@@ -3,7 +3,7 @@
 
 
 
-时间来到2025年1月14日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+时间来到2025年1月15日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
 
 
 
@@ -43,9 +43,10 @@
 
 
 
-<h2 class="h2h2">SSR免费节点订阅地址- 2025-1-14 </h2>
+<h2 class="h2h2">SSR免费节点订阅地址- 2025-1-15 </h2>
 <pre>
                            
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.137.163:443#%E7%BE%8E%E5%9B%BD+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%E8%8D%B7%E5%85%B0
 ss://YWVzLTI1Ni1nY206NktZTDNZTTdVQU9BRTk0UQ==@w72tapyb.slashdevslashnetslashtun.net:16016#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%E8%8D%94%E6%B9%BE%E5%8C%BA+%2F%E5%A4%A9%E6%B2%B3%E5%8C%BA%E7%94%B5%E4%BF%A1
@@ -78,7 +79,7 @@ vmess://eyJhZGQiOiAiczQuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1
 <h2 class="h2h2">通用base64订阅地址</h2>
 <pre>https://v2ray-clash.top/base64-subscription/2025-1-14-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://v2ray-clash.top/sing-box-subscription/2025-1-14-list-1.json </pre> 
+<pre>https://v2ray-clash.top/sing-box-subscription/2025-1-15-list-1.json </pre> 
 <hr />
 
 
