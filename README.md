@@ -3,7 +3,7 @@
 
 
 
-时间来到2025年1月18日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+时间来到2025年1月19日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
 
 
 
@@ -43,9 +43,10 @@
 
 
 
-<h2 class="h2h2">SSR免费节点订阅地址- 2025-1-18 </h2>
+<h2 class="h2h2">SSR免费节点订阅地址- 2025-1-19 </h2>
 <pre>
                            
+
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.137.163:443#%E7%BE%8E%E5%9B%BD+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%E8%8D%B7%E5%85%B0
@@ -59,28 +60,26 @@ vmess://eyJhZGQiOiAiMTA0LjE4LjMuMTgwIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQg
 vmess://eyJhZGQiOiAiMTA0LjE4LjMuMTgwIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4NywgImlkIjogImNhNjI5NzVkLTkzNGUtNDJjNi1kMzYxLTZiNDQ1OTQ1ZDViNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJrdXMuaHRnODg2Ni51cy5rZyIsICJwYXRoIjogIi80dzU2eWVydDI0M3IiLCAidGxzIjogInRscyJ9
 vmess://eyJhZGQiOiAiMTA0LjE5LjIxOC4yMzYiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiNzVkZTg0NDMtOGVmZS00MjljLWM1ZWYtYTUxZjM4NTkyZjAzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImNrLmh0Zzg4NjYudXMua2ciLCAicGF0aCI6ICIvM3RxNHR0cnciLCAidGxzIjogInRscyJ9
 vmess://eyJhZGQiOiAiMTA0LjIxLjk2LjEiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiODljMzQ0ZjItMDk2Yy00NDVjLWI2MjktOWIxNTE1MmYzOGU3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZmLmtuY2MyLnRvcCIsICJwYXRoIjogIi84OWMzNDRmMiIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAiNS4zOS4yNTIuMjA0IiwgInYiOiAiMiIsICJwcyI6ICJcdTgyZjFcdTU2ZmQgVjJDUk9TUy5DT00iLCAicG9ydCI6IDU1ODk5LCAiaWQiOiAiNzkxYTlhYWQtMWE4Yi00MzVkLTg2MmUtNjI3ZjQxMDI1ZDczIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
 vmess://eyJhZGQiOiAiczIuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwODIsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTM4LTEwOC0yMjIuczIuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yNC4xMzEuNjEiLCAidGxzIjogIiJ9
 vmess://eyJhZGQiOiAiczIuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg4ODAsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTQwLTE4OC0yMzcuczIuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjE3Mi42NC4zNi4xNzAiLCAidGxzIjogIiJ9
 vmess://eyJhZGQiOiAiczQuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg4ODAsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTEyOC0xMi0xODAuczQuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yNS4yMzkuMTMxIiwgInRscyI6ICIifQ==
-本
 
 </pre>                                                                   
 
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/clash-subscription@a/2025-1-18-list-1.yaml</pre>
-<pre>https://v2ray-clash.top/clash-subscription@b/2025-1-18-list-2.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@a/2025-1-19-list-1.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@b/2025-1-19-list-2.yaml</pre>
 ↓备用↓
-<pre>https://v2ray-clash.top/clash-subscription@c/2025-1-18-list-3.yaml</pre>
-<pre>https://v2ray-clash.top/@clash-subscription@d/2025-1-18-list-4.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@c/2025-1-19-list-3.yaml</pre>
+<pre>https://v2ray-clash.top/@clash-subscription@d/2025-1-19-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/v2ray-subscription@a/2025-1-18-list-1.txt</pre>
-<pre>https://v2ray-clash.top/v2ray-subscription@b/2025-1-18-list-2.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@a/2025-1-19-list-1.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@b/2025-1-19-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://v2ray-clash.top/base64-subscription/2025-1-18-list-1.txt</pre>
+<pre>https://v2ray-clash.top/base64-subscription/2025-1-19-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://v2ray-clash.top/sing-box-subscription/2025-1-18-list-1.json </pre> 
+<pre>https://v2ray-clash.top/sing-box-subscription/2025-1-19-list-1.json </pre> 
 <hr />
 
 
