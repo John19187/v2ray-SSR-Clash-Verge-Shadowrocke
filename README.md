@@ -68,18 +68,18 @@ vmess://eyJhZGQiOiAidmlzYS5jb20iLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91
 
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/clash-subscription@a/2025-1-01-list-1.yaml</pre>
-<pre>https://v2ray-clash.top/clash-subscription@b/2025-1-01-list-2.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@a/2025-2-01-list-1.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@b/2025-2-01-list-2.yaml</pre>
 ↓备用↓
-<pre>https://v2ray-clash.top/clash-subscription@c/2025-1-01-list-3.yaml</pre>
-<pre>https://v2ray-clash.top/@clash-subscription@d/2025-1-01-list-4.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@c/2025-2-01-list-3.yaml</pre>
+<pre>https://v2ray-clash.top/@clash-subscription@d/2025-2-01-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/v2ray-subscription@a/2025-1-01-list-1.txt</pre>
-<pre>https://v2ray-clash.top/v2ray-subscription@b/2025-1-01-list-2.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@a/2025-2-01-list-1.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@b/2025-2-01-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://v2ray-clash.top/base64-subscription/2025-1-01-list-1.txt</pre>
+<pre>https://v2ray-clash.top/base64-subscription/2025-2-01-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://v2ray-clash.top/sing-box-subscription/2025-1-01-list-1.json </pre> 
+<pre>https://v2ray-clash.top/sing-box-subscription/2025-2-01-list-1.json </pre> 
 <hr />
 
 
