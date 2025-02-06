@@ -3,7 +3,7 @@
 
 
 
-时间来到2025年2月05日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+时间来到2025年2月06日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
 
 
 
@@ -43,7 +43,7 @@
 
 
 
-<h2 class="h2h2">SSR免费节点订阅地址- 2025-2-05 </h2>
+<h2 class="h2h2">SSR免费节点订阅地址- 2025-2-06 </h2>
 <pre>
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%E4%BF%84%E7%BD%97%E6%96%AF
@@ -64,18 +64,18 @@ vmess://eyJhZGQiOiAiczUuZGItbGluazAxLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1
 
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/clash-subscription@a/2025-2-05-list-1.yaml</pre>
-<pre>https://v2ray-clash.top/clash-subscription@b/2025-2-05-list-2.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@a/2025-2-06-list-1.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@b/2025-2-06-list-2.yaml</pre>
 ↓备用↓
-<pre>https://v2ray-clash.top/clash-subscription@c/2025-2-05-list-3.yaml</pre>
-<pre>https://v2ray-clash.top/@clash-subscription@d/2025-2-05-list-4.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@c/2025-2-06-list-3.yaml</pre>
+<pre>https://v2ray-clash.top/@clash-subscription@d/2025-2-06-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/v2ray-subscription@a/2025-2-05-list-1.txt</pre>
-<pre>https://v2ray-clash.top/v2ray-subscription@b/2025-2-05-list-2.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@a/2025-2-06-list-1.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@b/2025-2-06-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://v2ray-clash.top/base64-subscription/2025-2-05-list-1.txt</pre>
+<pre>https://v2ray-clash.top/base64-subscription/2025-2-06-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://v2ray-clash.top/sing-box-subscription/2025-2-05-list-1.json </pre> 
+<pre>https://v2ray-clash.top/sing-box-subscription/2025-2-06-list-1.json </pre> 
 <hr />
 
 
