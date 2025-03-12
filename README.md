@@ -3,7 +3,7 @@
 
 
 
-时间来到2025年3月11日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+时间来到2025年3月12日，本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
 
 
 
@@ -43,7 +43,7 @@
 
 
 
-<h2 class="h2h2">SSR免费节点订阅地址- 2025-3-11 </h2>
+<h2 class="h2h2">SSR免费节点订阅地址- 2025-3-12 </h2>
 <pre>
 
 
@@ -60,18 +60,18 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxXHU2ZTViXHU2YzVmXHU1ZTAy
 
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/clash-subscription@a/2025-03-11-list-1.yaml</pre>
-<pre>https://v2ray-clash.top/clash-subscription@b/2025-03-11-list-2.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@a/2025-03-12-list-1.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@b/2025-03-12-list-2.yaml</pre>
 ↓备用↓
-<pre>https://v2ray-clash.top/clash-subscription@c/2025-03-11-list-3.yaml</pre>
-<pre>https://v2ray-clash.top/@clash-subscription@d/2025-03-11-list-4.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@c/2025-03-12-list-3.yaml</pre>
+<pre>https://v2ray-clash.top/@clash-subscription@d/2025-03-12-list-4.yaml</pre>
 <h2 class="h2h2"> v2ray免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/v2ray-subscription@a/2025-03-11-list-1.txt</pre>
-<pre>https://v2ray-clash.top/v2ray-subscription@b/2025-03-11-list-2.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@a/2025-03-12-list-1.txt</pre>
+<pre>https://v2ray-clash.top/v2ray-subscription@b/2025-03-12-list-2.txt</pre>
 <h2 class="h2h2">通用base64订阅地址</h2>
-<pre>https://v2ray-clash.top/base64-subscription/2025-03-11-list-1.txt</pre>
+<pre>https://v2ray-clash.top/base64-subscription/2025-03-12-list-1.txt</pre>
 <h2 class="h2h2">sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://v2ray-clash.top/sing-box-subscription/2025-03-11-list-1.json </pre> 
+<pre>https://v2ray-clash.top/sing-box-subscription/2025-03-12-list-1.json </pre> 
 <hr />
 
 
