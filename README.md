@@ -22,11 +22,12 @@
 
 &nbsp;
 
-<a href="https://yy.xingyunnode.cc/#/register?code=EiPdmWvq" target="_blank" ><img class="aligncenter" src="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/assets/164295305/09fef8dc-5ec2-4af2-8eb4-9aeeb244e611" /></a>
+***
+[**» 进入性价比机场-优惠活动中-高速/稳定/推荐-月付18元200GB、23元300GB、35元800GB、年付58元600GB、88元2300GB、送小火箭ID、小白专属客户端，1秒上手**](https://ll.silos.top/lepl/sxdxZeA8VV) 顺滑4K / 大文件 / 高质量流媒体解锁/稳定支持AI服务...以其出色的性价比和稳定性与优质的服务获得众多外贸公司、科研人员、博主一致好评，复购率很高。
 
-&nbsp;
+[**» 进入便宜机场-量大价低-月付9.9元300GB、24元1000G、40元2000GB**-送小火箭ID](https://oo.silos.top/cheap/ew8KhPafvG) 流媒体、AI工具等高流量需求，长期备用流量
+***
 
-<a href="https://js.hdycco.cc/#/register?code=wuqd5vwQ" target="_blank" ><img class="aligncenter" src="https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/assets/164295305/ca079e18-7e9d-4440-8e1d-1fb73772433e" /></a>
 
 <hr />
 
@@ -60,8 +61,8 @@ vmess://eyJhZGQiOiAiczEuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1
 
 
 <h2 class="h2h2">clash免费节点订阅地址</h2>
-<pre>https://v2ray-clash.top/clash-subscription@a/2025-03-list-1.yaml</pre>
-<pre>https://v2ray-clash.top/clash-subscription@b/2025-03-list-2.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@a/2025-list-1.yaml</pre>
+<pre>https://v2ray-clash.top/clash-subscription@b/2025-list-2.yaml</pre>
 ↓备用↓
 <pre>https://v2ray-clash.top/clash-subscription@c/2025-list-3.yaml</pre>
 <pre>https://v2ray-clash.top/@clash-subscription@d/2025-list-4.yaml</pre>
