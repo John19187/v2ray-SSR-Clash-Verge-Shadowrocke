@@ -631,7 +631,6 @@ Shadowrocket是一款基于iOS平台的网络代理工具，专为移动设备�
 
 <h2 class="h2h2">免费节点与小火箭账号</h2>
 
-[​免费SSR节点 - 每日分享](https://ssrtop.com/cl/freessr)
 
 ![2024-06-05-08-20-40](https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/assets/164295305/2a9e9238-886a-4ae5-bc06-8a0d6c81d5a3)
 
