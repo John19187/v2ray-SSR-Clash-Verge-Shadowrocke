@@ -82,22 +82,11 @@ https://github.nodebest.xyz/clash-nodes-subscription-d/2025/09/update-202509.yam
 https://github.nodebest.xyz/v2ray-nodes-subscription-a/2025/09/update-202509.txt
 https://github.nodebest.xyz/v2ray-nodes-subscription-b/2025/09/update-202509.txt
 </pre>
+
 <h2 class="h2h2">2025年通用base64订阅地址</h2>
 <pre>https://github.nodebest.xyz/base64-nodes-subscription/2025/09/update-202509.txt</pre>
 <h2 class="h2h2">2025年sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://github.nodebest.xyz/sing-box-nodes-subscription/2025/09/update-202509.json </pre> ](https://github.nodebest.xyz/clash-nodes-subscription-a/2025/09/update-202509.yaml
-https://github.nodebest.xyz/clash-nodes-subscription-b/2025/09/update-202509.yaml
-https://github.nodebest.xyz/clash-nodes-subscription-c/2025/09/update-202509.yaml
-https://github.nodebest.xyz/clash-nodes-subscription-d/2025/09/update-202509.yaml</pre>
-<h2 class="h2h2"> 2025年v2ray免费节点订阅地址</h2>
-<pre>
-https://github.nodebest.xyz/v2ray-nodes-subscription-a/2025/09/update-202509.txt
-https://github.nodebest.xyz/v2ray-nodes-subscription-b/2025/09/update-202509.txt
-</pre>
-<h2 class="h2h2">2025年通用base64订阅地址</h2>
-<pre>https://github.nodebest.xyz/base64-nodes-subscription/2025/09/update-202509.txt</pre>
-<h2 class="h2h2">2025年sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://github.nodebest.xyz/sing-box-nodes-subscription/2025/09/update-202509.json </pre> )
+<pre>https://github.nodebest.xyz/sing-box-nodes-subscription/2025/09/update-202509.json </pre>
 <hr />
 
 
