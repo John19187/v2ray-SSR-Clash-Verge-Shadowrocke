@@ -1,4 +1,4 @@
-# 免费高速（23.6M/S）v2ray、sing-box、Clash、Verge、SSR、Shadowrocke-小火箭机场节点订阅指南
+# 2025年免费高速（23.6M/S）v2ray、sing-box、Clash、Verge、SSR、Shadowrocke-小火箭机场节点订阅指南
 
 
 本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
@@ -54,39 +54,36 @@
 <h2 class="h2h2">2025-SS-SSR免费节点订阅地址- </h2>
 <pre>
 
-
+vmess://eyJhZGQiOiAiOGFlNDg0OGMtc3pqd2cwLXQ0NHl2cC0xNTVkOS5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIlx1OTk5OVx1NmUyZiBcdTc1MzVcdThiYWZcdTc2YzhcdTc5ZDFcdTY3MDlcdTk2NTBcdTUxNmNcdTUzZjgiLCAicG9ydCI6IDgwLCAiaWQiOiAiMzRmMGNmNDItMGY4YS0xMWVjLWE4YmYtZjIzYzkxY2ZiYmM5IiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjhhZTQ4NDhjLXN6andnMC10NDR5dnAtMTU1ZDkuaGszLnA1cHYuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiNGMyYzAyYjktc3Yyc2cwLXN2NzVsai0xc3dmOS5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIlx1OTk5OVx1NmUyZiBcdTc1MzVcdThiYWZcdTc2YzhcdTc5ZDFcdTY3MDlcdTk2NTBcdTUxNmNcdTUzZjgiLCAicG9ydCI6IDgwLCAiaWQiOiAiMmJiMWVkYzgtZmE1ZC0xMWVmLTlkZDktZjIzYzkxNjRjYTVkIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiZmI2ZjE1ODAtc3Yyc2cwLXN2cG1kYy1ueDNiLmhrMy5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIFx1NzUzNVx1OGJhZlx1NzZjOFx1NzlkMVx1NjcwOVx1OTY1MFx1NTE2Y1x1NTNmOCIsICJwb3J0IjogODAsICJpZCI6ICIzMjMxNTMyNC1jZjZiLTExZWQtOTc5Yi1mMjNjOTE2NGNhNWQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIFx1NzUzNVx1OGJhZlx1NzZjOFx1NzlkMVx1NjcwOVx1OTY1MFx1NTE2Y1x1NTNmOCIsICJhZGQiOiAiYzU3NjU3Nzktc3Yyc2cwLXN5dTBuNS0xaGQ3di5oazMucDVwdi5jb20iLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZjczYzY0YmMtOWU4Yy0xMWVjLWJkN2MtZjIzYzkxM2M4ZDJiIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMjY2MDA3Yzctc3Y0bjQwLXN5dTBuNS0xaGQ3di5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIlx1OTk5OVx1NmUyZiBcdTc1MzVcdThiYWZcdTc2YzhcdTc5ZDFcdTY3MDlcdTk2NTBcdTUxNmNcdTUzZjgiLCAicG9ydCI6IDgwLCAiaWQiOiAiZjczYzY0YmMtOWU4Yy0xMWVjLWJkN2MtZjIzYzkxM2M4ZDJiIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiNDU3YTE0OTItc3Y0bjQwLXQ2a3picC0xaDV1Ny5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIlx1OTk5OVx1NmUyZiBcdTc1MzVcdThiYWZcdTc2YzhcdTc5ZDFcdTY3MDlcdTk2NTBcdTUxNmNcdTUzZjgiLCAicG9ydCI6IDgwLCAiaWQiOiAiZTNmZGJkMjItOGMxNy0xMWVlLWFjZTQtZjIzYzkxM2M4ZDJiIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiNzQ5YmQxOWEtc3Y0bjQwLXN2cTd1dS0xZ2V2Zy5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIlx1OTk5OVx1NmUyZiBcdTc1MzVcdThiYWZcdTc2YzhcdTc5ZDFcdTY3MDlcdTk2NTBcdTUxNmNcdTUzZjgiLCAicG9ydCI6IDgwLCAiaWQiOiAiZjAyZWUyYjQtZDc2MC0xMWVjLWJkN2MtZjIzYzkxM2M4ZDJiIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbVlUSmlNRE01TkMwNFpqUmtMVFF6T1RVdE9EUTVOUzB4WXpNM01tRTVZVEJpWVRF@free.2weradf:36175#7%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2003%20%7C%201x%20SG
 ssr://MjEyLjYwLjUuOTI6MjAzNTk6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOMk4yLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VFEmZ3JvdXA9VEc1amJpNXZjbWM
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwaVl6WTRZamd4WlMxak9XWTVMVFExWXpZdE9XTXhZUzAyTXpKa04yTmhPRGt6TkRj@free.2apzhfa:31219#9%7C%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2005%20%7C%201x%20US%20New%20Jersey
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwa04yTTFNV0ZpTmkxa01EWXlMVFF6TlRJdE9HTm1OUzFtTkRVMU5XRTJNV1U1TWpZ@free.2weradf:36113#7%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2002%20%7C%201x%20JP
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwaVpqQTBNVGRpT0Mwd1pUVXhMVFJtTnpZdFlXUmhOUzB3TldNeU1XRmtNelV4TVRN@free.2apzhfa:31341#9%7C%F0%9F%87%B5%F0%9F%87%AD%E8%8F%B2%E5%BE%8B%E5%AE%BE%2001%20%7C%201x%20PH
-ssr://MTk1LjEzMy41Mi4yNDI6MjkwMTY6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPV3h6Lz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VGcmZ3JvdXA9VEc1amJpNXZjbWM
-ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA@193.243.147.128:40368#%E6%B3%A2%E5%85%B0%20%205
-ssr://MjEyLjYwLjUuMTk2OjE1MDYyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnWlRseS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.161:80?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=Twitterfreecodes#12|EE_speednode_0084
-vmess://eyJ2IjogIjIiLCAicHMiOiAiNXxkKioqKioqKioqZy5jb21fMjMiLCAiYWRkIjogIjEwNC4xOS41OS45OSIsICJwb3J0IjogMjA1MiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZDZiNmQ5ODItZDUyZi00NjVhLWI5ODgtODU2NzBiMjNmNjRhIiwgInNuaSI6ICJjZG4zLmZyZWVncmFkZWx5Lnh5eiIsICJob3N0IjogImNkbjMuZnJlZWdyYWRlbHkueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ==
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveVlqazBaRGs1WmkwME5UUTRMVFExWm1FdFlUZ3pOaTAzTkdGaFpqTXdOVE01WWpF@free.2weradf:36243#7%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2002%20%7C%201x%20TW
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.226:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2security=tls#12|RU_speednode_0119
 
 
 </pre>                                                                   
 
 
 <h2 class="h2h2">2025年clash免费节点订阅地址</h2><pre>
-[https://github.nodebest.xyz/clash-nodes-subscription-a/2025/10/update-202510.yaml
-https://github.nodebest.xyz/clash-nodes-subscription-b/2025/10/update-202510.yaml
-https://github.nodebest.xyz/clash-nodes-subscription-c/2025/10/update-202510.yaml
-https://github.nodebest.xyz/clash-nodes-subscription-d/2025/10/update-202510.yaml</pre>
+[https://github.nodebest.xyz/clash-nodes-subscription-a/2025/11/update-202511.yaml
+https://github.nodebest.xyz/clash-nodes-subscription-b/2025/11/update-202511.yaml
+https://github.nodebest.xyz/clash-nodes-subscription-c/2025/11/update-202511.yaml
+https://github.nodebest.xyz/clash-nodes-subscription-d/2025/11/update-202511.yaml</pre>
 <h2 class="h2h2"> 2025年v2ray免费节点订阅地址</h2>
 <pre>
-https://github.nodebest.xyz/v2ray-nodes-subscription-a/2025/10/update-202510.txt
-https://github.nodebest.xyz/v2ray-nodes-subscription-b/2025/10/update-202510.txt
+https://github.nodebest.xyz/v2ray-nodes-subscription-a/2025/11/update-202511.txt
+https://github.nodebest.xyz/v2ray-nodes-subscription-b/2025/11/update-202511.txt
 </pre>
 
 <h2 class="h2h2">2025年通用base64订阅地址</h2>
-<pre>https://github.nodebest.xyz/base64-nodes-subscription/2025/10/update-202510.txt</pre>
+<pre>https://github.nodebest.xyz/base64-nodes-subscription/2025/11/update-202511.txt</pre>
 <h2 class="h2h2">2025年sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://github.nodebest.xyz/sing-box-nodes-subscription/2025/10/update-202510.json </pre>
+<pre>https://github.nodebest.xyz/sing-box-nodes-subscription/2025/11/update-202511.json </pre>
 <hr />
 
 
@@ -101,544 +98,119 @@ https://github.nodebest.xyz/v2ray-nodes-subscription-b/2025/10/update-202510.txt
 
 <h3 class="h3h3">clash订阅开源节选</h3><pre>
 
-Update: 2025-10-04 06:23
+Update: 2025-11-03
  
- 
-   - DOMAIN-SUFFIX,pclog.suishenyun.net,🛑 全球拦截
-  - IP-CIDR,113.54.0.0/15,DIRECT
-  tolerance: 20
-  ipv6: true
-  - DOMAIN-SUFFIX,tujidao.com,🛑 全球拦截
-  - IP-CIDR,114.119.160.0/21,🛑 广告拦截,no-resolve
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@145.239.1.100:8000#%F0%9F%87%A9%F0%9F%87%AADE-145.239.1.100-6953
-- DOMAIN-SUFFIX,ktvtxir.xyz,
-  servername: ''
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.61.14:6679#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.14-7066
-  - {'name': '🇦🇺AU-103.224.212.213-3544', 'server': 'youtube-bai-piao-wang-zhe-usa.98848.xyz', 'port': 443, 'type': 'trojan', 'password': 'd1478689-439c-4590-b7ce-36e786a02dc3', 'sni': 'youtube-bai-piao-wang-zhe-usa.98848.xyz', 'skip-cert-verify': False}
-trojan://telegram-id-directvpn@3.98.66.233:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-3.98.66.233-0929
-  protocol: origin
-- DOMAIN-SUFFIX,fjnsnt.xyz,
-  - DOMAIN-SUFFIX,mobvista.com,🛑 全球拦截
-  port: '8081'
-- DOMAIN-SUFFIX,adp.cnool.net,
-  type: url-test
-  - IP-CIDR,103.10.0.0/22,DIRECT
-    path: /f1rocket
-  obfs: plain
-- cipher: aes-256-cfb
-- DOMAIN-SUFFIX,loccgn.icu,
-      - 🇺🇸 美国 CloudFlare节点 54
-  - {"name":"🇺🇸_US_美国->🇫🇷_FR_法国","type":"vmess","server":"104.20.12.10","port":80,"cipher":"auto","uuid":"2d14e84b-226b-412a-9a3c-ffce70b02bdf","alterId":0,"sni":"ua1-vmess.ctunnel.xyz","network":"ws"}
-  - DOMAIN-SUFFIX,xiaozhishi852.com,🛑 全球拦截
-  - IP-CIDR,180.163.150.162/32,🚀 节点选择,no-resolve
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.63.82:7307#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.82-8268
-vmess://ewogICAgImFkZCI6ICIxMDQuMTcuNC4xNDkiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImIzYTIxZGVmLTVmY2MtNDdhOC1hNmEwLWEzNGUyOWQ1Mjg4YSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi93c3M1MTA2OCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE3LjQuMTQ5LTk1MzYiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-  - DOMAIN-SUFFIX,etherscan.io,🚀 全球互联
-  - DOMAIN-SUFFIX,dsp-impr2.youdao.com,🍃 应用净化
-  uuid: 3a02fe80-ba1c-418a-b1cf-1cb6774b63d3
-vmess://ewogICAgImFkZCI6ICI0NS44Ni44LjYiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xNjg5OTM1MjQzMDI3IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6zwn4enR0ItNDUuODYuOC42LTg3NDQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://ewogICAgImFkZCI6ICIxMDQuMTkuNDIuNzkiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJjZG4yLmZyZWVncmFkZWx5Lnh5eiIsCiAgICAiaWQiOiAiZDZiNmQ5ODItZDUyZi00NjVhLWI5ODgtODU2NzBiMjNmNjRhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLAogICAgInBvcnQiOiAyMDUyLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTkuNDIuNzktMDU2MiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-- DOMAIN-SUFFIX,js131.cn,
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25218#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-3022
-- DOMAIN-SUFFIX,88dgx.top,
-- DOMAIN-SUFFIX,careers.hotjar.com,
-  - DOMAIN-SUFFIX,lishuanghao.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,happyon.jp, 
-  type: ssr
-  - DOMAIN-SUFFIX,scrippsnetworks.com,🛑 全球拦截
-- DOMAIN-SUFFIX,gr0z6.xyz,
-  - DOMAIN-SUFFIX,m.shenyunkeji.com,🛑 全球拦截
-  - {'name': '🏁RELAY-172.67.172.67-0541', 'server': '172.67.172.67', 'port': 8080, 'type': 'vmess', 'uuid': 'b551aa22-22af-11ee-b8d8-f23c932eb68d', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': 'oiictw.yydsii.com'}}}
-- DOMAIN-SUFFIX,sigmob.cn,
-  password: a3GFYt36Sm82Vys9
-  - {'name': '🏁RELAY-104.31.16.41-9407', 'server': '104.31.16.41', 'port': 80, 'type': 'vmess', 'uuid': '8abe9496-5e24-4e49-b566-dcf86116017d', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/i99LgvSaslbsPLLQQ7j6Z'}}
-ssr://NDYuMTcuNDYuMTkwOjIyMDY2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT0RBdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlR3Jmdyb3VwPVRHNWpiaTV2Y21j
-- DOMAIN-SUFFIX,iyfbodn.com,
-  - DOMAIN-SUFFIX,nytstyle.com,🔰 节点选择
-  type: ss
-  - DOMAIN-SUFFIX,cpro1.edushi.com,🛑 全球拦截
-    - ntp6.*.com
-- DOMAIN-SUFFIX,baiduajbcjkabcav.com,
-  - IP-CIDR,203.212.80.0/20,DIRECT
-  - {'name': '🇨🇦CA-140.238.157.13-0174', 'server': '142.724064.xyz', 'port': 443, 'type': 'vmess', 'uuid': '508b2b91-0aba-411e-97be-c544a0ea7170', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/pttnvws', 'headers': {'Host': '142.724064.xyz'}}}
-- DOMAIN-SUFFIX,iqede.xyz,
-  port: 2095
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.232.239.30-4095
-# Epic
-  - DOMAIN-SUFFIX,360shopping.com.cn,🛑 全球拦截
-  type: vmess
-  password: qwerREWQ@@
-  - DOMAIN-SUFFIX,banner.titancasino.com,🛑 全球拦截
-- DOMAIN-SUFFIX,jsb.qianzhan.com,
-- DOMAIN-SUFFIX,ssp.21ic.com,
-  - IP-CIDR,45.117.68.0/22,DIRECT
-- DOMAIN-SUFFIX,whatsapp.net,🚀 选择代理
-  - DOMAIN-SUFFIX,a.soonyou123.com,🛑 全球拦截
-- DOMAIN-SUFFIX,afgp10l.com,
-  - DOMAIN-SUFFIX,cr-nielsen.com,🛑 全球拦截
-  - {'name': '🏁RELAY-188.114.96.221-0613', 'server': '188.114.96.221', 'port': 80, 'type': 'vmess', 'uuid': '310fabb7-2abc-4301-b302-22aa49c954fb', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/vmess', 'headers': {'Host': 'dl2.127.0.0.1.pикерл.里克爾.kлексaкадемия.kl3ksacad3my.克萊克斯學院.wonkacapitano.buzz.'}}}
-- DOMAIN-SUFFIX,amxk.top,
-- DOMAIN-SUFFIX,rbrmhz.xyz,
-  - DOMAIN-SUFFIX,archive.ph,🚀 全球互联
-  - {'name': '🇮🇷IR-185.24.255.24-4084', 'server': '185.24.255.24', 'port': 80, 'type': 'vmess', 'uuid': '80abb903-24e0-4dbd-9c2f-a57e9a267555', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/ws'}}
-- DOMAIN-SUFFIX,worjeklmq.com,
-  - IP-CIDR,74.117.182.77/32,🛑 全球拦截,no-resolve
-  - DOMAIN-SUFFIX,mydrivers.com,DIRECT
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.48.83:5500#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.83-8005
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@85.208.108.60:6679#%F0%9F%87%AF%F0%9F%87%B5JP-85.208.108.60-3749
-  - {'name': '🇺🇸US-172.234.222.138-8580', 'server': 'beeconf.xyz', 'port': 8080, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'Z1wBgCIV329qt77IFvDEGE'}
-  - DOMAIN-SUFFIX,mega.io,🔰 节点选择
-  - {'name': '🏁RELAY-104.31.16.39-9409', 'server': '104.31.16.39', 'port': 80, 'type': 'vmess', 'uuid': '8abe9496-5e24-4e49-b566-dcf86116017d', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/i99LgvSaslbsPLLQQ7j6Z'}}
-  - DOMAIN-SUFFIX,thetvdb.com,🚀 全球互联
-- DOMAIN-SUFFIX,open.e.kuaishou.com,
-  - IP-CIDR,103.95.224.0/22,DIRECT
-      Host: ip14.freegradely.xyz
-- DOMAIN-SUFFIX,cpmlwhra.xyz,
-  plugin-opts:
-  - DOMAIN-SUFFIX,pyerc.com,🍃 应用净化
-ssr://MjEyLjYwLjUuMTgwOjI5OTAxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnY0RJNS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
-- interval: 300
-- DOMAIN-SUFFIX,fhglcpf.icu,
-  - DOMAIN-SUFFIX,mcgi.v.qq.com,🍃 应用净化
-- DOMAIN-SUFFIX,shili.wanyx.com,
-  port: 2052
-  - DOMAIN-SUFFIX,androidtv.com,🔰 节点选择
-  - DOMAIN-SUFFIX,xchmai.com,🛑 全球拦截
-- DOMAIN-SUFFIX,kcnwe.xyz,
-- DOMAIN-SUFFIX,hiboard-drcn.ai.dbankcloud.cn,
-- DOMAIN-SUFFIX,vswswlz.icu,
-  type: ssr
-- DOMAIN-SUFFIX,lmxiqf.icu,
-  - DOMAIN-SUFFIX,601654.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,tb060x.corp.youdao.com,🍃 应用净化
-  - DOMAIN-SUFFIX,h-adashx.ut.taobao.com,🛑 全球拦截
-  port: '2052'
-  proxies:
-- DOMAIN-SUFFIX,163yun.com,DIRECT
-  - {'name': '🇺🇸US-35.87.3.63-1469', 'server': '35.87.3.63', 'port': 16602, 'type': 'trojan', 'password': 'Jofq1qm0HgnB', 'sni': 'appsvs.shop', 'skip-cert-verify': False}
-  - {'name': '🇺🇸US-38.64.138.145-7248', 'server': '38.64.138.145', 'port': 8091, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
-  - IP-CIDR,116.55.227.242/32,🛑 全球拦截,no-resolve
-  cipher: auto
-  name: 10|🇸🇬 新加坡2|@ripaojiedian
-  - DOMAIN-SUFFIX,allyes.com,🛑 全球拦截
-  - IP-CIDR,202.146.160.0/20,DIRECT
-  - {'name': '🏁RELAY-104.21.12.87-9508', 'server': '104.21.12.87', 'port': 443, 'type': 'trojan', 'password': '0b65bb06-6b28-487a-8e3c-820dda51e977', 'sni': 'series-v1.samanehha.co', 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/43xf5zgeApzDAfhOHq', 'headers': {'Host': 'series-v1.samanehha.co'}}}
-  - DOMAIN-SUFFIX,engine.tuia.cn,🛑 全球拦截
-  - IP-CIDR,202.182.192.0/19,DIRECT
-  - IP-CIDR,203.31.229.0/24,DIRECT
-      - 🇺🇸 美国 CloudFlare节点 8
-  - IP-CIDR,103.135.80.0/22,DIRECT
-  port: 12954
-  - IP-CIDR,116.254.132.0/22,DIRECT
-  - {'name': '🇵🇱PL-217.30.10.63-5711', 'server': '217.30.10.63', 'port': 9040, 'type': 'ss', 'cipher': 'aes-256-cfb', 'password': 'p9z5BVADH2YFs3MN'}
-  servername: ''
-- DOMAIN-SUFFIX,jmylj.cn,
-- DOMAIN-SUFFIX,w1.vskwai.com,
-- DOMAIN-SUFFIX,mbly0.xyz,
-  - DOMAIN-SUFFIX,ad.xiaomi.com,🍃 应用净化
-    skip-cert-verify: false
-  - DOMAIN-SUFFIX,adhigh.net,🛑 全球拦截
-- DOMAIN-SUFFIX,elas666.pics,
-  - DOMAIN-SUFFIX,re.m.taobao.com,🍃 应用净化
-- DOMAIN-SUFFIX,api.jietuhb.com,
-- DOMAIN-SUFFIX,sensifyfugged.com,
-  - DOMAIN-SUFFIX,geobanner.friendfinder.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,m.kcooy.com,🛑 全球拦截
-  servername: ''
-mode: rule
-  - DOMAIN-SUFFIX,mxpnl.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,biz.weibo.com.cn,🍃 应用净化
-ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNw@82.102.26.117:44236#%F0%9F%87%AE%F0%9F%87%B9IT-82.102.26.117-2352
-  - DOMAIN-SUFFIX,wpsweb-dc.wps.cn,🍃 应用净化
-  port: 8081
-vmess://ewogICAgImFkZCI6ICIxNTYuMjQ5LjE4LjQiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI4NGQxZGUxMS1jZTEyLTRhMTUtODMxMi0xMzM4MzU2ZDRhYzQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xNjk3NzE5NTA2Mjc1IiwKICAgICJwb3J0IjogMzAwMDAsCiAgICAicHMiOiAi8J+Hs/Cfh7FOTC0xNTYuMjQ5LjE4LjQtNjUxMCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogInd3dy41NzQyNDM0OS54eXoiCn0=
-- DOMAIN-SUFFIX,dailymotion.com,🚀 选择代理
-#   - USER-AGENT,Disney+*, 
-- DOMAIN-SUFFIX,tuoizbtl.xyz,
-- DOMAIN-SUFFIX,bjxfnn.xyz,
-vmess://ewogICAgImFkZCI6ICIxNDEuMTAxLjExNC4xMDIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJjbGFzaDYuc3NyLWZyZWUueHl6IiwKICAgICJpZCI6ICI1ZjY0ZmE2NS03YjE0LTQ5YzUtOTU0ZC1hYTE1YzZiZmNhY2QiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNDEuMTAxLjExNC4xMDItMTYzMyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-  - DOMAIN-SUFFIX,app.waps.cn,🛑 全球拦截
-  - {'name': '🇺🇸US-167.88.61.2-0093', 'server': '167.88.61.2', 'port': 808, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
-- {name: 🇺🇸US-23.145.56.36-171, server: 23.145.56.36, port: 41356, type: vmess, uuid: 655f6f7a-a288-39e1-9e82-b60cd4e81529, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: true, ws-headers: {Host: 23.145.56.36}}
-  - DOMAIN-SUFFIX,n.mark.letv.com,🍃 应用净化
-- DOMAIN-SUFFIX,ieapak.xyz,
-  - DOMAIN-SUFFIX,qz.com,🚀 全球互联
-  - DOMAIN-SUFFIX,encoretvb.com, 
-- DOMAIN-SUFFIX,acemof.top,
-- DOMAIN-SUFFIX,zmzapi.com,DIRECT
-  - IP-CIDR,103.8.220.0/22,DIRECT
-  - DOMAIN-SUFFIX,cpc.sogou.com,🛑 全球拦截
-    path: /video/9TfVEyku
-  - {'name': '🇵🇹PT-94.131.10.5-8627', 'server': '94.131.10.5', 'port': 443, 'type': 'vmess', 'uuid': '88d476c1-48f7-4d3d-a0e6-acccbff02db6', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}
-- DOMAIN-SUFFIX,ogyoopo.cn,
-  - {'name': '🏁RELAY-104.19.47.140-1439', 'server': '104.19.47.140', 'port': 8080, 'type': 'vmess', 'uuid': 'b551aa22-22af-11ee-b8d8-f23c932eb68d', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/?ed=2048&Telegram🇨🇳 @WangCai2', 'headers': {'Host': 'oiictw.yydsii.com'}}}
-  server: 36.151.195.48
-  - DOMAIN-SUFFIX,t-ads.xiaohongshu.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,artstation.com,🚀 全球互联
-  - {'name': '🇵🇱PL-51.77.53.200-3402', 'server': '51.77.53.200', 'port': 3306, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
-- DOMAIN-SUFFIX,bytupkvc.xyz,
-- DOMAIN-SUFFIX,jjvzqjh.xyz,
-- DOMAIN-SUFFIX,nakop.xyz,
-  - {'name': '🇧🇬BG-213.183.63.221-5669', 'server': '213.183.63.221', 'port': 9032, 'type': 'ss', 'cipher': 'aes-256-cfb', 'password': 'UWZQeLRWnkqgkseq'}
-vmess://ewogICAgImFkZCI6ICI0OC43MjQwNjQueHl6IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiNDguNzI0MDY0Lnh5eiIsCiAgICAiaWQiOiAiNTMyMmViODUtZGJkYi00ZDdhLWI2N2QtYjg5MWZjYjQ3Y2RlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3RqcWh2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HpvCfh7pBVS0xNTIuNjkuMTY3LjExMy0wMTk4IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-  - IP-CIDR,27.113.128.0/18,DIRECT
-- DOMAIN-SUFFIX,cnbetacdn.com,DIRECT
-  - DOMAIN-SUFFIX,msn.com,Ⓜ️ 微软服务
-  port: 443
-  - IP-CIDR,185.60.216.0/22,🚀 节点选择,no-resolve
-  - DOMAIN,yacd.haishan.me,🚀 全球互联
-  - IP-CIDR,45.40.224.0/19,DIRECT
-  - DOMAIN-SUFFIX,s.shiftrro.com,🛑 全球拦截
-ssr://ODUuMTE3LjIzNC4xMDc6MjEwMzY6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dlVFZpLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VUEmZ3JvdXA9VEc1amJpNXZjbWM
-  - IP-CIDR,69.231.128.0/18,DIRECT
-  - IP-CIDR,101.101.64.0/19,DIRECT
-  - IP-CIDR,223.223.192.0/20,DIRECT
-vmess://ewogICAgImFkZCI6ICIxNTQuOTIuOS44MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZGQ0MWI1Y2ItYjcyZS00YThjLWM3NWEtM2VjYzkyOGQ2ZWIzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2JsdWUiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTU0LjkyLjkuODEtOTIwOCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-  - IP-CIDR,103.250.216.0/22,DIRECT
-  - DOMAIN-SUFFIX,shadu.baidu.com,🛑 全球拦截
-  - {'name': '🏁RELAY-162.159.152.2-5832', 'server': 'visa.cn', 'port': 2086, 'type': 'vmess', 'uuid': '75f51c8f-4045-4e58-bd94-598df26e6bfc', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/aries', 'headers': {'Host': 'indo.cloudflare.quest'}}}
-  - DOMAIN-SUFFIX,blzs.me,🚀 全球互联
-ssr://NDYuMjkuMTYwLjE0MjoyMjUwNjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ01YYzIvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZUUSZncm91cD1URzVqYmk1dmNtYw
-  - DOMAIN-SUFFIX,jwqj.net,🛑 全球拦截
-  - 🚀 选择代理
-  - {'name': '🇺🇸US-129.146.242.130-1648', 'server': '129.146.242.130', 'port': 443, 'type': 'trojan', 'password': '05742120-ce23-4cc8-88f5-6d221ce45bf4', 'skip-cert-verify': False}
-- DOMAIN-SUFFIX,gr0z6.xyz,
-vmess://ewogICAgImFkZCI6ICJzZXJ2ZXIzMS5iZWhlc2h0YmFuZWguY29tIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAic2VydmVyMzEuYmVoZXNodGJhbmVoLmNvbSIsCiAgICAiaWQiOiAiNDE1NDE0M2MtYmJiYS00N2E0LTlmNzktYzJlZDA4N2NiY2M5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDg4ODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS44Mi4xODMtMTUyMiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-- DOMAIN-SUFFIX,hpgmkbt.icu,
-  port: 9060
-  - DOMAIN-SUFFIX,inter1ads.com,🛑 全球拦截
-  port: 443
-  network: tcp
-  port: 80
-- DOMAIN-SUFFIX,tsfwzz.xyz,
-  - {'name': '🇸🇬SG-13.250.46.178-5087', 'server': '13.250.46.178', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-cfb', 'password': 'amazonskr05'}
-  cipher: auto
-  - DOMAIN-SUFFIX,rp.hpplay.cn,🛑 全球拦截
-  network: ws
-- alterId: 0
-- DOMAIN-SUFFIX,log-sdk.gifshow.com,
-- alterId: 0
-  - DOMAIN-SUFFIX,px.steelhousemedia.com,🛑 全球拦截
-  - {'name': '🇺🇸US-167.88.63.82-7857', 'server': '167.88.63.82', 'port': 443, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
-- DOMAIN-SUFFIX,zuowen.hydcd.com,
-    headers:
-  - IP-CIDR,114.111.0.0/19,DIRECT
-vmess://ewogICAgImFkZCI6ICIyMDMuMjQuMTA4LjgiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjQwZDQ5NmE2LWNlZWItNDA5Ni1iYWViLTRjYzUyYjIwNTYyMSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9FQ1RDSjBERiIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMjAzLjI0LjEwOC44LTM1OTIiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-- DOMAIN-SUFFIX,xiami.com,DIRECT
-- DOMAIN-SUFFIX,chubsxmg.xyz,
-- DOMAIN-SUFFIX,x2y22.fun,
-  - DOMAIN-SUFFIX,ktunions.com,🛑 全球拦截
-  - IP-CIDR,210.82.0.0/15,DIRECT
-- DOMAIN-SUFFIX,dnzmhr.xyz,
-  - IP-CIDR,123.59.0.0/16,DIRECT
-- DOMAIN-SUFFIX,ghostnoteapp.com,🚀 选择代理
-  - {'name': '🇫🇷FR-141.95.55.70-9300', 'server': '141.95.55.70', 'port': 80, 'type': 'vmess', 'uuid': '18ca5b23-ead3-4adb-a153-d7ae32c10f54', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/vmess'}}
-- DOMAIN-SUFFIX,cp2.eastmoney.com,
-  server: 103.172.116.94
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.91.102.30:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.91.102.30-3553
-- DOMAIN-SUFFIX,virusinfo-cloudscan-cn.heytapmobi.com,
-  type: vmess
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemk.ciscocdn1.live:443?security=tls&sni=c2mk.ciscocdn1.live&type=ws&path=/rDCYQta83d0oPABKBhcIX&Host=c2mk.ciscocdn1.live#%F0%9F%87%BA%F0%9F%87%B8US-172.234.222.143-8557
-  - {'name': '🇻🇬VG-204.11.56.48-0894', 'server': 'ssr4.ssrsub.com', 'port': 8333, 'type': 'ss', 'cipher': 'rc4-md5', 'password': 'passfw2xs4e!'}
-  - IP-CIDR,202.61.123.0/24,DIRECT
-      Host: helanv6cf.inekokkk.top
-vmess://ewogICAgImFkZCI6ICI0NS43Ni43MS4yMzMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjY5MDk5MjU4LTE0NzYtNDZkZC1hNTFiLTg0ZTkxNWU5NDFiZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8xdEdLODJsVS8iLAogICAgInBvcnQiOiA0Njk4MywKICAgICJwcyI6ICLwn4e68J+HuFVTLTQ1Ljc2LjcxLjIzMy0zMzcxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-    path: /?ed=2560
-  - {'name': '🇺🇸US-142.202.48.58-7773', 'server': '142.202.48.58', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
-  password: fuck
-  - {'name': '🇯🇵JP-150.230.96.103-4221', 'server': '150.230.96.103', 'port': 443, 'type': 'trojan', 'password': 'da777aae-defb-41d0-a183-2c27da2b4677', 'skip-cert-verify': False}
-  tls: false
-- DOMAIN,safebrowsing.googleapis.com,DIRECT
-  uuid: bd3025c3-113d-49c1-bef3-2523e8db8520
-- DOMAIN-SUFFIX,xhbshv.xyz,
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.131:8080#%F0%9F%87%BA%F0%9F%87%B8US-45.158.171.131-0881
-  - DOMAIN-SUFFIX,newpppp.com, 
-  network: tcp
-  - DOMAIN-SUFFIX,m.uc123.com,🛑 全球拦截
-- DOMAIN-SUFFIX,hanwdsii.com,
-vmess://ewogICAgImFkZCI6ICI1Ljc4LjYzLjQ1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI1YjQyMDNkNS00MjJmLTRjZTQtY2EyNS1lY2RiZmVlNDVhNDYiLAogICAgIm5ldCI6ICJodHRwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6IDQ3NzgzLAogICAgInBzIjogIvCfh7rwn4e4VVMtNS43OC42My40NS0zNTgyIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-- DOMAIN-SUFFIX,rczudr.xyz,
-  - IP-CIDR,221.179.140.0/24,🛑 全球拦截,no-resolve
-  - {'name': '🏁RELAY-104.19.47.91-0660', 'server': '104.19.47.91', 'port': 8080, 'type': 'vmess', 'uuid': 'b551aa22-22af-11ee-b8d8-f23c932eb68d', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/?ed=2048&Telegram🇨🇳 @WangCai2', 'headers': {'Host': 'oiictw.yydsii.com'}}}
-- DOMAIN-SUFFIX,music.apple.com,DIRECT
-  - {'name': '🇺🇸US-167.88.63.99-6424', 'server': '167.88.63.99', 'port': 7307, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'FoOiGlkAA9yPEGP'}
-  name: 5,6|美国2|@ripaojiedian
-  - DOMAIN-SUFFIX,m.mtuoa.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,amazontools.com, 
-  - DOMAIN-SUFFIX,a907907.com,🛑 全球拦截
-    headers:
-  - {'name': '🇸🇬SG-103.172.116.6-8399', 'server': '103.172.116.6', 'port': 9043, 'type': 'ss', 'cipher': 'aes-256-cfb', 'password': 'HSZuyJQcWe8dxNdF'}
-- DOMAIN-SUFFIX,redacted.ch,DIRECT
-  - DOMAIN-SUFFIX,yun.yuyiya.com,🛑 全球拦截
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:47552?security=tls&sni=hnm.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-172.234.222.143-2853
-      - 🇮🇩 印度尼西亚 v2rayfree.eu.org
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  - IP-CIDR,203.30.29.0/24,DIRECT
-  type: vmess
-  name: 🔰 延迟最低
-- DOMAIN-SUFFIX,vejhln.xyz,
-  - DOMAIN-SUFFIX,nflxext.com, 
-  - IP-CIDR,123.4.0.0/14,DIRECT
-- DOMAIN-SUFFIX,admsapi.businessweekly.com.tw,
-- DOMAIN-SUFFIX,thvx9i.icu,
-  port: '9043'
-    headers:
-  - {'name': '🏁RELAY-104.18.100.193-5219', 'server': '104.18.100.193', 'port': 2082, 'type': 'vmess', 'uuid': '36fa45db-2d4a-4295-a1fe-223836989878', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/pineapple'}}
-  - {'name': '🇺🇸US-38.91.107.225-7755', 'server': '38.91.107.225', 'port': 805, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
-- DOMAIN-SUFFIX,inalzlo.top,
-  - IP-CIDR,42.48.0.0/13,DIRECT
-  - DOMAIN-SUFFIX,steamgames.com,🚀 节点选择
-- DOMAIN-SUFFIX,0j91h.cyou,
-  - {'name': '🇩🇪DE-3.78.83.59-1013', 'server': '3.78.83.59', 'port': 22222, 'type': 'trojan', 'password': 'telegram-id-privatevpns', 'sni': 'trojan.burgerip.co.uk', 'skip-cert-verify': False}
-  - 0|-MrXbin-101
-  - {'name': '🇩🇪DE-52.29.156.38-0327', 'server': '52.29.156.38', 'port': 22222, 'type': 'trojan', 'password': 'telegram-id-privatevpns', 'sni': 'trojan.burgerip.co.uk', 'skip-cert-verify': False}
-  server: 103.172.116.90
-- DOMAIN-SUFFIX,izqogb.cn,
-  - DOMAIN-SUFFIX,bd1.jobui.com,🛑 全球拦截
-  - IP-CIDR,103.93.204.0/22,DIRECT
-  - {'name': '🇵🇱PL-51.68.139.22-1214', 'server': '51.68.139.22', 'port': 80, 'type': 'vmess', 'uuid': 'c6744c44-4eb7-48d5-a879-a10474e2ba34', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'servername': '51.68.139.22', 'network': 'ws', 'ws-opts': {'path': '/vmess'}}
-  - DOMAIN-SUFFIX,ms.jyhwt.cn,🛑 全球拦截
-  password: UHfMApS9q4ps
-- DOMAIN-SUFFIX,alime-pic.oss-cn-hangzhou.aliyuncs.com,
-  servername: ''
-  - {'name': '🏁RELAY-104.20.25.146-1116', 'server': '104.20.25.146', 'port': 2052, 'type': 'vmess', 'uuid': 'd6b6d982-d52f-465a-b988-85670b23f64a', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': 'cdn1.freegradely.xyz'}}}
-  - GEOIP,CN,🎯 全球直连
-- DOMAIN-SUFFIX,ckg.vipyl.com,
-  port: 2095
-log-level: info
-  - DOMAIN-SUFFIX,ad.madserving.com,🛑 全球拦截
-- DOMAIN-SUFFIX,sgidskib.top,
-- DOMAIN-SUFFIX,imrvyop.cn,
-- DOMAIN-SUFFIX,vaekkfv.cn,
-- DOMAIN-SUFFIX,aqdz149.com,
-trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@tw7.170203.xyz:670?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-118.167.15.69-3280
-  name: 5|🇰🇷 韩国特殊|@ripaojiedian
-vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTI5LjE2OSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImhrMDEubGlua2l0bm93Lm5ldCIsCiAgICAiaWQiOiAiMzkxMzVhMzktZTZjYS00M2RmLWEzNjAtZDg1OWVlYTU4ZDg2IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDg0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xMjkuMTY5LTA1OTQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-  - DOMAIN-SUFFIX,dip.pyangzi.com,🛑 全球拦截
-- DOMAIN-SUFFIX,bfbchr.xyz,
-  - DOMAIN-SUFFIX,api.push.daoyoudao.com,🛑 全球拦截
-- DOMAIN-SUFFIX,twj6s.icu,
-  password: gYCYXfkUQEs2TaJQ
-  - DOMAIN-SUFFIX,ychml.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,files2.sogou.com,🍃 应用净化
-  - IP-CIDR,223.87.177.182/32,🍃 应用净化,no-resolve
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@198.57.27.218:5004#%F0%9F%87%A8%F0%9F%87%A6CA-198.57.27.218-3443
-  sni: aixunx168.top
-- DOMAIN-SUFFIX,xizanzhi.com,
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@109.169.72.249:809#%F0%9F%87%A6%F0%9F%87%AAAE-109.169.72.249-3839
-- DOMAIN-SUFFIX,focustaiwan.tw,🚀 选择代理
-- DOMAIN-SUFFIX,blthwbe.xyz,
-  - DOMAIN-SUFFIX,d9.flashtalking.com, 
-  - {'name': '🇨🇳CN-14.29.124.168-3010', 'server': '14.29.124.168', 'port': 25287, 'type': 'ss', 'cipher': 'aes-128-cfb', 'password': 'QazEdcTgb159@$*'}
-  - DOMAIN-SUFFIX,ad.cmvideo.cn,🛑 广告拦截
-  - IP-CIDR,101.120.0.0/14,DIRECT
-- DOMAIN-SUFFIX,nszort.xyz,
-ssr://MjEyLjYwLjUuMTU2OjI3MDEyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTTNWNi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j
-  type: ss
-- DOMAIN-SUFFIX,adlhxwb.xyz,
-  port: 443
-      - 🇺🇸 美国 CloudFlare节点 44
-  type: ssr
-  type: vmess
-- DOMAIN-SUFFIX,openwrt.org,🚀 选择代理
-- DOMAIN-SUFFIX,gzsscr.cn,
-- DOMAIN-SUFFIX,lxting.com,
-  - DOMAIN-SUFFIX,overturechina.com,🛑 广告拦截
-  - DOMAIN-SUFFIX,goufanli100.com,🛑 广告拦截
-  - PROCESS-NAME,WebTorrent Helper,🎯 全球直连
-  - DOMAIN-SUFFIX,mudvod.tv, 
-- DOMAIN-SUFFIX,sparknotes.com,🚀 选择代理
-  - DOMAIN-SUFFIX,cm.mct01.com,🛑 全球拦截
-  - DOMAIN,kgmobilestatbak.kugou.com,🛑 广告拦截
-- DOMAIN-SUFFIX,haise4.top,
-  - IP-CIDR,101.252.0.0/15,DIRECT
-  - IP-CIDR,114.68.112.0/20,DIRECT
-- DOMAIN-SUFFIX,htienlu.top,
-  - DOMAIN-SUFFIX,zello.com,🔰 节点选择
-  - IP-CIDR,115.192.0.0/11,DIRECT
-  - DOMAIN-SUFFIX,get.thefile.me,🛑 全球拦截
-  - {'name': '🇺🇸US-167.88.63.59-7601', 'server': '167.88.63.59', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
-- DOMAIN-SUFFIX,startpage.com,🚀 选择代理
-ss://YWVzLTI1Ni1nY206RjViS2tiOWdna0x4NEpiUXJiTG43TGpa@198.8.92.84:44945#%F0%9F%87%A8%F0%9F%87%A6CA-198.8.92.84-2371
-  - DOMAIN-SUFFIX,life.imagepix.org,🛑 全球拦截
-- DOMAIN-SUFFIX,citypopulation.de,🚀 选择代理
-      Host: trojan.freenods.sbs
-  - DOMAIN-SUFFIX,post.ra.icast.cn,🛑 全球拦截
-  - IP-CIDR,118.64.0.0/15,DIRECT
-  - IP-CIDR,202.143.100.0/22,DIRECT
-- DOMAIN-SUFFIX,ixquick.com,🚀 选择代理
-vmess://ewogICAgImFkZCI6ICI0Ny44OS4yMTEuMTc1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI2Y2M3MjJkMC1mNmI1LTQxNzktYmUxMy1jMTVjYjllNzVkZDkiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvODRCeEQyc2hGWUZwc2lSR1hBQ1VQcVd0IiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+HuvCfh7hVUy00Ny44OS4yMTEuMTc1LTg3MTAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.91.102.30:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.91.102.30-3479
-  - DOMAIN-SUFFIX,dmp.sina.com.cn,🍃 应用净化
-- DOMAIN-SUFFIX,rixgpx.xyz,
-  - DOMAIN-SUFFIX,shangz99991.com,🛑 全球拦截
-- DOMAIN-SUFFIX,bcqnbge.cn,
-- name: 🗺️ 选择地区
-- DOMAIN-SUFFIX,enalzlw.top,
-vmess://ewogICAgImFkZCI6ICIxMDQuMzEuMTYuMjciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4zMS4xNi4yNy05NDQwIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-  - IP-CIDR,59.172.0.0/14,DIRECT
-  - DOMAIN-SUFFIX,cm.passport.iqiyi.com,🍃 应用净化
-    headers:
-  name: 2|d*********g.com_2
-      - 🇮🇳 印度  2
-  - IP-CIDR,203.20.118.0/23,DIRECT
-  - IP-CIDR,103.111.252.0/22,DIRECT
-- DOMAIN-SUFFIX,6669667.com,
-  - {'name': '🇨🇦CA-158.51.121.36-0342', 'server': '158.51.121.36', 'port': 443, 'type': 'vmess', 'uuid': '03fcc618-b93d-6796-6aed-8a38c975d581', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}
-ipv6: true
-  port: 40437
-  - DOMAIN-SUFFIX,secretmedia.s3.amazonaws.com,🛑 全球拦截
-vmess://ewogICAgImFkZCI6ICIxMDQuMTkuNDcuNTMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJvaWljdHcueXlkc2lpLmNvbSIsCiAgICAiaWQiOiAiYjU1MWFhMjItMjJhZi0xMWVlLWI4ZDgtZjIzYzkzMmViNjhkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLz9lZD0yMDQ4XHUwMDI2VGVsZWdyYW3wn4eo8J+HsyBAV2FuZ0NhaTIiLAogICAgInBvcnQiOiA4MDgwLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTkuNDcuNTMtMDc4OCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-  server: 103.172.116.103
-  - 🗺️ 选择地区
-- DOMAIN-SUFFIX,gvt3.com,🚀 选择代理
-  - {'name': '🏁RELAY-104.22.11.129-9482', 'server': '104.22.11.129', 'port': 443, 'type': 'vmess', 'uuid': '824c58b1-65ba-4680-a609-663a000dbb92', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/wss13889'}}
-  - IP-CIDR,202.60.132.0/22,DIRECT
-    - time1.cloud.tencent.com
-- DOMAIN-SUFFIX,pazz.xyz,
-  - IP-CIDR,103.94.88.0/22,DIRECT
-  - DOMAIN-SUFFIX,photozoomchina.com,🛑 全球拦截
-- DOMAIN-SUFFIX,ad.qingcigame.com,
-  - IP-CIDR,1.3.0.0/16,DIRECT
-- DOMAIN-SUFFIX,android.com,🚀 选择代理
-- DOMAIN-SUFFIX,vzeuvcdi.icu,
-  - IP-CIDR,103.234.172.0/22,DIRECT
-  - DOMAIN-SUFFIX,nivodz.com, 
-  protocol: origin
-  password: amazonskr05
-  ws-opts:
-- DOMAIN-SUFFIX,rzflhxn.cn,
-  - {'name': '🏁RELAY-104.18.7.138-2579', 'server': '104.18.7.138', 'port': 443, 'type': 'vmess', 'uuid': '3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2', 'alterId': 64, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': '104.18.7.138'}}}
-- DOMAIN-SUFFIX,6b856ee58e.com,
-- DOMAIN-SUFFIX,nkfith.xyz,
-  uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961
-  - DOMAIN-SUFFIX,ad-survey.com,🛑 全球拦截
-- DOMAIN-SUFFIX,sdk-cache.video.ptqy.gitv.tv,
-  - IP-CIDR,103.238.168.0/21,DIRECT
-  skip-cert-verify: true
-  type: select
-  - {'name': '🇩🇪DE-138.68.90.231-6441', 'server': '138.68.90.231', 'port': 8080, 'type': 'vmess', 'uuid': '826b8d0a-e0d3-407a-927d-19953c170779', 'alterId': 4, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/cctv13/hd.m3u8'}}
-  - IP-CIDR,203.62.161.0/24,DIRECT
-  - IP-CIDR,203.95.132.0/22,DIRECT
-  - IP-CIDR,203.31.189.0/24,DIRECT
-  - 🇫🇷 法国
-  - DOMAIN-SUFFIX,m.dgaoz.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,leju.com,🎯 全球直连
-  - 3|IHwzMC4yMk1i
-  - DOMAIN-SUFFIX,baichuan.baidu.com,🍃 应用净化
-trojan://telegram-id-directvpn@34.220.74.123:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-34.220.74.123-2930
-- DOMAIN-SUFFIX,vxvtzx.xyz,
-      - 🇺🇸 美国 CloudFlare节点 72
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.5:10823?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.5-6253
-  name: 5|🇰🇷 韩国特殊|@ripaojiedian
-  - IP-CIDR,103.238.18.0/23,DIRECT
-  - DOMAIN-SUFFIX,a.nanhuwang.com,🛑 全球拦截
-  port: 49032
-  - IP-CIDR,103.208.16.0/22,DIRECT
-- DOMAIN-SUFFIX,otmebdr.cn,
-  network: ws
-    headers:
-- DOMAIN-SUFFIX,lbyx.xyz,
-- DOMAIN-SUFFIX,bd1.xiby.cn,
-  - DOMAIN-SUFFIX,patriot.cs.pp.cn,🍃 应用净化
-- DOMAIN-SUFFIX,gxgbvmg.cn,
-- DOMAIN-SUFFIX,lm1.tuliu.com,
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@188.116.20.185:1080#%F0%9F%87%B0%F0%9F%87%BFKZ-188.116.20.185-0833
-  - {'name': '🇺🇸US-38.91.100.27-7502', 'server': '38.91.100.27', 'port': 3306, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
-  - IP-CIDR,203.15.88.0/23,DIRECT
-  tls: false
-  - DOMAIN-SUFFIX,ibytedtos.com, 
-  - DOMAIN-SUFFIX,bianxianmao.com,🛑 广告拦截
-- DOMAIN-SUFFIX,fooid.xyz,
-  port: 9515
-vmess://ewogICAgImFkZCI6ICIxNTQuODUuMS4zIiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMTY4MzYyOTMxNDkxNSIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4ez8J+HsU5MLTE1NC44NS4xLjMtOTI1NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-  - DOMAIN-SUFFIX,iuuff.com,🛑 全球拦截
-  tfo: false
-- DOMAIN-SUFFIX,pjsbuhl.icu,
-  - DOMAIN-SUFFIX,acompli.net,Ⓜ️ 微软服务
-- DOMAIN-SUFFIX,ithome.com,DIRECT
-      - 🎯 全球直连
-- DOMAIN-SUFFIX,cdsa2.icu,
-  - DOMAIN-SUFFIX,cdsget.51y5.net,🍃 应用净化
-- DOMAIN-SUFFIX,ievvo.xyz,
-- DOMAIN-SUFFIX,dugapiece.com,
-  - DOMAIN-SUFFIX,dfad.dfdaily.com,🛑 全球拦截
-- DOMAIN-SUFFIX,qsfbmol.cn,
-- DOMAIN-SUFFIX,qhres.com,DIRECT
-- DOMAIN-SUFFIX,tsvkfwth.xyz,
-ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@213.183.53.222:9019#%F0%9F%87%B7%F0%9F%87%BARU-213.183.53.222-5677
-  - DOMAIN-SUFFIX,f1.p0y.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,tushwjp.icu,
-- DOMAIN-SUFFIX,cnqaaa.xyz,
-  - DOMAIN-SUFFIX,ic.wps.cn,🛑 全球拦截
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.142:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.142-7474
-  - DOMAIN-SUFFIX,banner1.pornhost.com,🛑 全球拦截
-- DOMAIN-SUFFIX,lekfez.icu,
-  skip-cert-verify: true
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM=@104.243.30.252:246#%F0%9F%87%BA%F0%9F%87%B8US-104.243.30.252-7684
-- DOMAIN-SUFFIX,jsdelivr.us,DIRECT
-  - {'name': '🇫🇷FR-51.159.111.208-1006', 'server': '51.159.111.208', 'port': 989, 'type': 'ss', 'cipher': 'aes-256-cfb', 'password': 'f8f7aCzcPKbsF8p3'}
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@145.239.1.100:5500#%F0%9F%87%A9%F0%9F%87%AADE-145.239.1.100-6959
-  - DOMAIN-SUFFIX,shixunjs.th21333.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,bluestacks.com, 
-  type: vmess
-- DOMAIN-SUFFIX,ilade.xyz,
-- DOMAIN-SUFFIX,smuc.cnnfootballclub.com,
-  - IP-CIDR,111.175.220.163/32,🛑 广告拦截,no-resolve
-  - {'name': '🇸🇬SG-217.197.161.136-0420', 'server': '217.197.161.136', 'port': 807, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
-  - DOMAIN-SUFFIX,sandai.net,🎯 全球直连
-  - IP-CIDR,163.53.220.0/22,DIRECT
-  - DOMAIN-SUFFIX,p.rfihub.com,🛑 全球拦截
-  password: MfqALmAJ
-  - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net, 
-  - IP-CIDR,220.242.210.0/23,DIRECT
 
-  - IP-CIDR,45.250.12.0/22,DIRECT
+  - IP-CIDR,45.113.200.0/21,DIRECT
+  - {'name': '🇺🇸US-142.202.48.74-8204', 'server': '142.202.48.74', 'port': 3389, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
+- DOMAIN-SUFFIX,hltqsbl.cn,
+  servername: oiictw.yydsii.com
+  ws-opts:
+  - {name: "[VMess] 🇨🇦 加拿大 025", server: 104.19.54.61, port: 2052, type: vmess, uuid: c286daa2-59de-455c-8de8-ec032b6ce2e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: hk2.wish.ml}}, udp: true}
+- DOMAIN-SUFFIX,files.wordpress.com,🚀 选择代理
+  - DOMAIN-SUFFIX,iframe.travel.yahoo.com,🛑 全球拦截
+- DOMAIN-SUFFIX,open.oneplus.net,
+- DOMAIN-SUFFIX,qjekt0c.xyz,
+  - DOMAIN-SUFFIX,ipstatp.com, 
+  port: '9056'
+  - DOMAIN-SUFFIX,disqus.com,🚀 全球互联
+- DOMAIN-SUFFIX,bmyrihf.icu,
+- DOMAIN-SUFFIX,vjnxpj.xyz,
+- DOMAIN-SUFFIX,126.com,DIRECT
+  password: MfqALmAJ
+  - DOMAIN-SUFFIX,same.mzy2014.com,🛑 全球拦截
+vmess://ewogICAgImFkZCI6ICIxMDQuMTkuMzguNjIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpcDAwNi5mcmVlZ3JhZGVseS54eXoiLAogICAgImlkIjogIjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAyMDg2LAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTkuMzguNjItMTExMyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImlwMDA2LmZyZWVncmFkZWx5Lnh5eiIKfQ==
+  - {"name":"🇨🇳_CN_中国->🇺🇸_US_美国","type":"vmess","server":"183.240.235.162","port":54002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"network":"tcp"}
+- DOMAIN-SUFFIX,berylnbb.com,
+trojan://telegram-id-directvpn@18.130.204.79:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-18.130.204.79-9040
+- DOMAIN-SUFFIX,nimoatl.icu,
+- DOMAIN-SUFFIX,periscope.tv,🚀 选择代理
+- DOMAIN-SUFFIX,js.shangxueba.com,
+  - DOMAIN-SUFFIX,btbtt.biz, 
+      Host: cdn3.freegradely.xyz
+  - DOMAIN,s3-ap-southeast-1.amazonaws.com, 
+  - DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com,🛑 全球拦截
+  - {'name': '🇺🇸US-51.81.220.195-4147', 'server': '51.81.220.195', 'port': 80, 'type': 'vmess', 'uuid': '6fea1649-425b-4092-bf53-29792152c925', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/sshkit/Variu88/634dab7abadf1/'}}
+  - DOMAIN-SUFFIX,thoughtleadr.com,🛑 全球拦截
+trojan://telegram-id-privatevpns@52.209.100.49:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-52.209.100.49-0960
+- DOMAIN-SUFFIX,u0078.com,
+- DOMAIN-SUFFIX,lihkg.com,🚀 选择代理
+  - DOMAIN-SUFFIX,springsunday.net,DIRECT
+vmess://ewogICAgImFkZCI6ICIxNDYuNzAuMTU4LjExMSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMTFhZTBlZGQtMmY2My00NDk1LTg2ODMtMDM3YWJiZGE5OTg2IiwKICAgICJuZXQiOiAiZ3JwYyIsCiAgICAicGF0aCI6ICIiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi0xNDYuNzAuMTU4LjExMS05Mjg4IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImNoYWNoYTIwLXBvbHkxMzA1IiwKICAgICJzZWN1cml0eSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+  - IP-CIDR,103.169.216.0/23,DIRECT
+  - IP-CIDR,45.248.224.0/19,DIRECT
+- DOMAIN-SUFFIX,guysfair.com,
+- DOMAIN-SUFFIX,f1.zaojv.com,
+  server: 172.64.194.96
+- DOMAIN-SUFFIX,bace10.top,
+  - DOMAIN-SUFFIX,cpv.channelray,🛑 全球拦截
+  - DOMAIN-SUFFIX,biqudu.com,🎯 全球直连
+ssr://NDYuMTcuNDYuMTkwOjE2NjA4Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTm1Vei8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlR3Jmdyb3VwPVRHNWpiaTV2Y21j
+    path: /
+  port: 443
+  obfs: plain
+- DOMAIN-SUFFIX,pmxalz.xyz,
 - alterId: 0
-  - DOMAIN-SUFFIX,androidlog.shouji.baofeng.com,🛑 全球拦截
-  - {'name': '🇬🇧GB-172.99.190.61-7486', 'server': '172.99.190.61', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
-  servername: ''
-- DOMAIN-SUFFIX,cross-ad-api.afunapp.com,
-  - IP-CIDR,118.184.5.0/24,DIRECT
-  - IP-CIDR,39.97.192.0/21,DIRECT
-vmess://ewogICAgImFkZCI6ICJiZXlvbmRkYmMuc2JzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYmV5b25kZGJjLnNicyIsCiAgICAiaWQiOiAiOGQ5MGMxMjktNDE1Ni00ZDZjLTkxMTUtMjRkZjI1ZjI2YTAyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjc3LjI5LTA5ODEiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-  - DOMAIN-SUFFIX,aim.yoyi.com.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,bridgetnbe.com,
-  - DOMAIN-SUFFIX,fz.letv.com,🍃 应用净化
-  - {'name': '🇺🇸US-38.86.135.36-7340', 'server': '38.86.135.36', 'port': 5004, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'g5MeD6Ft3CWlJId'}
-  - DOMAIN-SUFFIX,logger.baofeng.com,🍃 应用净化
-      - 🇧🇷 巴西圣保罗 CloudFlare节点
-  - IP-CIDR,202.21.142.0/24,DIRECT
-  password: S7KwUu7yBy58S3Ga
-  type: load-balance
-  - IP-CIDR,1.4.2.0/23,DIRECT
-  - {'name': '🇩🇪DE-5.75.154.136-1193', 'server': '5.75.154.136', 'port': 63456, 'type': 'vmess', 'uuid': 'dab6ce8a-8059-4357-9083-c5283e1908b2', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}
-- DOMAIN-SUFFIX,goodreaders.com,🚀 选择代理
-  - IP-CIDR,202.14.64.0/23,DIRECT
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:48434?security=tls&sni=$ajpn04.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-172.234.222.143-2870
-vmess://ewogICAgImFkZCI6ICIxNTQuOTIuOS4xOTEiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImRkNDFiNWNiLWI3MmUtNGE4Yy1jNzVhLTNlY2M5MjhkNmViMyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9ibHVlIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE1NC45Mi45LjE5MS05MjMxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-      - 🇺🇸 美国 CloudFlare节点 41
-  name: 5,6|日本3|@ripaojiedian
-  name: '9|baipaovpn美国 #2'
-- DOMAIN-SUFFIX,mafuzcxr.xyz,
-- DOMAIN-SUFFIX,westover.cn,
-  - {'name': '🇺🇸US-23.157.40.10-0834', 'server': '23.157.40.10', 'port': 4444, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'pKEW8JPByTVTLtM'}
-- DOMAIN-SUFFIX,kksjoa.com,
-  - DOMAIN-SUFFIX,sysdig.com,🛑 全球拦截
-- DOMAIN-SUFFIX,static.ads-twitter.com,
-- DOMAIN-SUFFIX,polepole.cn,
-  - DOMAIN-SUFFIX,c.cyhx98.com,🛑 全球拦截
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.137.9:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.9-8069
-  - IP-CIDR,103.18.192.0/22,DIRECT
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.134:989#%F0%9F%87%AE%F0%9F%87%AAIE-23.92.127.134-8843
-  - IP-CIDR,121.59.148.0/22,DIRECT
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.50:3306#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.50-7566
-  - DOMAIN-SUFFIX,zimuzu.tv,🎯 全球直连
-      - 🇺🇸 美国 CloudFlare节点 81
-  - IP-CIDR,202.165.251.0/24,DIRECT
-- DOMAIN-SUFFIX,fsjjrbz.cn,
-  - IP-CIDR,218.98.77.0/24,DIRECT
-- DOMAIN-SUFFIX,rnkzhsi.cn,
+- DOMAIN-SUFFIX,bthypgm.cn,
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  - DOMAIN-SUFFIX,d1.showself.com,🛑 全球拦截
+- DOMAIN-SUFFIX,rtborp.xyz,
+  - DOMAIN-SUFFIX,mirror-api.com,🚀 全球互联
+- alterId: 0
+- DOMAIN-SUFFIX,jscode.acg68.com,
+  - DOMAIN-SUFFIX,m.lovezhishou.com,🛑 全球拦截
+  - IP-CIDR,219.216.0.0/13,DIRECT
+trojan://telegram-id-privatevpns@18.170.159.228:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-18.170.159.228-0920
+- DOMAIN-SUFFIX,nuucmzuc.com,
+  - DOMAIN-SUFFIX,xnjpg.com,🛑 全球拦截
+  - IP-CIDR,144.36.146.0/23,DIRECT
+  - DOMAIN-SUFFIX,zx.baosmx.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,alisoft.com,🎯 全球直连
+- DOMAIN-SUFFIX,g2.ganjing.world,
+- DOMAIN-SUFFIX,vungle.com,
+- DOMAIN-SUFFIX,a2put.chinaz.com,
+  - DOMAIN-SUFFIX,yahoo.com,🔰 节点选择
+      Host: cdn3.freegradely.xyz
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.50:8090#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.50-7501
+  - DOMAIN-SUFFIX,guess.h.qhimg.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,kochava.com,🛑 全球拦截
+- DOMAIN-SUFFIX,rdufuxr.icu,
+  - DOMAIN-SUFFIX,zhongsou.com,🎯 全球直连
+  - DOMAIN-SUFFIX,e.28487.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,uc.ucweb.com,🍃 应用净化
+  - DOMAIN,adstore-index-1252524079.file.myqcloud.com,🛑 广告拦截
+  uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad
+  - DOMAIN-SUFFIX,mobjump.com,🛑 广告拦截
+  name: 0|-MrXbin-64
+  - '13|d*********g.com_2 #4'
+  - IP-CIDR,43.152.32.0/20,DIRECT
+  - DOMAIN-SUFFIX,pdfexpert.cc,🛑 全球拦截
+  server: 120.236.196.21
+  - IP-CIDR,203.29.2.0/24,DIRECT
+vmess://ewogICAgImFkZCI6ICIxNDkuNTYuOTUuMTU5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIxYzc4OTA5ZS0xOGE4LTRjN2YtZjZhMC1lMDkyYWFlNjI0M2YiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjM3ODQsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0xNDkuNTYuOTUuMTU5LTYwMTMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+  - DOMAIN-SUFFIX,id.jiathis.com,🛑 全球拦截
+  network: ws
+- DOMAIN-SUFFIX,kjubky.xyz,
+  - IP-CIDR,119.57.0.0/16,DIRECT
+  - IP-CIDR,103.99.136.0/21,DIRECT
+  - DOMAIN-SUFFIX,8teenxxx.com,🚀 节点选择
+  - DOMAIN-SUFFIX,img.tcdxt.com,🛑 全球拦截
+- DOMAIN-SUFFIX,d-test.39.net,
+- DOMAIN-SUFFIX,knewone.com,DIRECT
+- DOMAIN-SUFFIX,pnxtnp.xyz,
+- DOMAIN-SUFFIX,eraygc.xyz,
+  - {'name': '🇸🇬SG-217.197.161.136-0445', 'server': '217.197.161.136', 'port': 806, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
+  port: 49032
+  - IP-CIDR,103.201.64.0/22,DIRECT
+  name: 0|-MrXbin-108
+  - {'name': '🇬🇧GB-51.38.82.132-8685', 'server': '51.38.82.132', 'port': 80, 'type': 'vmess', 'uuid': 'aca76f27-cda3-47f7-af79-7873034fd3bc', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/vmess'}}
+- {name: 🇳🇱NL-20.123.187.212-094, server: 20.123.187.212, port: 27931, type: vmess, uuid: 256eae41-0b8f-4faa-bce8-6366011dc19f, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 20.123.187.212}}
+- DOMAIN-SUFFIX,du1.bbdj.com,
+  cipher: auto
+  name: 0|-MrXbin-17
+  - DOMAIN-SUFFIX,ad.1kxun.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,dun.im,🚀 全球互联
+- DOMAIN-SUFFIX,rarmkce.cn,
  
  
  
@@ -646,7 +218,7 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.50:3306#%F0%9F%87%BA%F0%9F%8
 
 ![2](https://github.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/assets/164295305/a8a39dcf-9ac7-484f-8cf8-f40be2f33ffe)
 
-<h3 class="h3h3">2025年10月v2ray订阅开源节选</h3>
+<h3 class="h3h3">2025年11月v2ray订阅开源节选</h3>
 <pre>
 	
 vmess://eyJhZGQiOiAiMTA0LjIxLjk2LjEiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiODljMzQ0ZjItMDk2Yy00NDVjLWI2MjktOWIxNTE1MmYzOGU3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZmLmtuY2MyLnRvcCIsICJwYXRoIjogIi84OWMzNDRmMiIsICJ0bHMiOiAidGxzIn0=
@@ -689,274 +261,142 @@ vmess://eyJhZGQiOiAiMTA0LjE5LjIxOC4yMzYiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZm
 <h3 class="h3h3">2025年base64订阅开源节选</h3>
 <pre class="corepress-code-pre">
  
- 
- 
- - DOMAIN-SUFFIX,dugapiece.com,
-  - 0|-MrXbin-87
-  - {'name': '🇳🇱NL-94.102.53.19-1678', 'server': '94.102.53.19', 'port': 443, 'type': 'trojan', 'password': 'TestingServer@@', 'skip-cert-verify': False}
-  - DOMAIN-SUFFIX,pcfg.wps.cn,🍃 应用净化
-  server: 172.67.124.123
-  port: 2377
-  - IP-CIDR,61.29.128.0/18,DIRECT
-  - IP-CIDR,45.254.40.0/22,DIRECT
-- DOMAIN-SUFFIX,fkjsjwbs.xyz,
-  - DOMAIN-SUFFIX,statictest.fraudmetrix.cn,🛑 全球拦截
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.49:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.49-7676
-- DOMAIN-SUFFIX,vip.panggugu.com,
-- DOMAIN-SUFFIX,log.stat.kugou.com,
-- DOMAIN-SUFFIX,88lm04.com,
-trojan://telegram-id-privatevpns@35.177.137.88:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-35.177.137.88-2748
-ssr://MjEyLjYwLjUuMTgwOjI2MjA1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTjJRMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
-  - IP-CIDR,115.169.64.0/18,DIRECT
-  - IP-CIDR,103.152.80.0/23,DIRECT
-- DOMAIN-SUFFIX,track.uc.cn,
-  - DOMAIN-SUFFIX,nyacdn.com,🚀 全球互联
-  - IP-CIDR,121.59.142.0/23,DIRECT
-  - DOMAIN-SUFFIX,ecmb.bdimg.com,🛑 全球拦截
-- DOMAIN-SUFFIX,chushoushijian.cn,
-    path: github.com/Alvin9999
-      - 🇺🇸 美国 CloudFlare节点 81
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.213.44.183:443#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.44.183-9368
-  servername: oiictw.yydsii.com
-  - DOMAIN-SUFFIX,mediawiki.org,🚀 节点选择
-  - DOMAIN-SUFFIX,jghcy.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,aliyuncss.com,🛑 全球拦截
-  - {'name': '🇨🇳CN-112.30.145.132-5762', 'server': 'data-hk-v1.heisey.cn', 'port': 50205, 'type': 'vmess', 'uuid': 'b1478e24-4916-3abe-8f17-15931012ecbe', 'alterId': 1, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/hls/cctv5phd.m3u8', 'headers': {'Host': 'tv.cctv.com'}}}
-vmess://ewogICAgImFkZCI6ICIxMDQuMTkuNDAuODQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjU3ZTBjYjRkLWVhZTUtNDhlYy04MDkxLTE0OWRjMmIzMDllMCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9kLzY1ZGQ1MDMuVEcuV2FuZ0NhaTIuV2FuZ0NhaV84OjEwNzY5MCIsCiAgICAicG9ydCI6IDg4ODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4xOS40MC44NC0zNDMyIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-  udp: true
-- DOMAIN-SUFFIX,dygtulfe.icu,
-  - {'name': '🇺🇸US-38.64.138.145-7742', 'server': '38.64.138.145', 'port': 8090, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'PCnnH6SQSnfoS27'}
-- DOMAIN-SUFFIX,virginiasibyl.com,
-  - DOMAIN-SUFFIX,xpe.cxaerp.com,🛑 全球拦截
-- alterId: 0
-- DOMAIN-SUFFIX,w11.zhongkaohelp.com,
-- DOMAIN-SUFFIX,szmnf.cn,
-  - 3|IHwzMC41Nk1i
-  .google.cn: 142.250.196.131
-  ws-opts:
-  - DOMAIN-SUFFIX,update.mobile.kugou.com,🛑 全球拦截
-  - {'name': '🇺🇸US-172.234.222.143-2973', 'server': 'iplc.xiaohouzi.club', 'port': 20514, 'type': 'trojan', 'password': 'a3278882-3614-39cf-a3d6-faefa8c910ab', 'sni': '$$$$supaz041.xiaohouzi.club', 'skip-cert-verify': False}
-  uuid: aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad
-  - IP-CIDR,123.0.160.0/19,DIRECT
-- DOMAIN-SUFFIX,l4efwdtg.icu,
-  - 🇯🇵 日本
-  - {'name': '🏁RELAY-198.41.222.199-8948', 'server': '198.41.222.199', 'port': 2095, 'type': 'vmess', 'uuid': '417d27fb-cb93-3bd8-9bf7-71cd91319821', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/hgcefomn'}}
-      - 🚀 节点选择
-  - DOMAIN-SUFFIX,uc9.ucweb.com,🛑 全球拦截
-trojan://telegram-id-privatevpns@35.176.101.45:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-35.176.101.45-0908
-  - {'name': '🇭🇰HK-209.9.201.109-5218', 'server': 'hk3.grpc.stream', 'port': 8300, 'type': 'vmess', 'uuid': '6031b5c3-d8ba-5756-b708-f61084a2b678', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/event', 'headers': {'Host': 'hk3.grpc.stream'}}}
-vmess://ewogICAgImFkZCI6ICJwaW5nLnBlIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAicGluZy5wZSIsCiAgICAiaWQiOiAiM2EzZTI2M2QtMjIzZi00OWNjLWJiZGItZjdlMDdhNTVlNmZlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLzExMTExMS5vbmxpbmUiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yNi44LjE3OS0yNDUzIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-- DOMAIN-SUFFIX,syuwkbb.top,
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@180.149.44.120:989#%F0%9F%87%A6%F0%9F%87%BFAZ-180.149.44.120-9021
-  - IP-CIDR,202.153.7.0/24,DIRECT
-  - IP-CIDR,202.166.224.0/19,DIRECT
-- DOMAIN-SUFFIX,vghkncbu.xyz,
-  - {'name': '🇨🇳CN-183.232.159.67-6928', 'server': 'js04.balala2016.xyz', 'port': 20261, 'type': 'trojan', 'password': 'ED177480-E516-11EA-8B44-BBC4E882BA0B', 'skip-cert-verify': False}
-- DOMAIN-SUFFIX,ultmjevd.xyz,
-  tls: false
-  udp: true
-  - IP-CIDR,221.199.128.0/18,DIRECT
-  - IP-CIDR,118.188.0.0/22,DIRECT
-vmess://ewogICAgImFkZCI6ICIxMzkuOTkuNjEuNTMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIxMzkuOTkuNjEuNTMiLAogICAgImlkIjogImNlMzg2OGE0LWUyY2EtNGE2Zi04NzMxLWU3ZTg4ZDA5ODg4NiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e48J+HrFNHLTEzOS45OS42MS41My0yNDQ0IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-  - DOMAIN-SUFFIX,crunchbits.com,🚀 全球互联
-  port: 2052
-  - {'name': '🏁RELAY-190.93.245.170-3704', 'server': '190.93.245.170', 'port': 443, 'type': 'vmess', 'uuid': '4612618c-24cd-4379-9924-cfdf3d61fa5a', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/IYKLD53M'}}
-  - DOMAIN-SUFFIX,animebytes.tv,DIRECT
-  - DOMAIN-SUFFIX,hbomax.com, 
-- DOMAIN-SUFFIX,demifa.top,
-- DOMAIN-SUFFIX,trdmtx.xyz,
-- DOMAIN-SUFFIX,mg.xhkvff.cn,
-- DOMAIN-SUFFIX,nationwide.com,🌐 突破锁区
-- DOMAIN-SUFFIX,zmzfile.com,DIRECT
-  - dns.rubyfish.cn/dns-query
-  tls: false
-- DOMAIN-SUFFIX,ovbgeum.cn,
-  - IP-CIDR,101.227.97.240/32,🛑 全球拦截,no-resolve
-  - DOMAIN-SUFFIX,api.game.letvstore.com,🛑 全球拦截
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.135.19:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-6779
-vmess://ewogICAgImFkZCI6ICJzdXJvbmd3ZWkuZXUub3JnIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAic3Vyb25nd2VpLmV1Lm9yZyIsCiAgICAiaWQiOiAiNjA5M2VlZmItN2FiNi00MWRmLWFiYTAtZDVmYTU4MTQ3ZTEwIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3JlZmZzN3kyNmcwdWEiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xODguMzctMTY0NCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:19365?security=tls&sni=$$supaz041.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-172.234.222.138-2934
-    headers:
-  port: 443
-  cipher: auto
-trojan://eb50af3d-5339-4ef7-8471-6cde8dff1ba9@921tw.tfzhc.top:443?security=tls&sni=921tw.tfzhc.top#%F0%9F%87%B0%F0%9F%87%B7KR-59.24.3.174-6469
-  - IP-CIDR,125.254.128.0/17,DIRECT
-- {name: 🇦🇶NOWHERE-0.0.0.0-121, server: jgwld4.gaox.ml, port: 443, type: trojan, password: 58d32c66-43b1-4561-9951-d87c9123774e, sni: jgwld4.gaox.ml, skip-cert-verify: true}
-  - DOMAIN-SUFFIX,szxpsg.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,economist.com,🔰 节点选择
-- DOMAIN-SUFFIX,qheoy.cn,
-  - IP-CIDR,203.24.18.0/24,DIRECT
-- DOMAIN-SUFFIX,163.com,DIRECT
-  - DOMAIN-SUFFIX,sdqoi2d.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,wikigifth.com,🛑 全球拦截
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.152:800#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.152-0452
-  - IP-CIDR,103.75.146.0/24,DIRECT
-  - DOMAIN-SUFFIX,events.kalooga.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,openrcv.baidu.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,fthcz.com,🛑 全球拦截
-  - 6|香港6|@ripaojiedian
-- DOMAIN-SUFFIX,w.xiaopiaoyou.com,
-  - {'name': '🏁RELAY-23.227.38.39-3589', 'server': '23.227.38.39', 'port': 443, 'type': 'vmess', 'uuid': '56a2188b-2ab7-402c-b9b8-34847fdf0958', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/5QNROSRV'}}
-- DOMAIN-SUFFIX,ifbfksf.xyz,
-- DOMAIN-SUFFIX,castbox.fm,🚀 选择代理
-vmess://ewogICAgImFkZCI6ICIyMC4yMzkuMTc5LjI1MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYTEyZTQ5NmUtZjg5YS00MzRhLTgwMTEtMTA4ODQ2ZjBlNDEyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDUwMDQ0LAogICAgInBzIjogIvCfh63wn4ewSEstMjAuMjM5LjE3OS4yNTEtNTc3NSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vmess://ewogICAgImFkZCI6ICJjZi1sdC5zaGFyZWNlbnRyZS5vbmxpbmUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJzZy1nY29yZS5zaGFyZWNlbnRyZS5vbmxpbmUiLAogICAgImlkIjogIjIwZTkyODgxLTVmYjQtNGIwNS1iYzc3LTU3OTI5NDc2ZGM2OSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9zaGlya2VyIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuNy4xOTMtNTYyNiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-  - DOMAIN-SUFFIX,steamstatic.com,🚀 节点选择
-  ws-opts:
-- DOMAIN-SUFFIX,t33ng.com,
-- DOMAIN-SUFFIX,bcejk.xyz,
-- DOMAIN-SUFFIX,dfjd.xyz,
-  - IP-CIDR,210.28.0.0/14,DIRECT
-  - IP-CIDR,202.189.184.0/21,DIRECT
-ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcyUyRkNmaDdGT1RDMDVOQzR4TURJdU5UY3VNVFl6TFRZM016WSUzRCZwcm90b3BhcmFtPQ==
-  type: ss
-  - DOMAIN-SUFFIX,img.applovin.com,🛑 全球拦截
-  - IP-CIDR,43.242.16.0/20,DIRECT
-      HOST: oiictw.yydsii.com
-  - DOMAIN-SUFFIX,plista.com,🛑 全球拦截
-- DOMAIN-SUFFIX,dvser.china.com,
-- DOMAIN-SUFFIX,nflxext.com,🚀 选择代理
-- DOMAIN-SUFFIX,mdsahkln.xyz,
-- DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com,
-  - {'name': '🇯🇵JP-85.208.108.60-4443', 'server': '85.208.108.60', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
-  - DOMAIN-SUFFIX,adap.tv,🛑 全球拦截
-  - DOMAIN-SUFFIX,e.okfhn.com,🛑 全球拦截
-- DOMAIN-SUFFIX,kwtgntyu.xyz,
-- DOMAIN-SUFFIX,wqcfg.cn,
-  - 5|d*********g.com_14
-  - DOMAIN-SUFFIX,yitaopt.com,🛑 全球拦截
-- DOMAIN-SUFFIX,ldjnbn.xyz,
-      override-destination: true
-      - 🇺🇸 美国 CloudFlare节点 40
-      - 🇺🇸 美国 CloudFlare节点 57
-- DOMAIN-SUFFIX,pgpufyzi.xyz,
-- DOMAIN-SUFFIX,ads.ishansong.com,
-  - DOMAIN,itvpnpmobile-a.akamaihd.net, 
-- DOMAIN-SUFFIX,dndmygr.cn,
-  - DOMAIN-SUFFIX,elastic.com,🚀 节点选择
-  network: tcp
-- DOMAIN-SUFFIX,gmx12.top,
-  - {'name': '🏁RELAY-172.67.130.140-0275', 'server': 's1c.v2.v001sss.xyz', 'port': 2082, 'type': 'vmess', 'uuid': '112ac36f-3f53-4e26-8371-d25c028e1b9a', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': 's1c.v2.v001sss.xyz'}}}
-- DOMAIN-SUFFIX,pvnzrr.xyz,
-  - DOMAIN-SUFFIX,gzxnlk.com,🛑 全球拦截
-  - DIRECT
-- DOMAIN-SUFFIX,osxdaily.com,🚀 选择代理
-  - 11|香港8|@ripaojiedian
-  - IP-CIDR,203.9.32.0/24,DIRECT
-  - DOMAIN-SUFFIX,g.51network.com,🛑 全球拦截
-  port: '9031'
-  - {'name': '🇺🇸US-38.64.138.145-7450', 'server': '38.64.138.145', 'port': 7307, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'FoOiGlkAA9yPEGP'}
-  - DOMAIN-SUFFIX,inte.sogou.com,🍃 应用净化
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.60:6379#%F0%9F%87%AF%F0%9F%87%B5JP-85.208.108.60-3815
-  - DOMAIN-SUFFIX,c.bing.com,🛑 全球拦截
-ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@213.183.59.206:9060#%F0%9F%87%B3%F0%9F%87%B1NL-213.183.59.206-6058
-- DOMAIN-SUFFIX,xc.mydrivers.com,
-  - {'name': '🏁RELAY-104.19.46.39-0105', 'server': '104.19.46.39', 'port': 2086, 'type': 'vmess', 'uuid': 'e9e3cc13-db48-4cc1-8c24-7626439a5339', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}
-  tfo: false
-# FoxNow
-- DOMAIN-SUFFIX,fpelfyeesuoivy.com,
-- DOMAIN-SUFFIX,cfugrnc.icu,
-vmess://ewogICAgImFkZCI6ICIxNTQuOTIuOS43MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZGQ0MWI1Y2ItYjcyZS00YThjLWM3NWEtM2VjYzkyOGQ2ZWIzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2JsdWUiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE1NC45Mi45LjcwLTkyMTMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-  - 3|IHwzMC4xMU1i
-  tls: false
-- DOMAIN,hls.itunes.apple.com,🚀 选择代理
-  - IP-CIDR,139.221.0.0/16,DIRECT
-  h2-opts: {}
-- DOMAIN-SUFFIX,osisk.com,
-  - DOMAIN-SUFFIX,clk.madserving.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,va.gxpan.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,gejhhh.cn,
-- DOMAIN-SUFFIX,ad.52av.tv,
-  password: TEzjfAYq2IjtuoS
-  - DOMAIN-SUFFIX,911997.xyz,🚀 全球互联
-  - {'name': '🇯🇵JP-152.69.197.74-2843', 'server': '152.69.197.74', 'port': 12345, 'type': 'vmess', 'uuid': 'b8a6bf58-485a-4046-b386-b3661bf65eff', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/bb'}}
-  - 5,6|香港7|@ripaojiedian
-  - IP-CIDR,103.142.122.0/23,DIRECT
-- DOMAIN-SUFFIX,haise5.top,
-  - DOMAIN-SUFFIX,archive.org,🚀 节点选择
-sniffer:
-  - IP-CIDR,202.38.156.0/24,DIRECT
-  ws-opts:
-trojan://c60fbf90-4b55-11ed-b935-225401db9d57@51.75.76.22:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-51.75.76.22-3861
-- DOMAIN-SUFFIX,johtzj.com,
-- DOMAIN-SUFFIX,instagram.com,🚀 选择代理
-  - DOMAIN-SUFFIX,m.qingzhencai.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,taobaocdn.com,🎯 全球直连
-  - DOMAIN-SUFFIX,hldwmly.com,🛑 全球拦截
-  - {'name': '🇯🇵JP-172.104.123.158-1220', 'server': '172.104.123.158', 'port': 8097, 'type': 'ss', 'cipher': 'aes-256-cfb', 'password': 'eIW0Dnk69454e6nSwuspv9DmS201tQ0D'}
-- DOMAIN-SUFFIX,beyers.cn,
-  - {'name': '🇸🇬SG-217.197.161.164-0451', 'server': '217.197.161.164', 'port': 803, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
-  - IP-CIDR,45.121.92.0/22,DIRECT
-# OpenAi
-- DOMAIN-SUFFIX,osafsr.xyz,
-  name: 0|-MrXbin-269
-- DOMAIN-SUFFIX,qxrvmu.com,
-  - DOMAIN-SUFFIX,dm.yjbys.com,🛑 全球拦截
-- DOMAIN-SUFFIX,whoer.net,🚀 选择代理
-- DOMAIN-SUFFIX,ppjttn.xyz,
-- DOMAIN-SUFFIX,0uyt5b.cn,
-  - DOMAIN-SUFFIX,cm8.lycos.com,🛑 全球拦截
-- DOMAIN-SUFFIX,static-cn.plista.com,
-ssr://NDUuMTQ3LjIwMC42MToxMTEwNzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09UbHkvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZUQSZncm91cD1URzVqYmk1dmNtYw
-  - IP-CIDR,203.23.172.0/24,DIRECT
-  - DOMAIN-SUFFIX,dajiyuan.org,🛑 全球拦截
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRXRSaFlQX25vbGlRYjRXdFZ4S1p3@185.103.255.178:443#%F0%9F%87%B3%F0%9F%87%B1NL-185.103.255.178-0843
-  - DOMAIN-SUFFIX,le4le.com,🛑 全球拦截
-ssr://MjEyLjYwLjUuMTk2OjIyNTA2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTVhjMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j
-  - DOMAIN-SUFFIX,bulldogcpi.com,🛑 全球拦截
-- DOMAIN-SUFFIX,xfrahb.xyz,
-- DOMAIN-SUFFIX,zhengliyqq.com,
-- DOMAIN-SUFFIX,d1.1ppt.com,
-  port: '8081'
-  - DOMAIN-SUFFIX,same.eastmoney.com,🛑 全球拦截
-  type: ss
-  - {'name': '🇨🇳CN-14.29.124.168-3094', 'server': '14.29.124.168', 'port': 25268, 'type': 'ss', 'cipher': 'aes-128-cfb', 'password': 'QazEdcTgb159@$*'}
-- DOMAIN-SUFFIX,adrs.sdo.com,
-  password: a3GFYt36Sm82Vys9
-- DOMAIN-SUFFIX,zq.lansedir.com,
-  - DOMAIN-SUFFIX,f70123.com,🛑 全球拦截
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDY=@93.179.112.70:253#%F0%9F%87%BA%F0%9F%87%B8US-93.179.112.70-3018
-  - DOMAIN-SUFFIX,qbyy010.com,🛑 全球拦截
-- DOMAIN-SUFFIX,v34s6r.com,
-  - IP-CIDR,202.38.136.0/23,DIRECT
-  - DOMAIN-SUFFIX,regex101.com,🚀 全球互联
-- DOMAIN-SUFFIX,gw2cddpt2hao.asia,
-  name: 0|-MrXbin-110
-  port: 45020
-- DOMAIN-SUFFIX,222aa333bb.com,
-- DOMAIN-SUFFIX,upmedia.mg,🚀 选择代理
-  - {'name': '🇰🇷KR-144.24.72.126-4126', 'server': '144.24.72.126', 'port': 443, 'type': 'trojan', 'password': '7118b5f4-0ea4-4c11-be7f-11471cb91e4a', 'skip-cert-verify': False}
-rules:
-  - {'name': '🏁RELAY-141.193.213.20-5919', 'server': '141.193.213.20', 'port': 443, 'type': 'vmess', 'uuid': '4612618c-24cd-4379-9924-cfdf3d61fa5a', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/IYKLD53M', 'headers': {'Host': 'opfr1.v2rayfree1.xyz'}}}
-  - DOMAIN-SUFFIX,ads.service.kugou.com,🍃 应用净化
-vmess://ewogICAgImFkZCI6ICJzcGVlZC5jbG91ZGZsYXJlLmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInYyLmNoaWd1YS50ayIsCiAgICAiaWQiOiAiZmZmZmZmZmYtZmZmZi1mZmZmLWZmZmYtZmZmZmZmZmZmZmZmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3ZtZXNzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTYuNjAuOC02MjI0IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-  - {'name': '🇵🇱PL-217.30.10.63-5719', 'server': '217.30.10.63', 'port': 9018, 'type': 'ss', 'cipher': 'aes-256-cfb', 'password': 'fG2artUmHfNT2cX7'}
-  type: ssr
-  port: '9059'
-  - {'name': '🇨🇦CA-138.199.57.185-0181', 'server': '138.199.57.185', 'port': 43118, 'type': 'trojan', 'password': 'ypDt8RkT7J', 'sni': 'eiety.phooeyunfold.com', 'skip-cert-verify': False}
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.67:443#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-8006
-  type: ss
-  - {'name': '🇺🇸US-93.179.112.70-3018', 'server': '93.179.112.70', 'port': 253, 'type': 'ss', 'cipher': 'aes-256-cfb', 'password': 'bwhskrskr06'}
+ - DOMAIN-SUFFIX,acgvideo.com,🎯 全球直连
+  - {name: 🇺🇸 美国 CloudFlare节点 77, server: 104.26.7.132, port: 2052, client-fingerprint: chrome, type: vmess, uuid: d6b6d982-d52f-465a-b988-85670b23f64a, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: cdn1.freegradely.xyz}}}
+  - {'name': '🇨🇳CN-183.236.51.9-6238', 'server': '183.236.51.9', 'port': 10825, 'type': 'trojan', 'password': '7d223bae-e183-4bf6-89c3-e327b15df490', 'skip-cert-verify': False}
+vmess://ewogICAgImFkZCI6ICIxOTguNDEuMjA4LjE3MiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMjBlOTI4ODEtNWZiNC00YjA1LWJjNzctNTc5Mjk0NzZkYzY5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3NoaXJrZXIiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE5OC40MS4yMDguMTcyLTM5MTYiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+  - DOMAIN-SUFFIX,dailydeals.lubbockonline.com,🛑 全球拦截
+- DOMAIN-SUFFIX,tarqk5.com,
+- DOMAIN-SUFFIX,ynfxxbp.xyz,
+ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@217.30.10.68:9045#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8873
+- DOMAIN-SUFFIX,wgidskie.top,
+- DOMAIN-SUFFIX,lgoewtd.icu,
+  port: '9038'
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.62.62:7307#%F0%9F%87%BA%F0%9F%87%B8US-167.88.62.62-7069
+  - {'name': '🏁RELAY-172.64.175.213-0213', 'server': '172.64.175.213', 'port': 2086, 'type': 'vmess', 'uuid': 'e9e3cc13-db48-4cc1-8c24-7626439a5339', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'servername': 'ip11.freegradely.xyz', 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': 'ip11.freegradely.xyz'}}}
+  - DOMAIN-SUFFIX,smartnews-ads.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,h.sora.yoyi.com.cn,🛑 全球拦截
+  - DOMAIN-SUFFIX,3wz6z.bchuangpi.cn,🛑 全球拦截
+    path: /
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzRjQzWHQyZ09OcWNnRlg1NjM=@92.38.169.196:826#%F0%9F%87%BA%F0%9F%87%B8US-92.38.169.196-8118
+vmess://ewogICAgImFkZCI6ICIxMDQuMTkuMjEuMjQwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJkNmI2ZDk4Mi1kNTJmLTQ2NWEtYjk4OC04NTY3MGIyM2Y2NGEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjA1MiwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE5LjIxLjI0MC0wMTA2IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+  - IP-CIDR,103.200.52.0/22,DIRECT
+  - DOMAIN-SUFFIX,wetv.vip, 
+- DOMAIN-SUFFIX,frtnqpw837.shop,
+  - DOMAIN-KEYWORD,dualstack.apiproxy-,🎥 Netflix
+  - IP-CIDR,203.56.210.0/24,DIRECT
+  - DOMAIN-SUFFIX,cms.quantserve.com,🛑 全球拦截
+ssr://MTc2LjMyLjM1LjI0ODoxNzA1MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09EbG0vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTUSZncm91cD1URzVqYmk1dmNtYw
+  - DOMAIN-SUFFIX,hollisterco.com,🎯 全球直连
+  - DOMAIN-SUFFIX,admd.yam.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,bitsumactivationserver.com,🛑 全球拦截
+- DOMAIN-SUFFIX,ue8im.com,
+- DOMAIN-SUFFIX,yqdnad.icu,
+- DOMAIN-SUFFIX,vdggsd001.com,
+  port: 13451
+  - DOMAIN-SUFFIX,chinaso.com,🎯 全球直连
+- DOMAIN-SUFFIX,l74co.xyz,
+  - DOMAIN-SUFFIX,me.com,🍎 苹果服务
+- DOMAIN-SUFFIX,06789.xyz,
+  - DOMAIN-SUFFIX,alog.umeng.co,🛑 全球拦截
+  - DOMAIN-SUFFIX,powergg.top,🛑 全球拦截
+  - IP-CIDR,110.76.24.0/21,DIRECT
+  - IP-CIDR,106.75.208.0/20,DIRECT
+  - IP-CIDR,103.160.254.0/23,DIRECT
+vmess://ewogICAgImFkZCI6ICIxODguNDIuODkuMTc0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvd3NzNTEwNjgiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE4OC40Mi44OS4xNzQtODk4NCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+  - DOMAIN-SUFFIX,ad2.yam.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,caamei.com,🛑 全球拦截
+- DOMAIN-SUFFIX,appspot.com,🚀 选择代理
+- DOMAIN-SUFFIX,1.15lu.com,
+  name: 5|d*********g.com_8
   network: ws
-  - {'name': '🇨🇿CZ-195.123.246.15-8965', 'server': '195.123.246.15', 'port': 51348, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'cyi4FDe4FdrTG3rUpna'}
-- cipher: aes-256-cfb
-  - DOMAIN-SUFFIX,ymapp.com,🛑 全球拦截
-- DOMAIN-SUFFIX,analytics.126.net,
-  - DOMAIN-SUFFIX,bsdev.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,kfjpren.xyz,
-- {name: 🇦🇶NOWHERE-0.0.0.0-083, server: jgwxn4.gaox.ml, port: 443, type: trojan, password: e8c1ab3c-89b3-4933-92df-682e6dce7819, sni: jgwxn4.gaox.ml, skip-cert-verify: true}
-  - {'name': '🇻🇬VG-204.11.56.48-0893', 'server': 'ssr3.ssrsub.com', 'port': 8333, 'type': 'ss', 'cipher': 'rc4-md5', 'password': 'passfw2xs4e!'}
-  - IP-CIDR,121.68.0.0/14,DIRECT
-  - DOMAIN-SUFFIX,gentags.net,🛑 全球拦截
-  name: 0|-MrXbin-9
-  type: vmess
-- DOMAIN-SUFFIX,ypwlctfk.xyz,
-  - DOMAIN-SUFFIX,slog.sina.com.cn,🍃 应用净化
-  - {'name': '🇫🇮FI-65.109.137.157-5215', 'server': '65.109.137.157', 'port': 80, 'type': 'vmess', 'uuid': '2aac77de-b3e4-4017-845c-ca1380f2e8d0', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/telegram-id-@privatevpns'}}
-  - DOMAIN-SUFFIX,health1.12584.cn,🛑 全球拦截
-  - {'name': '🇺🇸US-142.202.48.83-8221', 'server': '142.202.48.83', 'port': 7001, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'RexnBgU7EV5ADxG'}
-  proxies:
+  - DOMAIN-SUFFIX,ad.wretch.cc,🍃 应用净化
+- DOMAIN-SUFFIX,analysis.yozocloud.cn,
+  server: 103.172.116.94
+  - DOMAIN-SUFFIX,omg.inte.sogoucdn.com,🛑 全球拦截
+  tfo: false
+- DOMAIN-SUFFIX,yingce.asia,
+  - DOMAIN-SUFFIX,m.vbieu.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,mob.huimee.net,🛑 全球拦截
+  - DOMAIN-SUFFIX,alicloudccp.com,🎯 全球直连
+- DOMAIN-SUFFIX,dsbqvj.xyz,
+  - IP-CIDR,180.178.112.0/21,DIRECT
+  cipher: auto
+  - {name: "[VMess] 🇨🇦 加拿大 009", server: 104.19.45.56, port: 2095, type: vmess, uuid: 7a737f41-b792-4260-94ff-3d864da67b80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: onea.flha.ru}}, udp: true}
+- DOMAIN-SUFFIX,grs.hicloud.com,
+  port: '8081'
+  - {'name': '🇬🇧GB-172.99.190.87-8135', 'server': '172.99.190.87', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
+  - DOMAIN-KEYWORD,spotify.com, 
+  - IP-CIDR,101.227.97.240/32,🍃 应用净化,no-resolve
+- DOMAIN-SUFFIX,lkoqtvvajktpjsk.xyz,
+  - {'name': '🏁RELAY-172.64.141.75-3098', 'server': 'uicdn.cf', 'port': 80, 'type': 'vmess', 'uuid': '6fea1649-425b-4092-bf53-29792152c925', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/sshkit/fdfadsfa/63848bfe228fd/', 'headers': {'Host': 'uicdn.cf'}}}
+  - DOMAIN-SUFFIX,caiyifz.com,🛑 全球拦截
+  udp: true
+- DOMAIN-SUFFIX,gmx20.top,
+  - {'name': '🇺🇸US-38.143.66.20-7655', 'server': '38.143.66.20', 'port': 6679, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'TEzjfAYq2IjtuoS'}
 
+- DOMAIN-SUFFIX,sslbahb.top,
+  - DOMAIN-SUFFIX,logger.qingting.fm,🛑 全球拦截
+  password: ZpNDDKRu9MagNvaf
+- DOMAIN-SUFFIX,iojnask.com,
+vmess://ewogICAgImFkZCI6ICIxMDMuMTg0LjQ0LjE0OCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZGQ0MWI1Y2ItYjcyZS00YThjLWM3NWEtM2VjYzkyOGQ2ZWIzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2JsdWUiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eo8J+Hs0NOLTEwMy4xODQuNDQuMTQ4LTk1ODAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+  - '5|d*********g.com_1 #3'
+  sni: aws-kr-seoul-1.f1cflinec.com
+- DOMAIN-SUFFIX,hdslb.com,DIRECT
+- DOMAIN-SUFFIX,qhxtzwf.cn,
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989#%F0%9F%87%B1%F0%9F%87%BALU-92.38.163.53-8632
+  - DOMAIN-SUFFIX,ugdtimg.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,firebaseapp.com, 
+  - DOMAIN-SUFFIX,log.ycapp.yiche.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,bd1.pipaw.com,🛑 全球拦截
+  - DOMAIN-SUFFIX,21union.com,🛑 全球拦截
+  - {'name': '🇲🇩MD-45.145.0.31-8755', 'server': '45.145.0.31', 'port': 51348, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'DM0395LVqxyl'}
+- DOMAIN-SUFFIX,rwarwf.icu,
+- DOMAIN-SUFFIX,eraaoec.cn,
+- DOMAIN-SUFFIX,zgwsnw.xyz,
+- DOMAIN-SUFFIX,nwxaxx.xyz,
+  - DOMAIN-SUFFIX,theconversation.com,🔰 节点选择
+  tls: false
+  - DOMAIN-SUFFIX,fe1-au.imrworldwide.com,🛑 全球拦截
+  - IP-CIDR,202.10.64.0/21,DIRECT
+  ws-opts:
+- DOMAIN-SUFFIX,hciea.xyz,
+  - IP-CIDR,118.26.128.0/20,DIRECT
+- DOMAIN-SUFFIX,w9f1r.top,
+  - DOMAIN-SUFFIX,creative.1111cpc.com,🛑 全球拦截
+  - DOMAIN,n.mark.letv.com,🛑 广告拦截
+vmess://ewogICAgImFkZCI6ICJ1aWNkbi5jZiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInVpY2RuLmNmIiwKICAgICJpZCI6ICI2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvc3Noa2l0L2ZkZmFkc2ZhLzYzODQ4YmZlMjI4ZmQvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42NC4xNDEuNzUtMzA5OCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+  - DOMAIN-SUFFIX,hzaibi.com,🛑 全球拦截
+- DOMAIN-SUFFIX,kfvjdvjzhddhc.com,
+  - IP-CIDR,182.16.144.0/21,DIRECT
+vmess://ewogICAgImFkZCI6ICIxMDQuMTkuNDcuNDkiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJoazAxLmxpbmtpdG5vdy5uZXQiLAogICAgImlkIjogIjM5MTM1YTM5LWU2Y2EtNDNkZi1hMzYwLWQ4NTllZWE1OGQ4NiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4NDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTkuNDcuNDktMDcyMyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICJjb29pbmctbHV4dXJpYW50LWJsdWUuZ2xpdGNoLm1lIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiY29vaW5nLWx1eHVyaWFudC1ibHVlLmdsaXRjaC5tZSIsCiAgICAiaWQiOiAiODBlN2RkNTktYjFmYy00NWEwLTk4YmUtMTQ3OGE5YWY4OWYyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2FwaSIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuFVTLTMuODkuMjE2LjE2Mi0xNzU0IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+  cipher: auto
+- DOMAIN-SUFFIX,yhqukg.xyz,
+- DOMAIN-SUFFIX,edgekey.net,🚀 选择代理
+  - IP-CIDR,18.194.0.0/15,🚀 节点选择,no-resolve
+  proxies: *id001
+- DOMAIN-SUFFIX,fzasx.cn,
+  - DOMAIN-SUFFIX,got001.com,🎯 全球直连
+ssr://MjEyLjYwLjUuMTgwOjIyNTA2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTVhjMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
+  - {'name': '🇳🇱NL-79.132.133.38-3013', 'server': '79.132.133.38', 'port': 54458, 'type': 'vmess', 'uuid': '31b022f2-5441-4e9a-ffe7-43fee7ab0688', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}
+  - {'name': '🇬🇧GB-89.185.84.185-0820', 'server': '89.185.84.185', 'port': 12575, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'MdeeQzzQP9HTGvy3NKC9FR'}
+  - IP-CIDR,103.90.192.0/22,DIRECT
+  password: amazonskr05
+  - {'name': '🇺🇸US-142.202.48.52-7613', 'server': '142.202.48.52', 'port': 8080, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'KixLvKzwjekG00rm'}
+  - {'name': '🇺🇸US-38.75.136.135-7434', 'server': '38.75.136.135', 'port': 9102, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'e4FCWrgpkji3QY'}
+- DOMAIN-SUFFIX,bsanciv.top,
+  - DIRECT
+- DOMAIN-SUFFIX,uc9.suinidai.com.cn,
+  - IP-CIDR,222.126.178.0/23,DIRECT
+- DOMAIN-SUFFIX,jgntjtyf.icu,
+  - DOMAIN-SUFFIX,adsense.html5.qq.com,🛑 全球拦截
+  port: 443
+- DOMAIN-SUFFIX,nofizx.xyz,
+- DOMAIN-SUFFIX,w1.askwai.com,
+- DOMAIN-SUFFIX,kxm1b0u.com,
+  udp: true
+  - {name: "[SS] 🇺🇸 美国科罗拉多州布隆菲尔德市 Level3", server: service.ouluyun9803.com, port: 20003, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, udp: true}
  
 
 </pre>
