@@ -54,29 +54,12 @@
 <h2 class="h2h2">2025-SS-SSR免费节点订阅地址- </h2>
 <pre>
 
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.9.17.198:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAi6aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInY5LmhlZHVpYW4ubGluayIsICJwb3J0IjogIjMwODA5IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgInNuaSI6ICIiLCAiaG9zdCI6ICJiYWlkdS5jb20iLCAicGF0aCI6ICIvb29vbyJ9
-ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-trojan://1b57001bd214304027025a740b6cf1ac@203.198.122.194:443?allowInsecure=0&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
-trojan://BxceQaOe@58.152.30.26:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
-trojan://BxceQaOe@58.152.53.186:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
-trojan://BxceQaOe@36.150.215.248:4492?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7Ag6aaZ5rivNnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIzNi4xNTAuMjcuNzYiLCAicG9ydCI6IDQ5NTA5LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYWVkNDFmMWUtNzVlNy00MWNlLWEyZDQtMzhmNjVhNmJiYzg2In0=
-trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:4452?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:1332?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:2283?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:2173?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-trojan://BxceQaOe@36.150.215.244:2753?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-trojan://1b57001bd214304027025a740b6cf1ac@117.172.176.22:373?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
-trojan://e4e262d453466988575c397a30562337@160.16.150.76:50974?allowInsecure=1&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-trojan://BxceQaOe@36.151.251.38:25891?allowInsecure=1&sni=t.me%2Fripaojiedian#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.193:38388#%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.9.17.198:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20
-vmess://eyJ2IjogIjIiLCAicHMiOiAi6aaZ5rivNnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIzNi4xNTAuMjcuNzYiLCAicG9ydCI6ICI0OTUwOSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJhZWQ0MWYxZS03NWU3LTQxY2UtYTJkNC0zOGY2NWE2YmJjODYiLCAic25pIjogIiJ9
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2V0c0NGFrdGtiVVJOTURCSlpVOGxJeVFqWmtwQlRYUnpSVUZGVlU5d1NDOVpWMWwwV1hGRVJtNVVNRk5X@103.186.154.193:38388#%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
-vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?allowInsecure=0#US_speednode_0018
-ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZUUNTS29DRjNRYXpXOFlsdkRCV0E0@109.71.246.210:56689#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vmess://eyJhZGQiOiAiNjguMTgzLjE3OC4xMzEiLCAidiI6ICIyIiwgInBzIjogIlx1NjViMFx1NTJhMFx1NTc2MSBWMkNST1NTLkNPTSIsICJwb3J0IjogNTg2MDcsICJpZCI6ICJjMTFjMzJjYi0yN2IzLTRhZmEtYzBmMy1mYjI1MGFhNDk1OWUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3d3LjEyMzMzLm1vbnN0ZXIiLCAicGF0aCI6ICIiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiMzEuNTYuMTE3LjczIiwgInYiOiAiMiIsICJwcyI6ICJcdTRmMGFcdTY3MTcgVjJDUk9TUy5DT00iLCAicG9ydCI6IDI4NTczLCAiaWQiOiAiYWE1MjE4MzctNmJmYi00N2RkLWM4N2MtZWM3MzBhOTc0MDIwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJub25lIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.139.26.173:57456#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAidDEuNjIwNzIwLnh5eiIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg0NDMsICJpZCI6ICI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
 
 
 
@@ -84,20 +67,20 @@ ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mo
 
 
 <h2 class="h2h2">2025年clash免费节点订阅地址</h2><pre>
-[https://github.nodebest.xyz/clash-nodes-subscription-a/2025/11/update-202511.yaml
-https://github.nodebest.xyz/clash-nodes-subscription-b/2025/11/update-202511.yaml
-https://github.nodebest.xyz/clash-nodes-subscription-c/2025/11/update-202511.yaml
-https://github.nodebest.xyz/clash-nodes-subscription-d/2025/11/update-202511.yaml</pre>
+https://github.nodebest.xyz/clash-nodes-subscription-a/2025/12/update-202512.yaml
+https://github.nodebest.xyz/clash-nodes-subscription-b/2025/12/update-202512.yaml
+https://github.nodebest.xyz/clash-nodes-subscription-c/2025/12/update-202512.yaml
+https://github.nodebest.xyz/clash-nodes-subscription-d/2025/12/update-202512.yaml</pre>
 <h2 class="h2h2"> 2025年v2ray免费节点订阅地址</h2>
 <pre>
-https://github.nodebest.xyz/v2ray-nodes-subscription-a/2025/11/update-202511.txt
-https://github.nodebest.xyz/v2ray-nodes-subscription-b/2025/11/update-202511.txt
+https://github.nodebest.xyz/v2ray-nodes-subscription-a/2025/12/update-202512.txt
+https://github.nodebest.xyz/v2ray-nodes-subscription-b/2025/12/update-202512.txt
 </pre>
 
 <h2 class="h2h2">2025年通用base64订阅地址</h2>
-<pre>https://github.nodebest.xyz/base64-nodes-subscription/2025/11/update-202511.txt</pre>
+<pre>https://github.nodebest.xyz/base64-nodes-subscription/2025/12/update-202512.txt</pre>
 <h2 class="h2h2">2025年sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://github.nodebest.xyz/sing-box-nodes-subscription/2025/11/update-202511.json </pre>
+<pre>https://github.nodebest.xyz/sing-box-nodes-subscription/2025/12/update-202512.json </pre>
 <hr />
 
 
@@ -112,7 +95,7 @@ https://github.nodebest.xyz/v2ray-nodes-subscription-b/2025/11/update-202511.txt
 
 <h3 class="h3h3">clash订阅开源节选</h3><pre>
 
-Update: 2025-11-03
+Update: 2025-12-02
  
 
   - IP-CIDR,45.113.200.0/21,DIRECT
