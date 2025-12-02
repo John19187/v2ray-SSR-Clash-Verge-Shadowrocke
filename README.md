@@ -1,7 +1,7 @@
 # 2025年免费高速（23.6M/S）v2ray、sing-box、Clash、Verge、SSR、Shadowrocke-小火箭机场节点订阅指南
 
 
-本文将为您详细介绍如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
+本文将为您详细介绍2025年如何免费订阅v2ray、sing-box、Clash、Verge、SSR以及Shadowrocke-小火箭等常用的机场节点，本文每日更新不断，以便帮助您在网络中畅行无阻，希望本指南能为您提供便捷的使用体验.
 
 
 ![免费节点推荐图片10](https://github.com/user-attachments/assets/3bcda085-3c94-4989-99b9-b43181b8cec7)
@@ -27,11 +27,11 @@
 
 📲 **[[备用2](https://cdn.xxxlsop3.com/#/register?code=rgfjkvg)]**
 
-📟 月付18元100GB、23元300GB、35元800GB、
+📟 月付18元100GB、38元300GB、68元500GB、
 
 📟 年付促销58元600GB、88元2300GB、138元3200GB、
 
-📟 一次性流量(折后)255元4000G
+📟 一次性流量48元200G、98元500G
 
 💥 针对亚洲优化的IEPL中转方案
 
@@ -488,7 +488,7 @@ Shadowrocket是一款基于iOS平台的网络代理工具，专为移动设备�
 <hr />
 
 ***
-[**» 进入性价比机场-优惠活动中-高速/稳定/推荐-月付18元200GB、23元300GB、35元800GB、送小火箭ID、小白专属客户端，1秒上手**](https://user.xyfast.xyz/#/register?code=sxdxA8VV) 顺滑4K / 大文件 / 高质量流媒体解锁/稳定支持AI服务...以其出色的性价比和稳定性与优质的服务获得众多外贸公司、科研人员、博主一致好评，复购率很高。
+[**» 进入性价比机场-优惠活动中-高速/稳定/推荐-月付18元100GB、一次性流量48元200G、98元500G、送小火箭ID、小白专属客户端，1秒上手**](https://user.xyfast.xyz/#/register?code=sxdxA8VV) 顺滑4K / 大文件 / 高质量流媒体解锁/稳定支持AI服务...以其出色的性价比和稳定性与优质的服务获得众多外贸公司、科研人员、博主一致好评，复购率很高。
 
 [**» 进入便宜机场-量大价低-年付58元600GB、88元2300GB、**-送小火箭ID](https://user.xyfast.xyz/#/register?code=sxdxA8VV) 流媒体、AI工具等高流量需求，长期备用流量
 ***
