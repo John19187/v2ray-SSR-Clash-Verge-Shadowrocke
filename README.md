@@ -21,11 +21,11 @@
 
 ### 稳定性价比机场：送小火箭ID、专属客户端
 
-🖥 **[[官网](https://api.xxxlsop.com/#/register?code=RAsqP5M1)]**
+🖥 **[[官网](https://www.xyfast.xyz/#/register?code=RAsqP5M1)]**
 
-📲 **[[备用1](https://user.xyfast.xyz/#/register?code=RAsqP5M1)]**
+📲 **[[官网1](https://api.xxxlsop.com/#/register?code=RAsqP5M1)]**
 
-📲 **[[备用2](https://cdn.xxxlsop3.com/#/register?code=RAsqP5M1)]**
+📲 **[[官网2](https://cdn.xxxlsop3.com/#/register?code=RAsqP5M1)]**
 
 📟 月付18元100GB、38元300GB、68元500GB、
 
@@ -53,7 +53,7 @@
 
 <h2 class="h2h2">2025-SS-SSR免费节点订阅地址- </h2>
 <pre>
-
+ss://YWVzLTEyOC1nY206NTdiYzBjMDQtODE4NC00OGY1LTkwNmItODk3ZDA5NWVkNDQ1@liubu9.singdns.com:17459#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZUUNTS29DRjNRYXpXOFlsdkRCV0E0@109.71.246.210:56689#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 vmess://eyJhZGQiOiAiNjguMTgzLjE3OC4xMzEiLCAidiI6ICIyIiwgInBzIjogIlx1NjViMFx1NTJhMFx1NTc2MSBWMkNST1NTLkNPTSIsICJwb3J0IjogNTg2MDcsICJpZCI6ICJjMTFjMzJjYi0yN2IzLTRhZmEtYzBmMy1mYjI1MGFhNDk1OWUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3d3LjEyMzMzLm1vbnN0ZXIiLCAicGF0aCI6ICIiLCAidGxzIjogInRscyJ9
 vmess://eyJhZGQiOiAiMzEuNTYuMTE3LjczIiwgInYiOiAiMiIsICJwcyI6ICJcdTRmMGFcdTY3MTcgVjJDUk9TUy5DT00iLCAicG9ydCI6IDI4NTczLCAiaWQiOiAiYWE1MjE4MzctNmJmYi00N2RkLWM4N2MtZWM3MzBhOTc0MDIwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJub25lIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
@@ -2427,9 +2427,9 @@ Shadowrocket是一款基于iOS平台的网络代理工具，专为移动设备�
 <hr />
 
 ***
-[**» 进入性价比机场-优惠活动中-高速/稳定/推荐-月付18元100GB、一次性流量48元200G、98元500G、限时年付56元600GB、88元2400GB；送小火箭ID、小白专属客户端，1秒上手**](https://api.xyfast.xyz/#/register?code=RAsqP5M1) 顺滑4K / 大文件 / 高质量流媒体解锁/稳定支持AI服务...以其出色的性价比和稳定性与优质的服务获得众多外贸公司、科研人员、博主一致好评，复购率很高。
+[**» 进入性价比机场-优惠活动中-高速/稳定/推荐-月付18元100GB、一次性流量48元200G、98元500G、限时年付56元600GB、88元2400GB；送小火箭ID、小白专属客户端，1秒上手**](https://wwww.xyfast.xyz/#/register?code=RAsqP5M1) 顺滑4K / 大文件 / 高质量流媒体解锁/稳定支持AI服务...以其出色的性价比和稳定性与优质的服务获得众多外贸公司、科研人员、博主一致好评，复购率很高。
 
-[**» 进入便宜机场-量大价低-年付88元600GB、118元2300GB、**-送小火箭ID](https://user.xyfast.xyz/#/register?code=RAsqP5M1) 流媒体、AI工具等高流量需求，长期备用流量
+[**» 进入便宜机场-量大价低-年付88元600GB、118元2300GB、**-送小火箭ID](https://www.xyfast.xyz/#/register?code=RAsqP5M1) 流媒体、AI工具等高流量需求，长期备用流量
 ***
 
 <hr />
