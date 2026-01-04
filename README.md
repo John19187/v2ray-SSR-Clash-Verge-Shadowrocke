@@ -21,13 +21,13 @@
 
 ### 稳定性价比机场：送小火箭ID、专属客户端
 
-🖥 **[[官网](https://www.xyfast.xyz/#/register?code=RAsqP5M1)]**
+🖥 **[[官网](https://user.xyfast.xyz/#/register?code=RAsqP5M1)]**
 
 📲 **[[官网1](https://api.xxxlsop.com/#/register?code=RAsqP5M1)]**
 
 📲 **[[官网2](https://cdn.xxxlsop3.com/#/register?code=RAsqP5M1)]**
 
-📟 月付18元100GB、38元300GB、68元500GB、
+📟 月付18元100GB、38元300GB、58元500GB、
 
 📟 年付促销76元600GB（约每月 6元）；116元1200GB（约每月 9元）；146元1800GB（约每月 12元）；176元2400GB（约每月 14元）；226元3600GB（约每月 18元）
 
@@ -61,6 +61,9 @@
 
 <h2 class="h2h2">2026-SS-SSR免费节点订阅地址- </h2>
 <pre>
+
+trojan://03c765f2-8969-472d-8984-250f39e9e134@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+vmess://eyJhZGQiOiAiY2YuZm92aS50ayIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDQ0MywgImlkIjogImJmNjc0MzdlLTZjOTAtNDVjYS1hYmMyLWM3MjQwYTVjZTJhYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmb3hsdXguZm92aS50ayIsICJwYXRoIjogIi9laXNhc3FhIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAic2N5IjogIiJ9
 vmess://eyJhZGQiOiAiY2cxYzE2LndhaW1hb2pkLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFx1NGYyNlx1NjU2NkRpZ2l0YWxPY2Vhblx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyIsICJwb3J0IjogNDQzLCAiaWQiOiAiNmZjODRmZDItMDQ0Mi00MDVmLWJhYTctNmRhZjY2YjgxYTEwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImNnMWMxNi53YWltYW9qZC5jb20iLCAicGF0aCI6ICIvYXBpL3YxL2dyYXBocWwiLCAidGxzIjogInRscyJ9
 vmess://eyJhZGQiOiAiMzguNTQuOTguMTEwIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgXHU1MzRlXHU3NmRiXHU5ODdmQ29nZW50XHU5MDFhXHU0ZmUxXHU1MTZjXHU1M2Y4IiwgInBvcnQiOiAyMDUyLCAiaWQiOiAiNjY1ZDliOGYtMTUzZC00OTA3LWFkYWMtZGUxMmFmZDljODUxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJub25lIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICJ0bHMifQ==
 
@@ -68,28 +71,24 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjki
 vmess://eyJhZGQiOiAic3k0LjYyMDcyMC54eXoiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA0NDMsICJpZCI6ICI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAic3k0LjYyMDcyMC54eXoiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
 trojan://3e791d86-b43c-46c7-a3a9-dc2d2aff0db2@green2.cdntencentmusic.com:35501?sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
 ss://YWVzLTEyOC1nY206NTdiYzBjMDQtODE4NC00OGY1LTkwNmItODk3ZDA5NWVkNDQ1@liubu9.singdns.com:17459#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZUUNTS29DRjNRYXpXOFlsdkRCV0E0@109.71.246.210:56689#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vmess://eyJhZGQiOiAiNjguMTgzLjE3OC4xMzEiLCAidiI6ICIyIiwgInBzIjogIlx1NjViMFx1NTJhMFx1NTc2MSBWMkNST1NTLkNPTSIsICJwb3J0IjogNTg2MDcsICJpZCI6ICJjMTFjMzJjYi0yN2IzLTRhZmEtYzBmMy1mYjI1MGFhNDk1OWUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3d3LjEyMzMzLm1vbnN0ZXIiLCAicGF0aCI6ICIiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiMzEuNTYuMTE3LjczIiwgInYiOiAiMiIsICJwcyI6ICJcdTRmMGFcdTY3MTcgVjJDUk9TUy5DT00iLCAicG9ydCI6IDI4NTczLCAiaWQiOiAiYWE1MjE4MzctNmJmYi00N2RkLWM4N2MtZWM3MzBhOTc0MDIwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJub25lIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+
 
 </pre>                                                                   
 
 
 <h2 class="h2h2">2026年clash免费节点订阅地址</h2><pre>
-https://github.nodebest.xyz/clash-nodes-subscription-a/2026/01/update-202612.yaml
-https://github.nodebest.xyz/clash-nodes-subscription-b/2026/01/update-202612.yaml
-https://github.nodebest.xyz/clash-nodes-subscription-c/2026/01/update-202612.yaml
-https://github.nodebest.xyz/clash-nodes-subscription-d/2026/01/update-202612.yaml</pre>
+https://github.nodebest.xyz/clash-nodes-subscription-c/2026/01/update-202601.yaml
+https://github.nodebest.xyz/clash-nodes-subscription-d/2026/01/update-202601.yaml</pre>
 <h2 class="h2h2"> 2026年v2ray免费节点订阅地址</h2>
 <pre>
-https://github.nodebest.xyz/v2ray-nodes-subscription-a/2026/01/update-202612.txt
-https://github.nodebest.xyz/v2ray-nodes-subscription-b/2026/01/update-202612.txt
+https://github.nodebest.xyz/v2ray-nodes-subscription-a/2026/01/update-202601.txt
+https://github.nodebest.xyz/v2ray-nodes-subscription-b/2026/01/update-202601.txt
 </pre>
 
 <h2 class="h2h2">2026年通用base64订阅地址</h2>
-<pre>https://github.nodebest.xyz/base64-nodes-subscription/2026/01/update-202612.txt</pre>
+<pre>https://github.nodebest.xyz/base64-nodes-subscription/2026/01/update-202601.txt</pre>
 <h2 class="h2h2">2026年sing-box免费订阅地址（适用于 1.8.0 以上）</h2>
-<pre>https://github.nodebest.xyz/sing-box-nodes-subscription/2026/01/update-202612.json </pre>
+<pre>https://github.nodebest.xyz/sing-box-nodes-subscription/2026/01/update-202601.json </pre>
 <hr />
 
 
