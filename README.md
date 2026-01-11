@@ -21,7 +21,7 @@
 
 ### 稳定性价比机场：送小火箭ID、专属客户端
 
-🖥 **[[官网](https://user.xyfast.xyz/#/register?code=RAsqP5M1)]**
+🖥 **[[官网](https://user.xing-yun-1.com/#/register?code=RAsqP5M1)]**
 
 📲 **[[官网1](https://api.xxxlsop.com/#/register?code=RAsqP5M1)]**
 
@@ -31,7 +31,7 @@
 
 📟 年付促销76元600GB（约每月 6元）；116元1200GB（约每月 9元）；146元1800GB（约每月 12元）；176元2400GB（约每月 14元）；226元3600GB（约每月 18元）
 
-📟 一次性流量48元200G、118元500G、279元1500GB
+📟 一次性流量48元200G、108元500G、279元1500GB
 
 ####  圣诞 & 元旦限时活动
 
